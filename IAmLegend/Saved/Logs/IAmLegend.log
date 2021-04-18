@@ -1846,3 +1846,1722 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.18-16.12.35:203][791]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level99E6C1BB45221A08C67AE48610CD2BD2.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
 [2021.04.18-16.12.35:215][791]AssetCheck: New page: Asset Save: NewYork_Level
 [2021.04.18-16.12.35:215][791]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.18-16.13.50:646][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2021.04.18-16.13.50:847][299]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level411E9441435922740C6BD7AD8A3D3347.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.18-16.13.50:867][299]AssetCheck: New page: Asset Save: NewYork_Level
+[2021.04.18-16.13.50:867][299]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.18-16.14.14:156][778]Cmd: DUPLICATE
+[2021.04.18-16.14.14:156][778]Cmd: ACTOR DUPLICATE
+[2021.04.18-16.15.20:747][349]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2021.04.18-16.15.20:961][349]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level2D7A487F4B484097947D389C29998A04.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.18-16.15.20:987][349]AssetCheck: New page: Asset Save: NewYork_Level
+[2021.04.18-16.15.20:987][349]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.18-16.15.51:747][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2021.04.18-16.15.51:955][  7]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level52A2F3F7463CAD575EBC6A94613F1BF3.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.18-16.15.51:970][  7]AssetCheck: New page: Asset Save: NewYork_Level
+[2021.04.18-16.15.51:970][  7]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.18-16.16.24:261][830]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2021.04.18-16.16.24:470][830]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level90946CD743FCF6C12A0933A6E6A59610.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.18-16.16.24:485][830]AssetCheck: New page: Asset Save: NewYork_Level
+[2021.04.18-16.16.24:485][830]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.18-16.17.01:032][153]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MatPreviewMesh_01)
+[2021.04.18-16.17.01:791][240]Cmd: DELETE
+[2021.04.18-16.17.01:791][240]Cmd: ACTOR DELETE
+[2021.04.18-16.17.01:826][240]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.18-16.17.01:839][240]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2021.04.18-16.17.01:843][240]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2021.04.18-16.17.08:858][ 78]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (City_test)
+[2021.04.18-16.17.28:702][406]Cmd: DUPLICATE
+[2021.04.18-16.17.28:702][406]Cmd: ACTOR DUPLICATE
+[2021.04.18-16.17.56:249][277]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2021.04.18-16.17.56:466][277]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level67A28D454CE24673D5BF9F91440F46C8.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.18-16.17.56:494][277]AssetCheck: New page: Asset Save: NewYork_Level
+[2021.04.18-16.17.56:494][277]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.18-16.18.23:243][456]Cmd: DUPLICATE
+[2021.04.18-16.18.23:243][456]Cmd: ACTOR DUPLICATE
+[2021.04.18-16.18.35:597][748]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2021.04.18-16.18.35:811][748]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level034477074C11669284ED3282AF5A2D60.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.18-16.18.35:837][748]AssetCheck: New page: Asset Save: NewYork_Level
+[2021.04.18-16.18.35:837][748]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.18-16.18.46:907][980]Cmd: POLY SELECT ALL
+[2021.04.18-16.18.48:653][159]Cmd: POLY TEXSCALE  UU=1.000000 VV=1.000000
+[2021.04.18-16.18.49:588][260]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh)
+[2021.04.18-16.18.50:780][394]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2021.04.18-16.18.50:998][394]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level6BABEE9B470B24545E85EE9FBA564501.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.18-16.18.51:011][394]AssetCheck: New page: Asset Save: NewYork_Level
+[2021.04.18-16.18.51:011][394]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.18-16.25.34:660][342]Cmd: TRANSACTION UNDO
+[2021.04.18-16.25.34:660][342]LogEditorTransaction: Undo Move Actors
+[2021.04.18-16.25.34:849][342]Cmd: TRANSACTION UNDO
+[2021.04.18-16.25.34:849][342]LogEditorTransaction: Undo Move Actors
+[2021.04.18-16.25.35:080][342]Cmd: TRANSACTION UNDO
+[2021.04.18-16.25.35:080][342]LogEditorTransaction: Undo Move Actors
+[2021.04.18-16.25.35:288][342]Cmd: TRANSACTION UNDO
+[2021.04.18-16.25.35:288][342]LogEditorTransaction: Undo Move Actors
+[2021.04.18-16.25.36:500][452]Cmd: TRANSACTION UNDO
+[2021.04.18-16.25.36:500][452]LogEditorTransaction: Undo Move Actors
+[2021.04.18-16.25.36:876][472]Cmd: TRANSACTION UNDO
+[2021.04.18-16.25.36:876][472]LogEditorTransaction: Undo Scale Actors
+[2021.04.18-16.26.09:386][244]Cmd: DELETE
+[2021.04.18-16.26.09:386][244]Cmd: ACTOR DELETE
+[2021.04.18-16.26.09:443][244]LogEditorActor: Deleted Actor: Brush
+[2021.04.18-16.26.09:464][244]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2021.04.18-16.26.09:619][244]LogEditorActor: Deleted 1 Actors (0.233 secs)
+[2021.04.18-16.26.13:901][714]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.04.18-16.26.25:329][  5]Cmd: TRANSACTION UNDO
+[2021.04.18-16.26.25:329][  5]LogEditorTransaction: Undo Move Actors
+[2021.04.18-16.27.41:441][874]Cmd: DUPLICATE
+[2021.04.18-16.27.41:441][874]Cmd: ACTOR DUPLICATE
+[2021.04.18-16.27.56:007][402]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.04.18-16.27.56:673][458]Cmd: DELETE
+[2021.04.18-16.27.56:673][458]Cmd: ACTOR DELETE
+[2021.04.18-16.27.56:735][458]LogEditorActor: Deleted Actor: Brush
+[2021.04.18-16.27.56:757][458]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2021.04.18-16.27.56:915][458]LogEditorActor: Deleted 1 Actors (0.242 secs)
+[2021.04.18-16.27.58:158][582]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.04.18-16.28.38:784][769]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2021.04.18-16.28.39:016][769]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level0A2B724F42AC2BDA7729BBACF41BECB9.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.18-16.28.39:050][769]AssetCheck: New page: Asset Save: NewYork_Level
+[2021.04.18-16.28.39:050][769]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.18-16.28.57:885][811]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.04.18-16.29.02:636][333]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.04.18-16.29.10:156][135]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.04.18-16.29.10:382][135]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level83C82CA3473799482CD0FA8E16D78D54.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.18-16.29.10:406][135]AssetCheck: New page: Asset Save: NewYork_Level
+[2021.04.18-16.29.10:406][135]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.18-16.29.14:946][655]Cmd: DUPLICATE
+[2021.04.18-16.29.14:946][655]Cmd: ACTOR DUPLICATE
+[2021.04.18-16.29.24:245][600]Cmd: TRANSACTION UNDO
+[2021.04.18-16.29.24:245][600]LogEditorTransaction: Undo Scale Actors
+[2021.04.18-16.29.41:189][426]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2021.04.18-16.29.41:416][426]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level8433DCF9473C997C857AFE8CEDD8B26D.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.18-16.29.41:449][426]AssetCheck: New page: Asset Save: NewYork_Level
+[2021.04.18-16.29.41:449][426]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.18-16.30.05:837][379]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2021.04.18-16.30.06:060][379]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level9F3DC6A44918DB3ACF5E17B3273FA597.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.18-16.30.06:078][379]AssetCheck: New page: Asset Save: NewYork_Level
+[2021.04.18-16.30.06:078][379]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.18-16.30.16:823][587]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.04.18-16.30.50:824][192]Cmd: TRANSACTION UNDO
+[2021.04.18-16.30.50:824][192]LogEditorTransaction: Undo Scale Actors
+[2021.04.18-16.30.54:766][581]Cmd: TRANSACTION UNDO
+[2021.04.18-16.30.54:766][581]LogEditorTransaction: Undo Scale Actors
+[2021.04.18-16.31.00:993][214]Cmd: DUPLICATE
+[2021.04.18-16.31.00:993][214]Cmd: ACTOR DUPLICATE
+[2021.04.18-16.31.29:407][289]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.04.18-16.31.51:054][498]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2021.04.18-16.31.51:281][498]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_LevelD38782BF453F5D08C5118091D08680AB.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.18-16.31.51:315][498]AssetCheck: New page: Asset Save: NewYork_Level
+[2021.04.18-16.31.51:315][498]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.18-16.32.32:909][869]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2021.04.18-16.32.33:138][869]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level17C46AA845490F01A0DF90816BBC6B84.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.18-16.32.33:170][869]AssetCheck: New page: Asset Save: NewYork_Level
+[2021.04.18-16.32.33:170][869]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.18-16.32.48:352][431]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2021.04.18-16.32.48:579][431]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level4E9974E04ABD9CAE13C0AE8FE4A7D13C.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.18-16.32.48:598][431]AssetCheck: New page: Asset Save: NewYork_Level
+[2021.04.18-16.32.48:598][431]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.18-16.32.53:195][981]Cmd: DUPLICATE
+[2021.04.18-16.32.53:195][981]Cmd: ACTOR DUPLICATE
+[2021.04.18-16.33.47:325][250]Cmd: DUPLICATE
+[2021.04.18-16.33.47:325][250]Cmd: ACTOR DUPLICATE
+[2021.04.18-16.34.13:936][947]Cmd: DUPLICATE
+[2021.04.18-16.34.13:936][947]Cmd: ACTOR DUPLICATE
+[2021.04.18-16.34.32:243][872]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.04.18-16.34.37:525][425]Cmd: TRANSACTION UNDO
+[2021.04.18-16.34.37:525][425]LogEditorTransaction: Undo Rotate Actors
+[2021.04.18-16.34.39:120][554]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.04.18-16.34.39:348][554]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_LevelF6D011544DA89A2F87DA50983E8F1E3C.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.18-16.34.39:376][554]AssetCheck: New page: Asset Save: NewYork_Level
+[2021.04.18-16.34.39:376][554]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.18-16.34.42:064][869]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.18-16.34.42:068][869]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.18-16.34.42:068][869]PIE: New page: PIE session: NewYork_Level (Apr 18, 2021, 8:34:42 PM)
+[2021.04.18-16.34.42:100][869]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.18-16.34.42:186][869]LogPlayLevel: PIE: StaticDuplicateObject took: (0.085686s)
+[2021.04.18-16.34.42:187][869]LogAIModule: Creating AISystem for world NewYork_Level
+[2021.04.18-16.34.42:187][869]LogPlayLevel: PIE: World Init took: (0.001053s)
+[2021.04.18-16.34.42:187][869]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewYork_Level.NewYork_Level to /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level (0.086913s)
+[2021.04.18-16.34.42:203][869]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2021.04.18-16.34.42:210][869]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2021.04.18-16.34.42:210][869]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.18-16.34.42:210][869]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.18-16.34.42:210][869]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.18-16.34.42:210][869]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.18-16.34.42:210][869]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.18-16.34.42:210][869]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.18-16.34.42:210][869]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.18-16.34.42:210][869]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.18-16.34.42:211][869]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.18-16.34.42:211][869]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.18-16.34.42:213][869]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.18-16.34.42:213][869]LogAudioMixer: Display: 1: FrontRight
+[2021.04.18-16.34.42:221][869]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.04.18-16.34.42:221][869]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.18-16.34.42:221][869]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.18-16.34.42:222][869]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.18-16.34.42:222][869]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.18-16.34.42:222][869]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.18-16.34.42:222][869]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.18-16.34.42:232][869]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.18-16.34.42:232][869]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.18-16.34.42:232][869]LogInit: FAudioDevice initialized.
+[2021.04.18-16.34.42:232][869]LogAudio: Display: Audio Device (ID: 12) registered with world 'NewYork_Level'.
+[2021.04.18-16.34.42:239][869]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.18-16.34.42:244][869]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level up for play (max tick rate 0) at 2021.04.18-18.34.42
+[2021.04.18-16.34.42:244][869]LogWorld: Bringing up level for play took: 0.004564
+[2021.04.18-16.34.42:244][869]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.04.18-16.34.42:248][869]PIE: Server logged in
+[2021.04.18-16.34.42:249][869]PIE: Play in editor total start time 0.181 seconds.
+[2021.04.18-16.35.27:291][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-16.35.27:291][263]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.18-16.35.27:292][263]LogWorld: UWorld::CleanupWorld for NewYork_Level, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-16.35.27:292][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-16.35.27:303][263]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.18-16.35.27:318][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-16.35.27:328][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-16.35.27:329][263]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.18-16.35.27:330][263]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.18-16.35.27:347][263]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2021.04.18-16.35.27:377][264]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.04.18-16.35.51:647][370]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.18-16.35.51:651][370]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.18-16.35.51:652][370]PIE: New page: PIE session: NewYork_Level (Apr 18, 2021, 8:35:51 PM)
+[2021.04.18-16.35.51:690][370]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.18-16.35.51:777][370]LogPlayLevel: PIE: StaticDuplicateObject took: (0.086342s)
+[2021.04.18-16.35.51:777][370]LogAIModule: Creating AISystem for world NewYork_Level
+[2021.04.18-16.35.51:778][370]LogPlayLevel: PIE: World Init took: (0.001034s)
+[2021.04.18-16.35.51:778][370]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewYork_Level.NewYork_Level to /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level (0.087566s)
+[2021.04.18-16.35.51:790][370]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2021.04.18-16.35.51:793][370]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2021.04.18-16.35.51:793][370]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.18-16.35.51:793][370]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.18-16.35.51:793][370]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.18-16.35.51:793][370]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.18-16.35.51:793][370]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.18-16.35.51:793][370]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.18-16.35.51:793][370]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.18-16.35.51:793][370]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.18-16.35.51:794][370]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.18-16.35.51:794][370]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.18-16.35.51:796][370]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.18-16.35.51:796][370]LogAudioMixer: Display: 1: FrontRight
+[2021.04.18-16.35.51:804][370]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.04.18-16.35.51:804][370]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.18-16.35.51:804][370]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.18-16.35.51:804][370]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.18-16.35.51:804][370]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.18-16.35.51:804][370]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.18-16.35.51:804][370]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.18-16.35.51:816][370]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.18-16.35.51:816][370]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.18-16.35.51:816][370]LogInit: FAudioDevice initialized.
+[2021.04.18-16.35.51:816][370]LogAudio: Display: Audio Device (ID: 13) registered with world 'NewYork_Level'.
+[2021.04.18-16.35.51:824][370]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.18-16.35.51:830][370]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level up for play (max tick rate 0) at 2021.04.18-18.35.51
+[2021.04.18-16.35.51:830][370]LogWorld: Bringing up level for play took: 0.004722
+[2021.04.18-16.35.51:831][370]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.04.18-16.35.51:834][370]PIE: Server logged in
+[2021.04.18-16.35.51:835][370]PIE: Play in editor total start time 0.183 seconds.
+[2021.04.18-16.36.22:512][ 38]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-16.36.22:512][ 38]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.18-16.36.22:512][ 38]LogWorld: UWorld::CleanupWorld for NewYork_Level, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-16.36.22:513][ 38]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-16.36.22:518][ 38]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.18-16.36.22:533][ 38]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-16.36.22:544][ 38]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.18-16.36.22:545][ 38]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.18-16.36.22:546][ 38]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.18-16.36.22:558][ 38]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-16.36.22:562][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2021.04.18-16.36.22:591][ 39]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.04.18-16.36.33:573][245]Cmd: DUPLICATE
+[2021.04.18-16.36.33:573][245]Cmd: ACTOR DUPLICATE
+[2021.04.18-16.37.09:667][  2]Cmd: DUPLICATE
+[2021.04.18-16.37.09:667][  2]Cmd: ACTOR DUPLICATE
+[2021.04.18-16.37.15:278][550]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.18-16.37.15:282][550]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.18-16.37.15:282][550]PIE: New page: PIE session: NewYork_Level (Apr 18, 2021, 8:37:15 PM)
+[2021.04.18-16.37.15:310][550]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.18-16.37.15:398][550]LogPlayLevel: PIE: StaticDuplicateObject took: (0.087551s)
+[2021.04.18-16.37.15:398][550]LogAIModule: Creating AISystem for world NewYork_Level
+[2021.04.18-16.37.15:399][550]LogPlayLevel: PIE: World Init took: (0.001048s)
+[2021.04.18-16.37.15:399][550]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewYork_Level.NewYork_Level to /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level (0.088749s)
+[2021.04.18-16.37.15:423][550]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2021.04.18-16.37.15:435][550]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2021.04.18-16.37.15:435][550]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.18-16.37.15:435][550]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.18-16.37.15:435][550]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.18-16.37.15:435][550]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.18-16.37.15:435][550]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.18-16.37.15:435][550]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.18-16.37.15:435][550]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.18-16.37.15:435][550]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.18-16.37.15:436][550]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.18-16.37.15:436][550]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.18-16.37.15:438][550]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.18-16.37.15:438][550]LogAudioMixer: Display: 1: FrontRight
+[2021.04.18-16.37.15:446][550]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.04.18-16.37.15:447][550]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.18-16.37.15:447][550]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.18-16.37.15:447][550]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.18-16.37.15:448][550]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.18-16.37.15:448][550]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.18-16.37.15:448][550]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.18-16.37.15:459][550]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.18-16.37.15:459][550]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.18-16.37.15:459][550]LogInit: FAudioDevice initialized.
+[2021.04.18-16.37.15:459][550]LogAudio: Display: Audio Device (ID: 14) registered with world 'NewYork_Level'.
+[2021.04.18-16.37.15:469][550]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.18-16.37.15:475][550]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level up for play (max tick rate 0) at 2021.04.18-18.37.15
+[2021.04.18-16.37.15:475][550]LogWorld: Bringing up level for play took: 0.005096
+[2021.04.18-16.37.15:475][550]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.04.18-16.37.15:478][550]PIE: Server logged in
+[2021.04.18-16.37.15:479][550]PIE: Play in editor total start time 0.198 seconds.
+[2021.04.18-16.37.17:201][746]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-16.37.17:201][746]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.18-16.37.17:202][746]LogWorld: UWorld::CleanupWorld for NewYork_Level, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-16.37.17:202][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-16.37.17:211][746]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.18-16.37.17:226][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-16.37.17:241][746]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.18-16.37.17:242][746]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.18-16.37.17:243][746]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.18-16.37.17:255][746]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-16.37.17:260][746]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2021.04.18-16.37.17:288][747]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.04.18-16.37.32:853][455]Cmd: DUPLICATE
+[2021.04.18-16.37.32:853][455]Cmd: ACTOR DUPLICATE
+[2021.04.18-16.37.41:586][288]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.18-16.37.41:590][288]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.18-16.37.41:590][288]PIE: New page: PIE session: NewYork_Level (Apr 18, 2021, 8:37:41 PM)
+[2021.04.18-16.37.41:621][288]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.18-16.37.41:710][288]LogPlayLevel: PIE: StaticDuplicateObject took: (0.089398s)
+[2021.04.18-16.37.41:711][288]LogAIModule: Creating AISystem for world NewYork_Level
+[2021.04.18-16.37.41:711][288]LogPlayLevel: PIE: World Init took: (0.001067s)
+[2021.04.18-16.37.41:711][288]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewYork_Level.NewYork_Level to /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level (0.090685s)
+[2021.04.18-16.37.41:732][288]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2021.04.18-16.37.41:739][288]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2021.04.18-16.37.41:739][288]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.18-16.37.41:739][288]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.18-16.37.41:739][288]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.18-16.37.41:739][288]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.18-16.37.41:739][288]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.18-16.37.41:739][288]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.18-16.37.41:739][288]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.18-16.37.41:739][288]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.18-16.37.41:740][288]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.18-16.37.41:740][288]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.18-16.37.41:742][288]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.18-16.37.41:742][288]LogAudioMixer: Display: 1: FrontRight
+[2021.04.18-16.37.41:749][288]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.04.18-16.37.41:750][288]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.18-16.37.41:750][288]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.18-16.37.41:750][288]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.18-16.37.41:750][288]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.18-16.37.41:750][288]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.18-16.37.41:750][288]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.18-16.37.41:761][288]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.18-16.37.41:761][288]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.18-16.37.41:761][288]LogInit: FAudioDevice initialized.
+[2021.04.18-16.37.41:761][288]LogAudio: Display: Audio Device (ID: 15) registered with world 'NewYork_Level'.
+[2021.04.18-16.37.41:769][288]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.18-16.37.41:774][288]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level up for play (max tick rate 0) at 2021.04.18-18.37.41
+[2021.04.18-16.37.41:774][288]LogWorld: Bringing up level for play took: 0.004563
+[2021.04.18-16.37.41:774][288]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.04.18-16.37.41:778][288]PIE: Server logged in
+[2021.04.18-16.37.41:779][288]PIE: Play in editor total start time 0.189 seconds.
+[2021.04.18-16.37.44:071][554]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-16.37.44:071][554]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.18-16.37.44:072][554]LogWorld: UWorld::CleanupWorld for NewYork_Level, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-16.37.44:072][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-16.37.44:077][554]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.18-16.37.44:095][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-16.37.44:109][554]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-16.37.44:110][554]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.18-16.37.44:111][554]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.18-16.37.44:126][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2021.04.18-16.37.44:155][555]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.04.18-16.37.46:531][810]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2021.04.18-16.37.48:863][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.04.18-16.37.49:096][ 66]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_LevelCEF643E442AEB0896F04CBA6FDD72065.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.18-16.37.49:123][ 66]AssetCheck: New page: Asset Save: NewYork_Level
+[2021.04.18-16.37.49:123][ 66]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.18-16.37.50:121][167]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.04.18-16.37.52:821][459]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.04.18-16.37.54:255][628]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.04.18-16.37.55:728][784]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.04.18-16.37.56:591][866]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.04.18-16.37.58:991][152]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.04.18-16.38.00:160][287]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.18-16.38.00:164][287]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.18-16.38.00:164][287]PIE: New page: PIE session: NewYork_Level (Apr 18, 2021, 8:38:00 PM)
+[2021.04.18-16.38.00:201][287]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.18-16.38.00:290][287]LogPlayLevel: PIE: StaticDuplicateObject took: (0.089633s)
+[2021.04.18-16.38.00:291][287]LogAIModule: Creating AISystem for world NewYork_Level
+[2021.04.18-16.38.00:292][287]LogPlayLevel: PIE: World Init took: (0.001182s)
+[2021.04.18-16.38.00:292][287]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewYork_Level.NewYork_Level to /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level (0.090993s)
+[2021.04.18-16.38.00:308][287]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2021.04.18-16.38.00:314][287]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2021.04.18-16.38.00:314][287]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.18-16.38.00:314][287]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.18-16.38.00:314][287]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.18-16.38.00:314][287]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.18-16.38.00:314][287]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.18-16.38.00:314][287]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.18-16.38.00:314][287]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.18-16.38.00:314][287]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.18-16.38.00:314][287]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.18-16.38.00:314][287]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.18-16.38.00:316][287]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.18-16.38.00:316][287]LogAudioMixer: Display: 1: FrontRight
+[2021.04.18-16.38.00:324][287]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.04.18-16.38.00:324][287]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.18-16.38.00:324][287]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.18-16.38.00:324][287]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.18-16.38.00:324][287]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.18-16.38.00:324][287]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.18-16.38.00:324][287]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.18-16.38.00:336][287]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.18-16.38.00:336][287]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.18-16.38.00:336][287]LogInit: FAudioDevice initialized.
+[2021.04.18-16.38.00:336][287]LogAudio: Display: Audio Device (ID: 16) registered with world 'NewYork_Level'.
+[2021.04.18-16.38.00:341][287]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.18-16.38.00:346][287]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level up for play (max tick rate 0) at 2021.04.18-18.38.00
+[2021.04.18-16.38.00:346][287]LogWorld: Bringing up level for play took: 0.005020
+[2021.04.18-16.38.00:346][287]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.04.18-16.38.00:350][287]PIE: Server logged in
+[2021.04.18-16.38.00:351][287]PIE: Play in editor total start time 0.186 seconds.
+[2021.04.18-16.38.20:731][723]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-16.38.20:731][723]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.18-16.38.20:731][723]LogWorld: UWorld::CleanupWorld for NewYork_Level, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-16.38.20:732][723]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-16.38.20:738][723]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.18-16.38.20:755][723]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-16.38.20:766][723]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-16.38.20:767][723]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.18-16.38.20:768][723]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.18-16.38.20:785][723]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2021.04.18-16.38.20:811][724]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.04.18-16.38.28:725][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.04.18-16.38.28:955][626]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level4538D6D345B297099CA6FCAFBED33A47.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.18-16.38.28:968][626]AssetCheck: New page: Asset Save: NewYork_Level
+[2021.04.18-16.38.28:968][626]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.18-16.38.30:736][807]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.04.18-16.38.56:010][412]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.04.18-16.39.33:232][246]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.04.18-16.39.44:929][473]Cmd: TRANSACTION UNDO
+[2021.04.18-16.39.44:929][473]LogEditorTransaction: Undo Scale Actors
+[2021.04.18-16.39.45:179][474]Cmd: TRANSACTION UNDO
+[2021.04.18-16.39.45:179][474]LogEditorTransaction: Undo Scale Actors
+[2021.04.18-16.40.30:115][567]Cmd: TRANSACTION UNDO
+[2021.04.18-16.40.30:115][567]LogEditorTransaction: Undo Scale Actors
+[2021.04.18-16.40.49:890][599]Cmd: TRANSACTION UNDO
+[2021.04.18-16.40.49:890][599]LogEditorTransaction: Undo Scale Actors
+[2021.04.18-16.40.51:582][715]Cmd: TRANSACTION UNDO
+[2021.04.18-16.40.51:582][715]LogEditorTransaction: Undo Scale Actors
+[2021.04.18-16.40.55:922][148]Cmd: DUPLICATE
+[2021.04.18-16.40.55:922][148]Cmd: ACTOR DUPLICATE
+[2021.04.18-16.40.58:297][348]Cmd: DUPLICATE
+[2021.04.18-16.40.58:297][348]Cmd: ACTOR DUPLICATE
+[2021.04.18-16.41.37:171][451]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2021.04.18-16.41.37:422][451]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_LevelD7775A71499F3ACA79A3D8ACE03A4094.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.18-16.41.37:445][451]AssetCheck: New page: Asset Save: NewYork_Level
+[2021.04.18-16.41.37:445][451]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.18-16.42.07:942][945]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2021.04.18-16.42.08:179][945]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level5192820A4CD6B106C2B0BE8204C1B590.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.18-16.42.08:196][945]AssetCheck: New page: Asset Save: NewYork_Level
+[2021.04.18-16.42.08:196][945]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.18-16.42.10:285][186]Cmd: DUPLICATE
+[2021.04.18-16.42.10:285][186]Cmd: ACTOR DUPLICATE
+[2021.04.18-16.43.00:016][416]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.18-16.43.00:021][416]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.18-16.43.00:021][416]PIE: New page: PIE session: NewYork_Level (Apr 18, 2021, 8:43:00 PM)
+[2021.04.18-16.43.00:021][416]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.18-16.43.00:111][416]LogPlayLevel: PIE: StaticDuplicateObject took: (0.090377s)
+[2021.04.18-16.43.00:112][416]LogAIModule: Creating AISystem for world NewYork_Level
+[2021.04.18-16.43.00:112][416]LogPlayLevel: PIE: World Init took: (0.001050s)
+[2021.04.18-16.43.00:112][416]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewYork_Level.NewYork_Level to /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level (0.091556s)
+[2021.04.18-16.43.00:138][416]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2021.04.18-16.43.00:148][416]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2021.04.18-16.43.00:148][416]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.18-16.43.00:148][416]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.18-16.43.00:148][416]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.18-16.43.00:148][416]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.18-16.43.00:148][416]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.18-16.43.00:148][416]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.18-16.43.00:148][416]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.18-16.43.00:148][416]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.18-16.43.00:149][416]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.18-16.43.00:149][416]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.18-16.43.00:151][416]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.18-16.43.00:151][416]LogAudioMixer: Display: 1: FrontRight
+[2021.04.18-16.43.00:159][416]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.04.18-16.43.00:159][416]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.18-16.43.00:159][416]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.18-16.43.00:159][416]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.18-16.43.00:160][416]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.18-16.43.00:160][416]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.18-16.43.00:160][416]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.18-16.43.00:171][416]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.18-16.43.00:171][416]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.18-16.43.00:171][416]LogInit: FAudioDevice initialized.
+[2021.04.18-16.43.00:171][416]LogAudio: Display: Audio Device (ID: 17) registered with world 'NewYork_Level'.
+[2021.04.18-16.43.00:177][416]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.18-16.43.00:182][416]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level up for play (max tick rate 0) at 2021.04.18-18.43.00
+[2021.04.18-16.43.00:182][416]LogWorld: Bringing up level for play took: 0.004728
+[2021.04.18-16.43.00:183][416]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.04.18-16.43.00:186][416]PIE: Server logged in
+[2021.04.18-16.43.00:187][416]PIE: Play in editor total start time 0.167 seconds.
+[2021.04.18-16.43.15:171][201]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-16.43.15:171][201]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.18-16.43.15:171][201]LogWorld: UWorld::CleanupWorld for NewYork_Level, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-16.43.15:172][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-16.43.15:179][201]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.18-16.43.15:195][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-16.43.15:209][201]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.18-16.43.15:209][201]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.18-16.43.15:210][201]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.18-16.43.15:222][201]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-16.43.15:227][201]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2021.04.18-16.43.15:253][202]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.04.18-16.43.16:705][365]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2021.04.18-16.43.16:942][365]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_LevelF2FD69F94D001041772C6A8CA0BC83D9.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.18-16.43.16:974][365]AssetCheck: New page: Asset Save: NewYork_Level
+[2021.04.18-16.43.16:974][365]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.18-16.43.27:275][506]Cmd: DUPLICATE
+[2021.04.18-16.43.27:276][506]Cmd: ACTOR DUPLICATE
+[2021.04.18-16.43.35:511][305]Cmd: DUPLICATE
+[2021.04.18-16.43.35:511][305]Cmd: ACTOR DUPLICATE
+[2021.04.18-16.43.42:183][907]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2021.04.18-16.43.42:435][907]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level92FED4664DB1F0D7C9C36BA2B876686C.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.18-16.43.42:469][907]AssetCheck: New page: Asset Save: NewYork_Level
+[2021.04.18-16.43.42:469][907]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.18-16.43.58:557][759]Cmd: DUPLICATE
+[2021.04.18-16.43.58:557][759]Cmd: ACTOR DUPLICATE
+[2021.04.18-16.44.29:778][863]Cmd: TRANSACTION UNDO
+[2021.04.18-16.44.29:778][863]LogEditorTransaction: Undo Rotate Actors
+[2021.04.18-16.44.48:192][820]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2021.04.18-16.44.48:451][820]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level8BB14815431AD73552EDCCA41398217F.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.18-16.44.48:479][820]AssetCheck: New page: Asset Save: NewYork_Level
+[2021.04.18-16.44.48:479][820]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.18-16.44.50:158][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2021.04.18-16.44.50:416][  7]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level929C909C4EDC6622243031A2B65D59EA.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.18-16.44.50:430][  7]AssetCheck: New page: Asset Save: NewYork_Level
+[2021.04.18-16.44.50:430][  7]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.18-16.44.53:590][282]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.04.18-16.45.21:113][915]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2021.04.18-16.45.21:375][915]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_LevelE381CD944A56A29F685743AB5288FA7F.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.18-16.45.21:405][915]AssetCheck: New page: Asset Save: NewYork_Level
+[2021.04.18-16.45.21:405][915]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.18-16.45.21:830][965]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.04.18-16.45.28:296][658]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.18-16.45.28:300][658]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.18-16.45.28:301][658]PIE: New page: PIE session: NewYork_Level (Apr 18, 2021, 8:45:28 PM)
+[2021.04.18-16.45.28:330][658]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.18-16.45.28:427][658]LogPlayLevel: PIE: StaticDuplicateObject took: (0.096867s)
+[2021.04.18-16.45.28:428][658]LogAIModule: Creating AISystem for world NewYork_Level
+[2021.04.18-16.45.28:428][658]LogPlayLevel: PIE: World Init took: (0.001080s)
+[2021.04.18-16.45.28:428][658]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewYork_Level.NewYork_Level to /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level (0.098110s)
+[2021.04.18-16.45.28:445][658]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2021.04.18-16.45.28:450][658]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2021.04.18-16.45.28:451][658]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.18-16.45.28:451][658]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.18-16.45.28:451][658]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.18-16.45.28:451][658]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.18-16.45.28:451][658]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.18-16.45.28:451][658]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.18-16.45.28:451][658]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.18-16.45.28:451][658]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.18-16.45.28:451][658]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.18-16.45.28:451][658]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.18-16.45.28:453][658]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.18-16.45.28:453][658]LogAudioMixer: Display: 1: FrontRight
+[2021.04.18-16.45.28:461][658]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.04.18-16.45.28:461][658]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.18-16.45.28:461][658]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.18-16.45.28:461][658]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.18-16.45.28:462][658]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.18-16.45.28:462][658]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.18-16.45.28:462][658]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.18-16.45.28:472][658]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.18-16.45.28:472][658]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.18-16.45.28:472][658]LogInit: FAudioDevice initialized.
+[2021.04.18-16.45.28:472][658]LogAudio: Display: Audio Device (ID: 18) registered with world 'NewYork_Level'.
+[2021.04.18-16.45.28:477][658]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.18-16.45.28:482][658]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level up for play (max tick rate 0) at 2021.04.18-18.45.28
+[2021.04.18-16.45.28:483][658]LogWorld: Bringing up level for play took: 0.004840
+[2021.04.18-16.45.28:483][658]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2021.04.18-16.45.28:486][658]PIE: Server logged in
+[2021.04.18-16.45.28:487][658]PIE: Play in editor total start time 0.187 seconds.
+[2021.04.18-16.45.38:861][893]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-16.45.38:861][893]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.18-16.45.38:861][893]LogWorld: UWorld::CleanupWorld for NewYork_Level, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-16.45.38:862][893]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-16.45.38:868][893]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.18-16.45.38:883][893]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-16.45.38:894][893]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-16.45.38:896][893]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.18-16.45.38:897][893]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.18-16.45.38:914][893]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2021.04.18-16.45.38:943][894]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2021.04.18-16.45.40:604][ 84]Cmd: DELETE
+[2021.04.18-16.45.40:604][ 84]Cmd: ACTOR DELETE
+[2021.04.18-16.45.40:660][ 84]LogEditorActor: Deleted Actor: Brush
+[2021.04.18-16.45.40:674][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2021.04.18-16.45.40:854][ 84]LogEditorActor: Deleted 1 Actors (0.250 secs)
+[2021.04.18-16.45.41:387][138]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.18-16.45.41:391][138]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.18-16.45.41:392][138]PIE: New page: PIE session: NewYork_Level (Apr 18, 2021, 8:45:41 PM)
+[2021.04.18-16.45.41:430][138]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.18-16.45.41:529][138]LogPlayLevel: PIE: StaticDuplicateObject took: (0.098142s)
+[2021.04.18-16.45.41:530][138]LogAIModule: Creating AISystem for world NewYork_Level
+[2021.04.18-16.45.41:530][138]LogPlayLevel: PIE: World Init took: (0.000990s)
+[2021.04.18-16.45.41:530][138]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewYork_Level.NewYork_Level to /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level (0.099302s)
+[2021.04.18-16.45.41:542][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2021.04.18-16.45.41:543][138]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2021.04.18-16.45.41:543][138]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.18-16.45.41:543][138]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.18-16.45.41:543][138]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.18-16.45.41:543][138]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.18-16.45.41:543][138]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.18-16.45.41:543][138]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.18-16.45.41:543][138]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.18-16.45.41:543][138]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.18-16.45.41:544][138]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.18-16.45.41:544][138]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.18-16.45.41:546][138]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.18-16.45.41:546][138]LogAudioMixer: Display: 1: FrontRight
+[2021.04.18-16.45.41:553][138]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.04.18-16.45.41:554][138]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.18-16.45.41:554][138]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.18-16.45.41:554][138]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.18-16.45.41:554][138]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.18-16.45.41:554][138]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.18-16.45.41:554][138]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.18-16.45.41:565][138]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.18-16.45.41:565][138]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.18-16.45.41:565][138]LogInit: FAudioDevice initialized.
+[2021.04.18-16.45.41:565][138]LogAudio: Display: Audio Device (ID: 19) registered with world 'NewYork_Level'.
+[2021.04.18-16.45.41:570][138]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.18-16.45.41:575][138]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level up for play (max tick rate 0) at 2021.04.18-18.45.41
+[2021.04.18-16.45.41:575][138]LogWorld: Bringing up level for play took: 0.005147
+[2021.04.18-16.45.41:576][138]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2021.04.18-16.45.41:579][138]PIE: Server logged in
+[2021.04.18-16.45.41:580][138]PIE: Play in editor total start time 0.189 seconds.
+[2021.04.18-16.45.50:480][197]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-16.45.50:481][197]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.18-16.45.50:481][197]LogWorld: UWorld::CleanupWorld for NewYork_Level, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-16.45.50:482][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-16.45.50:487][197]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.18-16.45.50:492][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-16.45.50:505][197]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-16.45.50:506][197]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.18-16.45.50:507][197]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.18-16.45.50:525][197]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2021.04.18-16.45.50:567][199]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2021.04.18-16.45.56:966][937]Cmd: DUPLICATE
+[2021.04.18-16.45.56:967][937]Cmd: ACTOR DUPLICATE
+[2021.04.18-16.46.37:632][108]Cmd: TRANSACTION UNDO
+[2021.04.18-16.46.37:632][108]LogEditorTransaction: Undo Rotate Actors
+[2021.04.18-16.46.50:230][411]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.18-16.46.50:234][411]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.18-16.46.50:234][411]PIE: New page: PIE session: NewYork_Level (Apr 18, 2021, 8:46:50 PM)
+[2021.04.18-16.46.50:270][411]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.18-16.46.50:371][411]LogPlayLevel: PIE: StaticDuplicateObject took: (0.101327s)
+[2021.04.18-16.46.50:372][411]LogAIModule: Creating AISystem for world NewYork_Level
+[2021.04.18-16.46.50:373][411]LogPlayLevel: PIE: World Init took: (0.001059s)
+[2021.04.18-16.46.50:373][411]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewYork_Level.NewYork_Level to /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level (0.102553s)
+[2021.04.18-16.46.50:401][411]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2021.04.18-16.46.50:409][411]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2021.04.18-16.46.50:409][411]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.18-16.46.50:409][411]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.18-16.46.50:409][411]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.18-16.46.50:409][411]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.18-16.46.50:409][411]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.18-16.46.50:409][411]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.18-16.46.50:409][411]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.18-16.46.50:409][411]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.18-16.46.50:409][411]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.18-16.46.50:409][411]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.18-16.46.50:412][411]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.18-16.46.50:412][411]LogAudioMixer: Display: 1: FrontRight
+[2021.04.18-16.46.50:419][411]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.04.18-16.46.50:419][411]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.18-16.46.50:419][411]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.18-16.46.50:419][411]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.18-16.46.50:420][411]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.18-16.46.50:420][411]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.18-16.46.50:420][411]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.18-16.46.50:431][411]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.18-16.46.50:431][411]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.18-16.46.50:431][411]LogInit: FAudioDevice initialized.
+[2021.04.18-16.46.50:431][411]LogAudio: Display: Audio Device (ID: 20) registered with world 'NewYork_Level'.
+[2021.04.18-16.46.50:436][411]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.18-16.46.50:442][411]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level up for play (max tick rate 0) at 2021.04.18-18.46.50
+[2021.04.18-16.46.50:442][411]LogWorld: Bringing up level for play took: 0.005310
+[2021.04.18-16.46.50:442][411]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2021.04.18-16.46.50:446][411]PIE: Server logged in
+[2021.04.18-16.46.50:447][411]PIE: Play in editor total start time 0.213 seconds.
+[2021.04.18-16.46.55:471][  4]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-16.46.55:471][  4]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.18-16.46.55:472][  4]LogWorld: UWorld::CleanupWorld for NewYork_Level, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-16.46.55:472][  4]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-16.46.55:481][  4]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.18-16.46.55:498][  4]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-16.46.55:511][  4]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.18-16.46.55:512][  4]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.18-16.46.55:513][  4]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.18-16.46.55:525][  4]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-16.46.55:530][  4]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2021.04.18-16.46.55:558][  5]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2021.04.18-16.47.06:554][229]Cmd: DUPLICATE
+[2021.04.18-16.47.06:554][229]Cmd: ACTOR DUPLICATE
+[2021.04.18-16.47.30:448][577]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2021.04.18-16.47.30:717][577]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level4C6BF9B14466868E25C646B173FDCD3D.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.18-16.47.30:744][577]AssetCheck: New page: Asset Save: NewYork_Level
+[2021.04.18-16.47.30:744][577]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.18-16.47.33:079][836]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.18-16.47.33:083][836]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.18-16.47.33:083][836]PIE: New page: PIE session: NewYork_Level (Apr 18, 2021, 8:47:33 PM)
+[2021.04.18-16.47.33:130][836]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.18-16.47.33:230][836]LogPlayLevel: PIE: StaticDuplicateObject took: (0.099720s)
+[2021.04.18-16.47.33:231][836]LogAIModule: Creating AISystem for world NewYork_Level
+[2021.04.18-16.47.33:231][836]LogPlayLevel: PIE: World Init took: (0.001177s)
+[2021.04.18-16.47.33:231][836]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewYork_Level.NewYork_Level to /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level (0.101073s)
+[2021.04.18-16.47.33:249][836]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2021.04.18-16.47.33:255][836]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2021.04.18-16.47.33:255][836]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.18-16.47.33:255][836]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.18-16.47.33:255][836]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.18-16.47.33:255][836]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.18-16.47.33:255][836]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.18-16.47.33:255][836]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.18-16.47.33:255][836]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.18-16.47.33:255][836]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.18-16.47.33:256][836]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.18-16.47.33:256][836]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.18-16.47.33:258][836]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.18-16.47.33:258][836]LogAudioMixer: Display: 1: FrontRight
+[2021.04.18-16.47.33:265][836]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.04.18-16.47.33:265][836]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.18-16.47.33:266][836]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.18-16.47.33:266][836]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.18-16.47.33:266][836]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.18-16.47.33:266][836]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.18-16.47.33:266][836]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.18-16.47.33:277][836]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.18-16.47.33:277][836]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.18-16.47.33:277][836]LogInit: FAudioDevice initialized.
+[2021.04.18-16.47.33:277][836]LogAudio: Display: Audio Device (ID: 21) registered with world 'NewYork_Level'.
+[2021.04.18-16.47.33:286][836]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.18-16.47.33:292][836]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level up for play (max tick rate 0) at 2021.04.18-18.47.33
+[2021.04.18-16.47.33:292][836]LogWorld: Bringing up level for play took: 0.005106
+[2021.04.18-16.47.33:292][836]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2021.04.18-16.47.33:295][836]PIE: Server logged in
+[2021.04.18-16.47.33:296][836]PIE: Play in editor total start time 0.213 seconds.
+[2021.04.18-16.47.47:351][508]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-16.47.47:351][508]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.18-16.47.47:351][508]LogWorld: UWorld::CleanupWorld for NewYork_Level, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-16.47.47:352][508]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-16.47.47:356][508]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.18-16.47.47:372][508]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-16.47.47:383][508]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-16.47.47:384][508]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.18-16.47.47:385][508]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.18-16.47.47:401][508]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2021.04.18-16.47.47:430][509]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2021.04.18-16.47.56:144][519]Cmd: BRUSH SUBTRACT SELECTNEWBRUSH
+[2021.04.18-16.48.34:893][493]Cmd: TRANSACTION UNDO
+[2021.04.18-16.48.34:893][493]LogEditorTransaction: Undo Rotate Actors
+[2021.04.18-16.48.37:159][669]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2021.04.18-16.48.37:431][669]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_LevelC6FD3B324A373B399AFB01BAF3F8010F.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.18-16.48.37:465][669]AssetCheck: New page: Asset Save: NewYork_Level
+[2021.04.18-16.48.37:466][669]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.18-16.48.43:252][344]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.04.18-16.48.44:422][472]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2021.04.18-16.48.44:683][472]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level203F5A674D914B1B8554B6B6076CDD0B.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.18-16.48.44:697][472]AssetCheck: New page: Asset Save: NewYork_Level
+[2021.04.18-16.48.44:697][472]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.18-16.50.02:550][884]Cmd: TRANSACTION UNDO
+[2021.04.18-16.50.02:550][884]LogEditorTransaction: Undo Move Actors
+[2021.04.18-16.50.02:778][884]Cmd: TRANSACTION UNDO
+[2021.04.18-16.50.02:778][884]LogEditorTransaction: Undo Move Actors
+[2021.04.18-16.50.03:036][884]Cmd: TRANSACTION UNDO
+[2021.04.18-16.50.03:036][884]LogEditorTransaction: Undo Move Actors
+[2021.04.18-16.50.16:651][308]Cmd: TRANSACTION UNDO
+[2021.04.18-16.50.16:651][308]LogEditorTransaction: Undo Move Actors
+[2021.04.18-16.50.17:355][338]Cmd: TRANSACTION UNDO
+[2021.04.18-16.50.17:355][338]LogEditorTransaction: Undo Move Actors
+[2021.04.18-16.50.43:839][127]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2021.04.18-16.50.44:106][127]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level90EC55D340684A35EB3186A545A31D58.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.18-16.50.44:134][127]AssetCheck: New page: Asset Save: NewYork_Level
+[2021.04.18-16.50.44:134][127]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.18-16.50.52:467][ 31]Cmd: DUPLICATE
+[2021.04.18-16.50.52:467][ 31]Cmd: ACTOR DUPLICATE
+[2021.04.18-16.51.09:442][714]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2021.04.18-16.51.09:709][714]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level1414CEE4428B5221A78B3681D7CD9EB0.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.18-16.51.09:734][714]AssetCheck: New page: Asset Save: NewYork_Level
+[2021.04.18-16.51.09:734][714]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.18-16.51.27:203][612]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.04.18-16.51.27:465][612]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_LevelC06294C14B547E1D5312A988CECD85C8.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.18-16.51.27:489][612]AssetCheck: New page: Asset Save: NewYork_Level
+[2021.04.18-16.51.27:489][612]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.18-16.51.37:268][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2021.04.18-16.51.37:532][770]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level2A15D9AD42233EDA00D067AD7B1096CC.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.18-16.51.37:546][770]AssetCheck: New page: Asset Save: NewYork_Level
+[2021.04.18-16.51.37:546][770]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.18-16.51.41:521][219]Cmd: BRUSH SUBTRACT SELECTNEWBRUSH
+[2021.04.18-16.51.43:416][420]Cmd: DELETE
+[2021.04.18-16.51.43:416][420]Cmd: ACTOR DELETE
+[2021.04.18-16.51.43:472][420]LogEditorActor: Deleted Actor: Brush
+[2021.04.18-16.51.43:484][420]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2021.04.18-16.51.43:673][420]LogEditorActor: Deleted 1 Actors (0.258 secs)
+[2021.04.18-16.51.46:738][769]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.04.18-16.51.47:537][837]Cmd: DELETE
+[2021.04.18-16.51.47:537][837]Cmd: ACTOR DELETE
+[2021.04.18-16.51.47:596][837]LogEditorActor: Deleted Actor: Brush
+[2021.04.18-16.51.47:608][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2021.04.18-16.51.47:793][837]LogEditorActor: Deleted 1 Actors (0.256 secs)
+[2021.04.18-16.51.49:853][ 70]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.04.18-16.52.27:395][965]Cmd: TRANSACTION UNDO
+[2021.04.18-16.52.27:395][965]LogEditorTransaction: Undo Move Actors
+[2021.04.18-16.52.29:900][176]Cmd: TRANSACTION UNDO
+[2021.04.18-16.52.29:900][176]LogEditorTransaction: Undo Move Actors
+[2021.04.18-16.52.30:734][240]Cmd: TRANSACTION UNDO
+[2021.04.18-16.52.30:734][240]LogEditorTransaction: Undo Scale Actors
+[2021.04.18-16.52.53:570][833]Cmd: DUPLICATE
+[2021.04.18-16.52.53:570][833]Cmd: ACTOR DUPLICATE
+[2021.04.18-16.53.18:161][345]Cmd: DUPLICATE
+[2021.04.18-16.53.18:161][345]Cmd: ACTOR DUPLICATE
+[2021.04.18-16.54.06:408][479]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2021.04.18-16.54.06:689][479]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_LevelEA060C1D41478B7AD9E731B85734CAB6.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.18-16.54.06:720][479]AssetCheck: New page: Asset Save: NewYork_Level
+[2021.04.18-16.54.06:720][479]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.18-16.54.10:850][957]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2021.04.18-16.54.11:118][957]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level63C17C724D37CE27CBF536B86615C2C6.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.18-16.54.11:132][957]AssetCheck: New page: Asset Save: NewYork_Level
+[2021.04.18-16.54.11:132][957]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.18-16.54.13:200][189]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.18-16.54.13:205][189]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.18-16.54.13:205][189]PIE: New page: PIE session: NewYork_Level (Apr 18, 2021, 8:54:13 PM)
+[2021.04.18-16.54.13:230][189]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.18-16.54.13:333][189]LogPlayLevel: PIE: StaticDuplicateObject took: (0.102889s)
+[2021.04.18-16.54.13:334][189]LogAIModule: Creating AISystem for world NewYork_Level
+[2021.04.18-16.54.13:334][189]LogPlayLevel: PIE: World Init took: (0.001102s)
+[2021.04.18-16.54.13:334][189]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewYork_Level.NewYork_Level to /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level (0.104155s)
+[2021.04.18-16.54.13:347][189]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2021.04.18-16.54.13:349][189]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2021.04.18-16.54.13:349][189]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.18-16.54.13:349][189]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.18-16.54.13:349][189]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.18-16.54.13:349][189]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.18-16.54.13:349][189]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.18-16.54.13:349][189]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.18-16.54.13:349][189]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.18-16.54.13:349][189]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.18-16.54.13:350][189]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.18-16.54.13:350][189]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.18-16.54.13:352][189]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.18-16.54.13:352][189]LogAudioMixer: Display: 1: FrontRight
+[2021.04.18-16.54.13:360][189]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.04.18-16.54.13:360][189]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.18-16.54.13:360][189]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.18-16.54.13:360][189]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.18-16.54.13:361][189]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.18-16.54.13:361][189]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.18-16.54.13:361][189]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.18-16.54.13:372][189]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.18-16.54.13:372][189]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.18-16.54.13:372][189]LogInit: FAudioDevice initialized.
+[2021.04.18-16.54.13:372][189]LogAudio: Display: Audio Device (ID: 22) registered with world 'NewYork_Level'.
+[2021.04.18-16.54.13:380][189]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.18-16.54.13:386][189]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level up for play (max tick rate 0) at 2021.04.18-18.54.13
+[2021.04.18-16.54.13:386][189]LogWorld: Bringing up level for play took: 0.005595
+[2021.04.18-16.54.13:387][189]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2021.04.18-16.54.13:390][189]PIE: Server logged in
+[2021.04.18-16.54.13:391][189]PIE: Play in editor total start time 0.187 seconds.
+[2021.04.18-16.54.16:490][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-16.54.16:490][552]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.18-16.54.16:491][552]LogWorld: UWorld::CleanupWorld for NewYork_Level, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-16.54.16:491][552]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-16.54.16:497][552]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.18-16.54.16:511][552]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-16.54.16:522][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-16.54.16:523][552]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.18-16.54.16:524][552]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.18-16.54.16:540][552]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2021.04.18-16.54.16:569][553]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2021.04.18-16.54.23:174][315]Cmd: TRANSACTION UNDO
+[2021.04.18-16.54.23:174][315]LogEditorTransaction: Undo Select Brush Surface
+[2021.04.18-16.54.28:761][932]Cmd: TRANSACTION REDO
+[2021.04.18-16.54.28:761][932]LogEditorTransaction: Redo Select Brush Surface
+[2021.04.18-16.54.33:482][409]Cmd: TRANSACTION UNDO
+[2021.04.18-16.54.33:482][409]LogEditorTransaction: Undo Rotate Actors
+[2021.04.18-16.55.07:251][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2021.04.18-16.55.07:523][864]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level76050504493F7D0819ED00BDC00DBEBA.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.18-16.55.07:550][864]AssetCheck: New page: Asset Save: NewYork_Level
+[2021.04.18-16.55.07:550][864]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.18-16.55.08:138][935]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.18-16.55.08:142][935]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.18-16.55.08:142][935]PIE: New page: PIE session: NewYork_Level (Apr 18, 2021, 8:55:08 PM)
+[2021.04.18-16.55.08:170][935]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.18-16.55.08:275][935]LogPlayLevel: PIE: StaticDuplicateObject took: (0.104811s)
+[2021.04.18-16.55.08:276][935]LogAIModule: Creating AISystem for world NewYork_Level
+[2021.04.18-16.55.08:276][935]LogPlayLevel: PIE: World Init took: (0.001017s)
+[2021.04.18-16.55.08:276][935]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewYork_Level.NewYork_Level to /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level (0.106004s)
+[2021.04.18-16.55.08:292][935]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2021.04.18-16.55.08:298][935]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2021.04.18-16.55.08:298][935]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.18-16.55.08:298][935]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.18-16.55.08:298][935]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.18-16.55.08:298][935]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.18-16.55.08:298][935]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.18-16.55.08:298][935]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.18-16.55.08:298][935]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.18-16.55.08:298][935]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.18-16.55.08:298][935]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.18-16.55.08:298][935]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.18-16.55.08:301][935]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.18-16.55.08:301][935]LogAudioMixer: Display: 1: FrontRight
+[2021.04.18-16.55.08:308][935]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.04.18-16.55.08:308][935]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.18-16.55.08:308][935]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.18-16.55.08:308][935]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.18-16.55.08:308][935]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.18-16.55.08:309][935]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.18-16.55.08:309][935]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.18-16.55.08:319][935]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.18-16.55.08:319][935]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.18-16.55.08:319][935]LogInit: FAudioDevice initialized.
+[2021.04.18-16.55.08:319][935]LogAudio: Display: Audio Device (ID: 23) registered with world 'NewYork_Level'.
+[2021.04.18-16.55.08:324][935]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.18-16.55.08:330][935]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level up for play (max tick rate 0) at 2021.04.18-18.55.08
+[2021.04.18-16.55.08:330][935]LogWorld: Bringing up level for play took: 0.005096
+[2021.04.18-16.55.08:330][935]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2021.04.18-16.55.08:334][935]PIE: Server logged in
+[2021.04.18-16.55.08:334][935]PIE: Play in editor total start time 0.193 seconds.
+[2021.04.18-16.55.11:581][316]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-16.55.11:581][316]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.18-16.55.11:581][316]LogWorld: UWorld::CleanupWorld for NewYork_Level, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-16.55.11:582][316]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-16.55.11:592][316]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.18-16.55.11:607][316]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-16.55.11:619][316]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.18-16.55.11:619][316]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.18-16.55.11:620][316]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.18-16.55.11:632][316]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-16.55.11:637][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.04.18-16.55.11:666][317]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2021.04.18-16.55.27:548][ 18]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.18-16.55.27:553][ 18]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.18-16.55.27:553][ 18]PIE: New page: PIE session: NewYork_Level (Apr 18, 2021, 8:55:27 PM)
+[2021.04.18-16.55.27:580][ 18]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.18-16.55.27:682][ 18]LogPlayLevel: PIE: StaticDuplicateObject took: (0.102558s)
+[2021.04.18-16.55.27:683][ 18]LogAIModule: Creating AISystem for world NewYork_Level
+[2021.04.18-16.55.27:683][ 18]LogPlayLevel: PIE: World Init took: (0.001029s)
+[2021.04.18-16.55.27:683][ 18]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewYork_Level.NewYork_Level to /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level (0.103740s)
+[2021.04.18-16.55.27:696][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2021.04.18-16.55.27:699][ 18]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2021.04.18-16.55.27:699][ 18]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.18-16.55.27:699][ 18]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.18-16.55.27:699][ 18]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.18-16.55.27:699][ 18]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.18-16.55.27:699][ 18]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.18-16.55.27:699][ 18]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.18-16.55.27:699][ 18]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.18-16.55.27:699][ 18]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.18-16.55.27:699][ 18]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.18-16.55.27:699][ 18]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.18-16.55.27:701][ 18]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.18-16.55.27:701][ 18]LogAudioMixer: Display: 1: FrontRight
+[2021.04.18-16.55.27:709][ 18]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.04.18-16.55.27:709][ 18]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.18-16.55.27:709][ 18]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.18-16.55.27:709][ 18]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.18-16.55.27:710][ 18]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.18-16.55.27:710][ 18]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.18-16.55.27:710][ 18]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.18-16.55.27:711][ 18]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.18-16.55.27:711][ 18]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.18-16.55.27:711][ 18]LogInit: FAudioDevice initialized.
+[2021.04.18-16.55.27:711][ 18]LogAudio: Display: Audio Device (ID: 24) registered with world 'NewYork_Level'.
+[2021.04.18-16.55.27:724][ 18]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.18-16.55.27:730][ 18]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level up for play (max tick rate 0) at 2021.04.18-18.55.27
+[2021.04.18-16.55.27:730][ 18]LogWorld: Bringing up level for play took: 0.004972
+[2021.04.18-16.55.27:730][ 18]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2021.04.18-16.55.27:733][ 18]PIE: Server logged in
+[2021.04.18-16.55.27:734][ 18]PIE: Play in editor total start time 0.183 seconds.
+[2021.04.18-16.55.37:720][207]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-16.55.37:720][207]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.18-16.55.37:721][207]LogWorld: UWorld::CleanupWorld for NewYork_Level, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-16.55.37:722][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-16.55.37:732][207]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.18-16.55.37:750][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-16.55.37:764][207]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.18-16.55.37:765][207]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.18-16.55.37:766][207]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.18-16.55.37:778][207]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-16.55.37:782][207]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2021.04.18-16.55.37:811][208]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2021.04.18-16.55.40:030][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.04.18-16.55.40:297][463]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level5185A7F0409926692546F384FAB826C9.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.18-16.55.40:321][463]AssetCheck: New page: Asset Save: NewYork_Level
+[2021.04.18-16.55.40:321][463]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.18-16.55.42:665][723]Cmd: DUPLICATE
+[2021.04.18-16.55.42:665][723]Cmd: ACTOR DUPLICATE
+[2021.04.18-16.56.20:722][459]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.18-16.56.20:726][459]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.18-16.56.20:726][459]PIE: New page: PIE session: NewYork_Level (Apr 18, 2021, 8:56:20 PM)
+[2021.04.18-16.56.20:760][459]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.18-16.56.20:870][459]LogPlayLevel: PIE: StaticDuplicateObject took: (0.109933s)
+[2021.04.18-16.56.20:871][459]LogAIModule: Creating AISystem for world NewYork_Level
+[2021.04.18-16.56.20:871][459]LogPlayLevel: PIE: World Init took: (0.001035s)
+[2021.04.18-16.56.20:871][459]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewYork_Level.NewYork_Level to /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level (0.111147s)
+[2021.04.18-16.56.20:900][459]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2021.04.18-16.56.20:907][459]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2021.04.18-16.56.20:907][459]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.18-16.56.20:907][459]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.18-16.56.20:907][459]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.18-16.56.20:907][459]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.18-16.56.20:907][459]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.18-16.56.20:907][459]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.18-16.56.20:907][459]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.18-16.56.20:907][459]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.18-16.56.20:908][459]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.18-16.56.20:908][459]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.18-16.56.20:910][459]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.18-16.56.20:910][459]LogAudioMixer: Display: 1: FrontRight
+[2021.04.18-16.56.20:917][459]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.04.18-16.56.20:918][459]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.18-16.56.20:918][459]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.18-16.56.20:918][459]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.18-16.56.20:918][459]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.18-16.56.20:918][459]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.18-16.56.20:918][459]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.18-16.56.20:929][459]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.18-16.56.20:929][459]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.18-16.56.20:929][459]LogInit: FAudioDevice initialized.
+[2021.04.18-16.56.20:929][459]LogAudio: Display: Audio Device (ID: 25) registered with world 'NewYork_Level'.
+[2021.04.18-16.56.20:935][459]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.18-16.56.20:941][459]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level up for play (max tick rate 0) at 2021.04.18-18.56.20
+[2021.04.18-16.56.20:941][459]LogWorld: Bringing up level for play took: 0.005233
+[2021.04.18-16.56.20:941][459]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2021.04.18-16.56.20:944][459]PIE: Server logged in
+[2021.04.18-16.56.20:945][459]PIE: Play in editor total start time 0.219 seconds.
+[2021.04.18-16.56.32:641][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-16.56.32:641][850]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.18-16.56.32:641][850]LogWorld: UWorld::CleanupWorld for NewYork_Level, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-16.56.32:642][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-16.56.32:652][850]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.18-16.56.32:666][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-16.56.32:679][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-16.56.32:681][850]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.18-16.56.32:682][850]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.18-16.56.32:699][850]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2021.04.18-16.56.32:725][851]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2021.04.18-16.56.33:362][921]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2021.04.18-16.56.33:636][921]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level2CC8674A4FD0F6538B9276922DD5946A.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.18-16.56.33:667][921]AssetCheck: New page: Asset Save: NewYork_Level
+[2021.04.18-16.56.33:668][921]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.18-16.56.59:172][810]Cmd: DUPLICATE
+[2021.04.18-16.56.59:172][810]Cmd: ACTOR DUPLICATE
+[2021.04.18-16.57.36:150][775]Cmd: DUPLICATE
+[2021.04.18-16.57.36:150][775]Cmd: ACTOR DUPLICATE
+[2021.04.18-16.57.40:855][182]Cmd: DUPLICATE
+[2021.04.18-16.57.40:855][182]Cmd: ACTOR DUPLICATE
+[2021.04.18-16.58.49:745][222]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2021.04.18-16.58.50:042][222]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level21C67403464B52579A7CBE88D7CFD9F3.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.18-16.58.50:071][222]AssetCheck: New page: Asset Save: NewYork_Level
+[2021.04.18-16.58.50:071][222]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.18-16.59.31:767][780]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2021.04.18-16.59.32:058][780]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level845907144DC27E3396E1A2A80C1250B6.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.18-16.59.32:089][780]AssetCheck: New page: Asset Save: NewYork_Level
+[2021.04.18-16.59.32:089][780]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.18-16.59.47:997][611]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2021.04.18-16.59.48:286][611]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_LevelF5C7BB2846C1ED163095ECB58C6FF233.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.18-16.59.48:303][611]AssetCheck: New page: Asset Save: NewYork_Level
+[2021.04.18-16.59.48:303][611]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.18-17.00.08:159][930]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2021.04.18-17.00.08:447][930]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_LevelD98AE5884FCBA5D1D01C7E90E816A3B3.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.18-17.00.08:466][930]AssetCheck: New page: Asset Save: NewYork_Level
+[2021.04.18-17.00.08:466][930]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.18-17.00.15:388][620]LogGeometryMode: Warning: Unable to find BoxBrush140 Brush(s) in new BSP
+[2021.04.18-17.00.15:388][620]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.04.18-17.00.25:480][699]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (City_test)
+[2021.04.18-17.00.44:464][598]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.04.18-17.00.44:759][598]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level5BACAD4D4B816AC26442F8A20612057A.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.18-17.00.44:799][598]AssetCheck: New page: Asset Save: NewYork_Level
+[2021.04.18-17.00.44:799][598]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.18-17.00.45:824][706]LogGeometryMode: Warning: Unable to find BoxBrush140 Brush(s) in new BSP
+[2021.04.18-17.00.45:824][706]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.04.18-17.00.48:638][ 34]Cmd: DUPLICATE
+[2021.04.18-17.00.48:639][ 34]Cmd: ACTOR DUPLICATE
+[2021.04.18-17.01.37:426][908]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2021.04.18-17.01.37:716][908]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_LevelAFB0137E4E9A8CF7D0864F80A35B6C22.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.18-17.01.37:747][908]AssetCheck: New page: Asset Save: NewYork_Level
+[2021.04.18-17.01.37:747][908]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.18-17.01.48:326][132]Cmd: DUPLICATE
+[2021.04.18-17.01.48:326][132]Cmd: ACTOR DUPLICATE
+[2021.04.18-17.02.30:702][703]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2021.04.18-17.02.30:995][703]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level11567963462A3C0C7D2374868CCEEF88.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.18-17.02.31:029][703]AssetCheck: New page: Asset Save: NewYork_Level
+[2021.04.18-17.02.31:029][703]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.18-17.03.33:030][ 81]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.04.18-17.03.33:990][164]Cmd: DELETE
+[2021.04.18-17.03.33:990][164]Cmd: ACTOR DELETE
+[2021.04.18-17.03.34:078][164]LogEditorActor: Deleted Actor: Brush
+[2021.04.18-17.03.34:110][164]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2021.04.18-17.03.34:330][164]LogEditorActor: Deleted 1 Actors (0.339 secs)
+[2021.04.18-17.03.34:997][215]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.04.18-17.04.08:884][636]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2021.04.18-17.04.09:181][636]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level5E45EDE0410B06A56DA0FAB7BE2673E2.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.18-17.04.09:220][636]AssetCheck: New page: Asset Save: NewYork_Level
+[2021.04.18-17.04.09:220][636]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.18-17.04.17:598][572]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.18-17.04.17:602][572]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.18-17.04.17:602][572]PIE: New page: PIE session: NewYork_Level (Apr 18, 2021, 9:04:17 PM)
+[2021.04.18-17.04.17:630][572]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.18-17.04.17:746][572]LogPlayLevel: PIE: StaticDuplicateObject took: (0.116337s)
+[2021.04.18-17.04.17:747][572]LogAIModule: Creating AISystem for world NewYork_Level
+[2021.04.18-17.04.17:747][572]LogPlayLevel: PIE: World Init took: (0.001089s)
+[2021.04.18-17.04.17:747][572]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewYork_Level.NewYork_Level to /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level (0.117604s)
+[2021.04.18-17.04.17:765][572]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.04.18-17.04.17:770][572]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2021.04.18-17.04.17:770][572]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.18-17.04.17:770][572]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.18-17.04.17:770][572]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.18-17.04.17:770][572]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.18-17.04.17:770][572]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.18-17.04.17:770][572]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.18-17.04.17:770][572]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.18-17.04.17:770][572]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.18-17.04.17:770][572]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.18-17.04.17:770][572]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.18-17.04.17:773][572]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.18-17.04.17:773][572]LogAudioMixer: Display: 1: FrontRight
+[2021.04.18-17.04.17:780][572]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.04.18-17.04.17:781][572]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.18-17.04.17:781][572]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.18-17.04.17:781][572]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.18-17.04.17:781][572]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.18-17.04.17:781][572]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.18-17.04.17:781][572]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.18-17.04.17:792][572]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.18-17.04.17:792][572]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.18-17.04.17:792][572]LogInit: FAudioDevice initialized.
+[2021.04.18-17.04.17:792][572]LogAudio: Display: Audio Device (ID: 26) registered with world 'NewYork_Level'.
+[2021.04.18-17.04.17:798][572]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.18-17.04.17:805][572]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level up for play (max tick rate 0) at 2021.04.18-19.04.17
+[2021.04.18-17.04.17:805][572]LogWorld: Bringing up level for play took: 0.006413
+[2021.04.18-17.04.17:805][572]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2021.04.18-17.04.17:809][572]PIE: Server logged in
+[2021.04.18-17.04.17:810][572]PIE: Play in editor total start time 0.209 seconds.
+[2021.04.18-17.04.32:601][337]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-17.04.32:601][337]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.18-17.04.32:601][337]LogWorld: UWorld::CleanupWorld for NewYork_Level, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-17.04.32:602][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-17.04.32:610][337]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.18-17.04.32:627][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-17.04.32:639][337]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-17.04.32:640][337]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.18-17.04.32:641][337]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.18-17.04.32:658][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2021.04.18-17.04.32:686][338]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2021.04.18-17.04.34:805][584]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2021.04.18-17.04.35:099][584]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level6E9FDA35443BADCF623AB9894F54D35D.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.18-17.04.35:112][584]AssetCheck: New page: Asset Save: NewYork_Level
+[2021.04.18-17.04.35:112][584]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.18-17.04.47:574][941]Cmd: DUPLICATE
+[2021.04.18-17.04.47:574][941]Cmd: ACTOR DUPLICATE
+[2021.04.18-17.05.04:470][654]Cmd: DUPLICATE
+[2021.04.18-17.05.04:470][654]Cmd: ACTOR DUPLICATE
+[2021.04.18-17.05.18:176][965]Cmd: DELETE
+[2021.04.18-17.05.18:176][965]Cmd: ACTOR DELETE
+[2021.04.18-17.05.18:258][965]LogEditorActor: Deleted Actor: Brush
+[2021.04.18-17.05.18:259][965]LogEditorActor: Deleted Actor: Brush
+[2021.04.18-17.05.18:259][965]LogEditorActor: Deleted Actor: Brush
+[2021.04.18-17.05.18:259][965]LogEditorActor: Deleted Actor: Brush
+[2021.04.18-17.05.18:260][965]LogEditorActor: Deleted Actor: Brush
+[2021.04.18-17.05.18:260][965]LogEditorActor: Deleted Actor: Brush
+[2021.04.18-17.05.18:284][965]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2021.04.18-17.05.18:505][965]LogEditorActor: Deleted 6 Actors (0.328 secs)
+[2021.04.18-17.05.21:490][304]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2021.04.18-17.05.21:785][304]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level18B623814DD6A3311E5830ACC0B5CD7A.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.18-17.05.21:813][304]AssetCheck: New page: Asset Save: NewYork_Level
+[2021.04.18-17.05.21:813][304]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.18-17.05.31:858][494]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2021.04.18-17.05.32:153][494]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level7F41A9A0426F1766A1E8C597D334FAE6.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.18-17.05.32:171][494]AssetCheck: New page: Asset Save: NewYork_Level
+[2021.04.18-17.05.32:171][494]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.18-17.11.45:781][227]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.04.18-17.11.46:079][227]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_LevelC6557B804BF2754B4FFE86A90C9FC988.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.18-17.11.46:099][227]AssetCheck: New page: Asset Save: NewYork_Level
+[2021.04.18-17.11.46:099][227]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.18-17.11.47:587][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.04.18-17.11.47:599][404]LogSlate: Window 'IAmLegend - Unreal Editor' being destroyed
+[2021.04.18-17.11.47:682][405]Cmd: QUIT_EDITOR
+[2021.04.18-17.11.47:682][405]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.04.18-17.11.47:685][405]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.04.18-17.11.47:800][405]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.04.18-17.11.47:800][405]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.04.18-17.11.47:800][405]LogAudio: Display: Audio Device unregistered from world 'NewYork_Level'.
+[2021.04.18-17.11.47:800][405]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.18-17.11.47:801][405]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.18-17.11.47:815][405]LogAudio: Display: Audio Device Manager Shutdown
+[2021.04.18-17.11.47:816][405]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.04.18-17.11.47:820][405]LogExit: Preparing to exit.
+[2021.04.18-17.11.48:206][405]LogDeviceProfile: Device profile begin destroy: [00000247267C0C00] Windows
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [00000247267C3B00] Default__DeviceProfile
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [000002472676DD00] WindowsNoEditor
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [00000247267C3900] WindowsServer
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [000002472676DE00] WindowsClient
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [00000247267C2D00] IOS
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [000002472676F000] iPadAir
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [00000247267C1100] iPadAir2
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [000002472671AB00] IPadPro
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [000002472671AC00] iPadAir3
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [00000247267C2A00] iPadAir4
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [000002472671A900] iPadMini2
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [00000247267C2E00] iPadMini3
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [0000024726719A00] iPadMini4
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [00000247267C1700] iPadMini5
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [000002472676A400] iPhone6
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [000002472676A500] iPodTouch6
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [000002472676C400] iPhone7
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [000002472676C700] iPodTouch7
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [000002472676BD00] iPhone5S
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [000002472676E300] iPhone6Plus
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [0000024726769400] iPhone6S
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [000002472676FD00] iPhone6SPlus
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [0000024726768300] iPhone7Plus
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [000002472676D800] iPhoneSE
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [000002472676B000] iPhone8
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [000002472676D400] iPhone8Plus
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [0000024726769900] iPhoneX
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [000002472676F800] iPhoneXS
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [000002472676A300] iPhoneXSMax
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [000002472676DA00] iPhoneXR
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [0000024726769B00] iPhone11
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [000002472676EF00] iPhone11Pro
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [000002472676B100] iPhone11ProMax
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [000002472676E800] iPhoneSE2
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [0000024726768500] iPhone12Mini
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [000002472676ED00] iPhone12
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [000002472676A900] iPhone12Pro
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [0000024726769500] iPhone12ProMax
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [00000247267C2800] iPadPro105
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [000002472676B700] iPadPro129
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [00000247267C0200] iPadPro97
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [00000247267C0400] iPadPro2_129
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [00000247267C0900] iPad5
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [0000024726769100] iPad6
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [000002472676D200] iPad7
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [0000024726768D00] iPad8
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [000002472676CF00] iPadPro11
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [000002472676AD00] iPadPro2_11
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [000002472676EE00] iPadPro3_129
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [0000024726769800] iPadPro4_129
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [000002472676EC00] AppleTV
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [000002472676BE00] AppleTV4K
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [000002472676FE00] TVOS
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [000002472676AC00] Mac
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [000002472676C500] MacClient
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [000002472676BA00] MacNoEditor
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [000002472676F900] MacServer
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [000002472676AF00] Linux
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [000002472676C200] LinuxNoEditor
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [0000024726768200] LinuxAArch64NoEditor
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [000002472676D500] LinuxClient
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [0000024726769700] LinuxAArch64Client
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [000002472676D000] LinuxServer
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [000002472676A700] LinuxAArch64Server
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [000002472676F300] Android
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [000002472676AE00] Android_Low
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [000002472676C800] Android_Mid
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [0000024726769600] Android_High
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [000002472676F500] Android_Default
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [0000024726769200] Android_Adreno4xx
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [000002472676D900] Android_Adreno5xx_Low
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [000002472676B400] Android_Adreno5xx
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [000002472676D700] Android_Adreno6xx
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [000002472676B300] Android_Adreno6xx_Vulkan
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [000002472676F400] Android_Mali_T6xx
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [0000024726768B00] Android_Mali_T7xx
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [000002472676EA00] Android_Mali_T8xx
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [0000024726768800] Android_Mali_G71
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [000002472676C900] Android_Mali_G72
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [0000024726768F00] Android_Mali_G72_Vulkan
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [000002472676E500] Android_Mali_G76
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [000002472676AB00] Android_Mali_G76_Vulkan
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [000002472676E200] Android_Mali_G77
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [000002472676BB00] Android_Mali_G77_Vulkan
+[2021.04.18-17.11.48:207][405]LogDeviceProfile: Device profile begin destroy: [000002472676E100] Android_Vulkan_SM5
+[2021.04.18-17.11.48:208][405]LogDeviceProfile: Device profile begin destroy: [0000024726768E00] Android_PowerVR_G6xxx
+[2021.04.18-17.11.48:208][405]LogDeviceProfile: Device profile begin destroy: [00000247267C1300] Android_PowerVR_GT7xxx
+[2021.04.18-17.11.48:208][405]LogDeviceProfile: Device profile begin destroy: [0000024726718800] Android_PowerVR_GE8xxx
+[2021.04.18-17.11.48:208][405]LogDeviceProfile: Device profile begin destroy: [00000247267C0800] Android_PowerVR_GM9xxx
+[2021.04.18-17.11.48:208][405]LogDeviceProfile: Device profile begin destroy: [0000024726719B00] Android_PowerVR_GM9xxx_Vulkan
+[2021.04.18-17.11.48:208][405]LogDeviceProfile: Device profile begin destroy: [00000247267C1200] Android_TegraK1
+[2021.04.18-17.11.48:208][405]LogDeviceProfile: Device profile begin destroy: [000002472671A200] Android_Unknown_Vulkan
+[2021.04.18-17.11.48:208][405]LogDeviceProfile: Device profile begin destroy: [00000247267C2600] Lumin
+[2021.04.18-17.11.48:208][405]LogDeviceProfile: Device profile begin destroy: [000002472671B000] Lumin_Desktop
+[2021.04.18-17.11.48:208][405]LogDeviceProfile: Device profile begin destroy: [00000247267C2B00] HoloLens
+[2021.04.18-17.11.48:216][405]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.04.18-17.11.48:216][405]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.04.18-17.11.48:216][405]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.04.18-17.11.48:216][405]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.04.18-17.11.48:216][405]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.04.18-17.11.48:216][405]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.04.18-17.11.48:216][405]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.04.18-17.11.48:216][405]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-17.11.48:218][405]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.04.18-17.11.48:218][405]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.04.18-17.11.48:218][405]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.04.18-17.11.48:218][405]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.04.18-17.11.48:218][405]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.04.18-17.11.48:218][405]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.04.18-17.11.48:218][405]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.04.18-17.11.48:218][405]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-17.11.48:219][405]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.04.18-17.11.48:219][405]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.04.18-17.11.48:219][405]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.04.18-17.11.48:219][405]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.04.18-17.11.48:219][405]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.04.18-17.11.48:219][405]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.04.18-17.11.48:219][405]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.04.18-17.11.48:219][405]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-17.11.48:220][405]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.04.18-17.11.48:220][405]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.04.18-17.11.48:220][405]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.04.18-17.11.48:220][405]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.04.18-17.11.48:220][405]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.04.18-17.11.48:220][405]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.04.18-17.11.48:220][405]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.04.18-17.11.48:220][405]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-17.11.48:264][405]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-17.11.48:264][405]LogExit: Editor shut down
+[2021.04.18-17.11.48:265][405]LogExit: Transaction tracking system shut down
+[2021.04.18-17.11.48:268][405]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.04.18-17.11.48:571][405]LogExit: Object subsystem successfully closed.
+[2021.04.18-17.11.48:591][405]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.04.18-17.11.48:616][405]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (822)
+[2021.04.18-17.11.48:616][405]LogModuleManager: Shutting down and abandoning module Voice (820)
+[2021.04.18-17.11.48:616][405]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (818)
+[2021.04.18-17.11.48:616][405]LogModuleManager: Shutting down and abandoning module BlueprintGraph (816)
+[2021.04.18-17.11.48:616][405]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (814)
+[2021.04.18-17.11.48:616][405]LogModuleManager: Shutting down and abandoning module SceneOutliner (812)
+[2021.04.18-17.11.48:617][405]LogModuleManager: Shutting down and abandoning module AddContentDialog (810)
+[2021.04.18-17.11.48:617][405]LogModuleManager: Shutting down and abandoning module WidgetCarousel (809)
+[2021.04.18-17.11.48:617][405]LogModuleManager: Shutting down and abandoning module EditorWidgets (806)
+[2021.04.18-17.11.48:617][405]LogModuleManager: Shutting down and abandoning module StatsViewer (804)
+[2021.04.18-17.11.48:617][405]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (802)
+[2021.04.18-17.11.48:617][405]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (800)
+[2021.04.18-17.11.48:617][405]LogModuleManager: Shutting down and abandoning module AutomationWorker (798)
+[2021.04.18-17.11.48:617][405]LogModuleManager: Shutting down and abandoning module SteamVREditor (796)
+[2021.04.18-17.11.48:617][405]LogModuleManager: Shutting down and abandoning module OculusMR (794)
+[2021.04.18-17.11.48:617][405]LogModuleManager: Shutting down and abandoning module GooglePADEditor (792)
+[2021.04.18-17.11.48:617][405]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (790)
+[2021.04.18-17.11.48:617][405]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (788)
+[2021.04.18-17.11.48:617][405]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (786)
+[2021.04.18-17.11.48:617][405]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (784)
+[2021.04.18-17.11.48:617][405]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (782)
+[2021.04.18-17.11.48:617][405]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (780)
+[2021.04.18-17.11.48:617][405]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (778)
+[2021.04.18-17.11.48:617][405]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (776)
+[2021.04.18-17.11.48:617][405]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (774)
+[2021.04.18-17.11.48:617][405]LogModuleManager: Shutting down and abandoning module WebMMedia (772)
+[2021.04.18-17.11.48:617][405]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (770)
+[2021.04.18-17.11.48:617][405]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (768)
+[2021.04.18-17.11.48:617][405]LogModuleManager: Shutting down and abandoning module SequenceRecorder (767)
+[2021.04.18-17.11.48:617][405]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (764)
+[2021.04.18-17.11.48:617][405]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (762)
+[2021.04.18-17.11.48:617][405]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (760)
+[2021.04.18-17.11.48:617][405]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (758)
+[2021.04.18-17.11.48:617][405]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (756)
+[2021.04.18-17.11.48:617][405]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (754)
+[2021.04.18-17.11.48:617][405]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (752)
+[2021.04.18-17.11.48:617][405]LogModuleManager: Shutting down and abandoning module PlanarCut (750)
+[2021.04.18-17.11.48:617][405]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (748)
+[2021.04.18-17.11.48:618][405]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (746)
+[2021.04.18-17.11.48:618][405]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (744)
+[2021.04.18-17.11.48:618][405]LogModuleManager: Shutting down and abandoning module CharacterAI (742)
+[2021.04.18-17.11.48:618][405]LogModuleManager: Shutting down and abandoning module TextureAlignMode (740)
+[2021.04.18-17.11.48:618][405]LogModuleManager: Shutting down and abandoning module BspMode (738)
+[2021.04.18-17.11.48:618][405]LogModuleManager: Shutting down and abandoning module GeometryMode (736)
+[2021.04.18-17.11.48:618][405]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (734)
+[2021.04.18-17.11.48:618][405]LogModuleManager: Shutting down and abandoning module SmartSnapping (732)
+[2021.04.18-17.11.48:618][405]LogModuleManager: Shutting down and abandoning module SessionServices (730)
+[2021.04.18-17.11.48:618][405]LogModuleManager: Shutting down and abandoning module MeshPaint (728)
+[2021.04.18-17.11.48:618][405]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (726)
+[2021.04.18-17.11.48:618][405]LogModuleManager: Shutting down and abandoning module FoliageEdit (724)
+[2021.04.18-17.11.48:618][405]LogModuleManager: Shutting down and abandoning module LandscapeEditor (722)
+[2021.04.18-17.11.48:618][405]LogModuleManager: Shutting down and abandoning module MeshPaintMode (720)
+[2021.04.18-17.11.48:618][405]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (718)
+[2021.04.18-17.11.48:618][405]LogModuleManager: Shutting down and abandoning module ActorPickerMode (716)
+[2021.04.18-17.11.48:618][405]LogModuleManager: Shutting down and abandoning module PlacementMode (714)
+[2021.04.18-17.11.48:618][405]LogModuleManager: Shutting down and abandoning module ViewportSnapping (712)
+[2021.04.18-17.11.48:618][405]LogModuleManager: Shutting down and abandoning module ViewportInteraction (710)
+[2021.04.18-17.11.48:618][405]LogModuleManager: Shutting down and abandoning module ClothPainter (708)
+[2021.04.18-17.11.48:618][405]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (707)
+[2021.04.18-17.11.48:618][405]LogModuleManager: Shutting down and abandoning module LogVisualizer (704)
+[2021.04.18-17.11.48:618][405]LogModuleManager: Shutting down and abandoning module IntroTutorials (702)
+[2021.04.18-17.11.48:618][405]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (701)
+[2021.04.18-17.11.48:618][405]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (698)
+[2021.04.18-17.11.48:618][405]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (696)
+[2021.04.18-17.11.48:618][405]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (694)
+[2021.04.18-17.11.48:618][405]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (693)
+[2021.04.18-17.11.48:866][405]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (690)
+[2021.04.18-17.11.48:867][405]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (688)
+[2021.04.18-17.11.48:867][405]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (686)
+[2021.04.18-17.11.48:867][405]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (684)
+[2021.04.18-17.11.48:867][405]LogModuleManager: Shutting down and abandoning module TraceInsights (682)
+[2021.04.18-17.11.48:867][405]MemoryProfiler: Shutdown
+[2021.04.18-17.11.48:867][405]NetworkingProfiler: Shutdown
+[2021.04.18-17.11.48:867][405]LoadingProfiler: Shutdown
+[2021.04.18-17.11.48:867][405]TimingProfiler: Shutdown
+[2021.04.18-17.11.48:867][405]LogModuleManager: Shutting down and abandoning module TraceServices (681)
+[2021.04.18-17.11.48:867][405]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (678)
+[2021.04.18-17.11.48:867][405]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (676)
+[2021.04.18-17.11.48:867][405]LogModuleManager: Shutting down and abandoning module InputBindingEditor (674)
+[2021.04.18-17.11.48:867][405]LogModuleManager: Shutting down and abandoning module MergeActors (672)
+[2021.04.18-17.11.48:867][405]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (670)
+[2021.04.18-17.11.48:867][405]LogModuleManager: Shutting down and abandoning module LocalizationService (669)
+[2021.04.18-17.11.48:867][405]LogModuleManager: Shutting down and abandoning module HardwareTargeting (666)
+[2021.04.18-17.11.48:867][405]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (664)
+[2021.04.18-17.11.48:867][405]LogModuleManager: Shutting down and abandoning module UndoHistory (662)
+[2021.04.18-17.11.48:867][405]LogModuleManager: Shutting down and abandoning module XmlParser (660)
+[2021.04.18-17.11.48:867][405]LogModuleManager: Shutting down and abandoning module Blutility (658)
+[2021.04.18-17.11.48:867][405]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (656)
+[2021.04.18-17.11.48:867][405]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (655)
+[2021.04.18-17.11.48:868][405]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (652)
+[2021.04.18-17.11.48:868][405]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (651)
+[2021.04.18-17.11.48:868][405]LogModuleManager: Shutting down and abandoning module SettingsEditor (648)
+[2021.04.18-17.11.48:868][405]LogModuleManager: Shutting down and abandoning module ProjectLauncher (646)
+[2021.04.18-17.11.48:868][405]LogModuleManager: Shutting down and abandoning module SessionFrontend (644)
+[2021.04.18-17.11.48:868][405]LogModuleManager: Shutting down and abandoning module ProfilerClient (642)
+[2021.04.18-17.11.48:868][405]LogModuleManager: Shutting down and abandoning module DeviceManager (640)
+[2021.04.18-17.11.48:868][405]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (639)
+[2021.04.18-17.11.48:899][405]LogModuleManager: Shutting down and abandoning module AutomationController (636)
+[2021.04.18-17.11.48:899][405]LogModuleManager: Shutting down and abandoning module AutomationWindow (634)
+[2021.04.18-17.11.48:899][405]LogModuleManager: Shutting down and abandoning module Layers (632)
+[2021.04.18-17.11.48:899][405]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (630)
+[2021.04.18-17.11.48:899][405]LogModuleManager: Shutting down and abandoning module DetailCustomizations (628)
+[2021.04.18-17.11.48:899][405]LogModuleManager: Shutting down and abandoning module PackagesDialog (626)
+[2021.04.18-17.11.48:899][405]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (624)
+[2021.04.18-17.11.48:899][405]LogModuleManager: Shutting down and abandoning module Persona (622)
+[2021.04.18-17.11.48:899][405]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (621)
+[2021.04.18-17.11.48:899][405]LogModuleManager: Shutting down and abandoning module AnimGraph (619)
+[2021.04.18-17.11.48:899][405]LogModuleManager: Shutting down and abandoning module Kismet (616)
+[2021.04.18-17.11.48:908][405]LogModuleManager: Shutting down and abandoning module KismetWidgets (615)
+[2021.04.18-17.11.48:908][405]LogModuleManager: Shutting down and abandoning module GraphEditor (612)
+[2021.04.18-17.11.48:909][405]LogModuleManager: Shutting down and abandoning module StructViewer (610)
+[2021.04.18-17.11.48:909][405]LogModuleManager: Shutting down and abandoning module ClassViewer (608)
+[2021.04.18-17.11.48:910][405]LogModuleManager: Shutting down and abandoning module Toolbox (606)
+[2021.04.18-17.11.48:910][405]LogModuleManager: Shutting down and abandoning module ModuleUI (604)
+[2021.04.18-17.11.48:910][405]LogModuleManager: Shutting down and abandoning module OutputLog (602)
+[2021.04.18-17.11.48:912][405]LogModuleManager: Shutting down and abandoning module GammaUI (600)
+[2021.04.18-17.11.48:912][405]LogModuleManager: Shutting down and abandoning module Documentation (598)
+[2021.04.18-17.11.48:912][405]LogModuleManager: Shutting down and abandoning module LiveCoding (596)
+[2021.04.18-17.11.48:912][405]LogModuleManager: Shutting down and abandoning module LevelSequence (594)
+[2021.04.18-17.11.48:912][405]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (592)
+[2021.04.18-17.11.48:912][405]LogModuleManager: Shutting down and abandoning module MovieScene (590)
+[2021.04.18-17.11.48:912][405]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (588)
+[2021.04.18-17.11.48:912][405]LogModuleManager: Shutting down and abandoning module LauncherPlatform (586)
+[2021.04.18-17.11.48:912][405]LogModuleManager: Shutting down and abandoning module AnalyticsET (584)
+[2021.04.18-17.11.48:912][405]LogModuleManager: Shutting down and abandoning module PortalServices (582)
+[2021.04.18-17.11.48:912][405]LogModuleManager: Shutting down and abandoning module PortalRpc (580)
+[2021.04.18-17.11.48:912][405]LogModuleManager: Shutting down and abandoning module MessagingRpc (578)
+[2021.04.18-17.11.48:912][405]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (576)
+[2021.04.18-17.11.48:912][405]LogModuleManager: Shutting down and abandoning module AudioMixerCore (575)
+[2021.04.18-17.11.48:912][405]LogModuleManager: Shutting down and abandoning module AIModule (572)
+[2021.04.18-17.11.48:913][405]LogModuleManager: Shutting down and abandoning module GameplayDebugger (571)
+[2021.04.18-17.11.48:913][405]LogModuleManager: Shutting down and abandoning module AITestSuite (569)
+[2021.04.18-17.11.48:913][405]LogModuleManager: Shutting down and abandoning module NavigationSystem (567)
+[2021.04.18-17.11.48:913][405]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (564)
+[2021.04.18-17.11.48:917][405]LogModuleManager: Shutting down and abandoning module ProfilerService (562)
+[2021.04.18-17.11.49:111][405]LogModuleManager: Shutting down and abandoning module TaskGraph (560)
+[2021.04.18-17.11.49:111][405]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (558)
+[2021.04.18-17.11.49:111][405]LogModuleManager: Shutting down and abandoning module OculusEditor (556)
+[2021.04.18-17.11.49:111][405]LogModuleManager: Shutting down and abandoning module OculusInput (554)
+[2021.04.18-17.11.49:111][405]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (552)
+[2021.04.18-17.11.49:111][405]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (550)
+[2021.04.18-17.11.49:111][405]LogModuleManager: Shutting down and abandoning module CollectionManager (549)
+[2021.04.18-17.11.49:111][405]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (546)
+[2021.04.18-17.11.49:111][405]LogModuleManager: Shutting down and abandoning module ScreenshotTools (544)
+[2021.04.18-17.11.49:111][405]LogModuleManager: Shutting down and abandoning module SynthesisEditor (542)
+[2021.04.18-17.11.49:111][405]LogModuleManager: Shutting down and abandoning module Synthesis (540)
+[2021.04.18-17.11.49:111][405]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (538)
+[2021.04.18-17.11.49:111][405]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (536)
+[2021.04.18-17.11.49:111][405]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (534)
+[2021.04.18-17.11.49:111][405]LogModuleManager: Shutting down and abandoning module GooglePAD (532)
+[2021.04.18-17.11.49:111][405]LogModuleManager: Shutting down and abandoning module EditableMesh (530)
+[2021.04.18-17.11.49:111][405]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (528)
+[2021.04.18-17.11.49:111][405]LogModuleManager: Shutting down and abandoning module CableComponent (526)
+[2021.04.18-17.11.49:111][405]LogModuleManager: Shutting down and abandoning module AudioCapture (524)
+[2021.04.18-17.11.49:111][405]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (523)
+[2021.04.18-17.11.49:111][405]LogModuleManager: Shutting down and abandoning module AssetTags (520)
+[2021.04.18-17.11.49:111][405]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (518)
+[2021.04.18-17.11.49:111][405]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (516)
+[2021.04.18-17.11.49:111][405]LogModuleManager: Shutting down and abandoning module AppleImageUtils (514)
+[2021.04.18-17.11.49:111][405]LogModuleManager: Shutting down and abandoning module AndroidPermission (512)
+[2021.04.18-17.11.49:111][405]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (510)
+[2021.04.18-17.11.49:111][405]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (508)
+[2021.04.18-17.11.49:111][405]LogModuleManager: Shutting down and abandoning module TemplateSequence (506)
+[2021.04.18-17.11.49:111][405]LogModuleManager: Shutting down and abandoning module MediaCompositing (504)
+[2021.04.18-17.11.49:111][405]LogModuleManager: Shutting down and abandoning module ImgMedia (502)
+[2021.04.18-17.11.49:111][405]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (500)
+[2021.04.18-17.11.49:111][405]LogModuleManager: Shutting down and abandoning module MotoSynth (498)
+[2021.04.18-17.11.49:111][405]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (496)
+[2021.04.18-17.11.49:111][405]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (494)
+[2021.04.18-17.11.49:112][405]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (492)
+[2021.04.18-17.11.49:112][405]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (490)
+[2021.04.18-17.11.49:112][405]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (488)
+[2021.04.18-17.11.49:112][405]LogModuleManager: Shutting down and abandoning module MeshConversion (486)
+[2021.04.18-17.11.49:112][405]LogModuleManager: Shutting down and abandoning module DynamicMesh (484)
+[2021.04.18-17.11.49:112][405]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (482)
+[2021.04.18-17.11.49:112][405]LogModuleManager: Shutting down and abandoning module GeometricObjects (480)
+[2021.04.18-17.11.49:112][405]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (478)
+[2021.04.18-17.11.49:112][405]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (477)
+[2021.04.18-17.11.49:112][405]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (474)
+[2021.04.18-17.11.49:112][405]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (472)
+[2021.04.18-17.11.49:112][405]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (470)
+[2021.04.18-17.11.49:112][405]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (468)
+[2021.04.18-17.11.49:112][405]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (466)
+[2021.04.18-17.11.49:112][405]LogModuleManager: Shutting down and abandoning module ChaosNiagara (464)
+[2021.04.18-17.11.49:112][405]LogModuleManager: Shutting down and abandoning module FractureEditor (462)
+[2021.04.18-17.11.49:112][405]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (461)
+[2021.04.18-17.11.49:112][405]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (458)
+[2021.04.18-17.11.49:112][405]LogModuleManager: Shutting down and abandoning module BackChannel (456)
+[2021.04.18-17.11.49:112][405]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (454)
+[2021.04.18-17.11.49:112][405]LogModuleManager: Shutting down and abandoning module AutomationUtils (452)
+[2021.04.18-17.11.49:112][405]LogModuleManager: Shutting down and abandoning module AlembicImporter (450)
+[2021.04.18-17.11.49:112][405]LogModuleManager: Shutting down and abandoning module AlembicLibrary (449)
+[2021.04.18-17.11.49:112][405]LogModuleManager: Shutting down and abandoning module GeometryCache (448)
+[2021.04.18-17.11.49:112][405]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (447)
+[2021.04.18-17.11.49:112][405]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (442)
+[2021.04.18-17.11.49:112][405]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (440)
+[2021.04.18-17.11.49:112][405]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (438)
+[2021.04.18-17.11.49:112][405]LogModuleManager: Shutting down and abandoning module UObjectPlugin (436)
+[2021.04.18-17.11.49:112][405]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (434)
+[2021.04.18-17.11.49:112][405]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (432)
+[2021.04.18-17.11.49:112][405]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (430)
+[2021.04.18-17.11.49:112][405]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (428)
+[2021.04.18-17.11.49:112][405]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (426)
+[2021.04.18-17.11.49:112][405]LogModuleManager: Shutting down and abandoning module PluginUtils (424)
+[2021.04.18-17.11.49:112][405]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (422)
+[2021.04.18-17.11.49:112][405]LogModuleManager: Shutting down and abandoning module GitSourceControl (420)
+[2021.04.18-17.11.49:112][405]LogModuleManager: Shutting down and abandoning module SourceControl (419)
+[2021.04.18-17.11.49:112][405]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (416)
+[2021.04.18-17.11.49:112][405]LogModuleManager: Shutting down and abandoning module PluginBrowser (414)
+[2021.04.18-17.11.49:112][405]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (412)
+[2021.04.18-17.11.49:112][405]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (410)
+[2021.04.18-17.11.49:112][405]LogModuleManager: Shutting down and abandoning module CurveEditorTools (408)
+[2021.04.18-17.11.49:112][405]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (406)
+[2021.04.18-17.11.49:112][405]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (404)
+[2021.04.18-17.11.49:112][405]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (402)
+[2021.04.18-17.11.49:112][405]LogModuleManager: Shutting down and abandoning module CryptoKeys (400)
+[2021.04.18-17.11.49:112][405]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (398)
+[2021.04.18-17.11.49:112][405]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (396)
+[2021.04.18-17.11.49:112][405]LogModuleManager: Shutting down and abandoning module Paper2DEditor (394)
+[2021.04.18-17.11.49:113][405]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (392)
+[2021.04.18-17.11.49:113][405]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (390)
+[2021.04.18-17.11.49:113][405]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (388)
+[2021.04.18-17.11.49:113][405]LogModuleManager: Shutting down and abandoning module SignificanceManager (386)
+[2021.04.18-17.11.49:113][405]LogModuleManager: Shutting down and abandoning module SoundFields (384)
+[2021.04.18-17.11.49:113][405]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (382)
+[2021.04.18-17.11.49:113][405]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (380)
+[2021.04.18-17.11.49:113][405]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (378)
+[2021.04.18-17.11.49:113][405]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (374)
+[2021.04.18-17.11.49:113][405]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (372)
+[2021.04.18-17.11.49:113][405]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (370)
+[2021.04.18-17.11.49:113][405]LogModuleManager: Shutting down and abandoning module ActorSequence (368)
+[2021.04.18-17.11.49:113][405]LogModuleManager: Shutting down and abandoning module UdpMessaging (366)
+[2021.04.18-17.11.49:214][405]LogModuleManager: Shutting down and abandoning module TcpMessaging (364)
+[2021.04.18-17.11.49:315][405]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (362)
+[2021.04.18-17.11.49:315][405]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (360)
+[2021.04.18-17.11.49:315][405]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (358)
+[2021.04.18-17.11.49:315][405]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (356)
+[2021.04.18-17.11.49:315][405]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (354)
+[2021.04.18-17.11.49:315][405]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2021.04.18-17.11.49:315][405]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (352)
+[2021.04.18-17.11.49:315][405]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (350)
+[2021.04.18-17.11.49:315][405]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (348)
+[2021.04.18-17.11.49:315][405]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (346)
+[2021.04.18-17.11.49:315][405]LogModuleManager: Shutting down and abandoning module MagicLeapController (344)
+[2021.04.18-17.11.49:315][405]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2021.04.18-17.11.49:315][405]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (342)
+[2021.04.18-17.11.49:315][405]LogModuleManager: Shutting down and abandoning module MagicLeapAR (340)
+[2021.04.18-17.11.49:315][405]LogModuleManager: Shutting down and abandoning module AugmentedReality (339)
+[2021.04.18-17.11.49:315][405]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (336)
+[2021.04.18-17.11.49:315][405]LogModuleManager: Shutting down and abandoning module Niagara (334)
+[2021.04.18-17.11.49:315][405]LogModuleManager: Shutting down and abandoning module SignalProcessing (333)
+[2021.04.18-17.11.49:315][405]LogModuleManager: Shutting down and abandoning module NiagaraEditor (331)
+[2021.04.18-17.11.49:315][405]LogModuleManager: Shutting down and abandoning module NiagaraCore (328)
+[2021.04.18-17.11.49:315][405]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (326)
+[2021.04.18-17.11.49:315][405]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (324)
+[2021.04.18-17.11.49:315][405]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (322)
+[2021.04.18-17.11.49:316][405]LogModuleManager: Shutting down and abandoning module FacialAnimation (320)
+[2021.04.18-17.11.49:316][405]LogModuleManager: Shutting down and abandoning module DataValidation (318)
+[2021.04.18-17.11.49:316][405]LogModuleManager: Shutting down and abandoning module AnimationSharing (316)
+[2021.04.18-17.11.49:316][405]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (314)
+[2021.04.18-17.11.49:316][405]LogModuleManager: Shutting down and abandoning module LevelEditor (313)
+[2021.04.18-17.11.49:317][405]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (312)
+[2021.04.18-17.11.49:317][405]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (310)
+[2021.04.18-17.11.49:317][405]LogModuleManager: Shutting down and abandoning module MainFrame (308)
+[2021.04.18-17.11.49:317][405]LogModuleManager: Shutting down and abandoning module HotReload (307)
+[2021.04.18-17.11.49:318][405]LogModuleManager: Shutting down and abandoning module ToolMenus (303)
+[2021.04.18-17.11.49:318][405]LogModuleManager: Shutting down and abandoning module ContentBrowser (301)
+[2021.04.18-17.11.49:318][405]LogModuleManager: Shutting down and abandoning module ContentBrowserData (300)
+[2021.04.18-17.11.49:318][405]LogModuleManager: Shutting down and abandoning module TreeMap (297)
+[2021.04.18-17.11.49:318][405]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (294)
+[2021.04.18-17.11.49:318][405]LogModuleManager: Shutting down and abandoning module Paper2D (292)
+[2021.04.18-17.11.49:318][405]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (290)
+[2021.04.18-17.11.49:319][405]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (288)
+[2021.04.18-17.11.49:319][405]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (286)
+[2021.04.18-17.11.49:319][405]LogModuleManager: Shutting down and abandoning module PacketHandler (284)
+[2021.04.18-17.11.49:319][405]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (282)
+[2021.04.18-17.11.49:319][405]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (280)
+[2021.04.18-17.11.49:319][405]LogModuleManager: Shutting down and abandoning module MediaAssets (278)
+[2021.04.18-17.11.49:319][405]LogModuleManager: Shutting down and abandoning module Overlay (276)
+[2021.04.18-17.11.49:319][405]LogModuleManager: Shutting down and abandoning module OverlayEditor (275)
+[2021.04.18-17.11.49:319][405]LogModuleManager: Shutting down and abandoning module VREditor (272)
+[2021.04.18-17.11.49:319][405]LogModuleManager: Shutting down and abandoning module StringTableEditor (270)
+[2021.04.18-17.11.49:319][405]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (268)
+[2021.04.18-17.11.49:319][405]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (266)
+[2021.04.18-17.11.49:319][405]LogModuleManager: Shutting down and abandoning module FunctionalTesting (264)
+[2021.04.18-17.11.49:319][405]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (262)
+[2021.04.18-17.11.49:319][405]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (261)
+[2021.04.18-17.11.49:319][405]LogModuleManager: Shutting down and abandoning module UMG (258)
+[2021.04.18-17.11.49:319][405]LogModuleManager: Shutting down and abandoning module UMGEditor (257)
+[2021.04.18-17.11.49:319][405]LogModuleManager: Shutting down and abandoning module MessageLog (255)
+[2021.04.18-17.11.49:319][405]LogModuleManager: Shutting down and abandoning module SlateReflector (250)
+[2021.04.18-17.11.49:320][405]LogModuleManager: Shutting down and abandoning module Slate (248)
+[2021.04.18-17.11.49:320][405]LogModuleManager: Shutting down and abandoning module SlateCore (246)
+[2021.04.18-17.11.49:321][405]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (244)
+[2021.04.18-17.11.49:321][405]LogModuleManager: Shutting down and abandoning module UnrealEd (242)
+[2021.04.18-17.11.49:321][405]LogModuleManager: Shutting down and abandoning module MRMesh (240)
+[2021.04.18-17.11.49:321][405]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (238)
+[2021.04.18-17.11.49:321][405]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (236)
+[2021.04.18-17.11.49:321][405]LogModuleManager: Shutting down and abandoning module XAudio2 (234)
+[2021.04.18-17.11.49:321][405]LogModuleManager: Shutting down and abandoning module Networking (232)
+[2021.04.18-17.11.49:321][405]LogModuleManager: Shutting down and abandoning module Core (230)
+[2021.04.18-17.11.49:321][405]LogModuleManager: Shutting down and abandoning module MovieSceneTools (228)
+[2021.04.18-17.11.49:321][405]LogModuleManager: Shutting down and abandoning module CurveEditor (227)
+[2021.04.18-17.11.49:321][405]LogModuleManager: Shutting down and abandoning module Sequencer (225)
+[2021.04.18-17.11.49:321][405]LogModuleManager: Shutting down and abandoning module EditorStyle (224)
+[2021.04.18-17.11.49:323][405]LogModuleManager: Shutting down and abandoning module KismetCompiler (220)
+[2021.04.18-17.11.49:323][405]LogModuleManager: Shutting down and abandoning module MeshBuilder (218)
+[2021.04.18-17.11.49:323][405]LogModuleManager: Shutting down and abandoning module MeshUtilities (216)
+[2021.04.18-17.11.49:323][405]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (215)
+[2021.04.18-17.11.49:323][405]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (214)
+[2021.04.18-17.11.49:323][405]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (213)
+[2021.04.18-17.11.49:323][405]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (211)
+[2021.04.18-17.11.49:323][405]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (209)
+[2021.04.18-17.11.49:323][405]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (207)
+[2021.04.18-17.11.49:323][405]LogModuleManager: Shutting down and abandoning module MaterialBaking (203)
+[2021.04.18-17.11.49:323][405]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (198)
+[2021.04.18-17.11.49:323][405]LogModuleManager: Shutting down and abandoning module DerivedDataCache (196)
+[2021.04.18-17.11.49:323][405]LogModuleManager: Shutting down and abandoning module TargetPlatform (194)
+[2021.04.18-17.11.49:323][405]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (193)
+[2021.04.18-17.11.49:324][405]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (191)
+[2021.04.18-17.11.49:324][405]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (189)
+[2021.04.18-17.11.49:324][405]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (187)
+[2021.04.18-17.11.49:324][405]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (185)
+[2021.04.18-17.11.49:324][405]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (183)
+[2021.04.18-17.11.49:324][405]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (181)
+[2021.04.18-17.11.49:324][405]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (179)
+[2021.04.18-17.11.49:324][405]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (177)
+[2021.04.18-17.11.49:324][405]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (175)
+[2021.04.18-17.11.49:324][405]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (173)
+[2021.04.18-17.11.49:324][405]LogModuleManager: Shutting down and abandoning module ImageWrapper (172)
+[2021.04.18-17.11.49:324][405]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (169)
+[2021.04.18-17.11.49:324][405]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (167)
+[2021.04.18-17.11.49:324][405]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (165)
+[2021.04.18-17.11.49:324][405]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (163)
+[2021.04.18-17.11.49:324][405]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (161)
+[2021.04.18-17.11.49:324][405]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (159)
+[2021.04.18-17.11.49:324][405]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (157)
+[2021.04.18-17.11.49:324][405]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (155)
+[2021.04.18-17.11.49:326][405]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (153)
+[2021.04.18-17.11.49:326][405]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (151)
+[2021.04.18-17.11.49:326][405]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (149)
+[2021.04.18-17.11.49:326][405]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (147)
+[2021.04.18-17.11.49:326][405]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (145)
+[2021.04.18-17.11.49:327][405]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (143)
+[2021.04.18-17.11.49:327][405]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (141)
+[2021.04.18-17.11.49:327][405]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (139)
+[2021.04.18-17.11.49:327][405]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (137)
+[2021.04.18-17.11.49:327][405]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (135)
+[2021.04.18-17.11.49:327][405]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (133)
+[2021.04.18-17.11.49:327][405]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (131)
+[2021.04.18-17.11.49:327][405]LogModuleManager: Shutting down and abandoning module Messaging (129)
+[2021.04.18-17.11.49:327][405]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (127)
+[2021.04.18-17.11.49:328][405]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (125)
+[2021.04.18-17.11.49:334][405]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (123)
+[2021.04.18-17.11.49:334][405]LogModuleManager: Shutting down and abandoning module InputCore (120)
+[2021.04.18-17.11.49:334][405]LogModuleManager: Shutting down and abandoning module Settings (118)
+[2021.04.18-17.11.49:334][405]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (116)
+[2021.04.18-17.11.49:334][405]LogModuleManager: Shutting down and abandoning module PhysXCooking (114)
+[2021.04.18-17.11.49:334][405]LogModuleManager: Shutting down and abandoning module Chaos (112)
+[2021.04.18-17.11.49:334][405]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (110)
+[2021.04.18-17.11.49:334][405]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (109)
+[2021.04.18-17.11.49:334][405]LogModuleManager: Shutting down and abandoning module AVEncoder (108)
+[2021.04.18-17.11.49:334][405]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (104)
+[2021.04.18-17.11.49:334][405]LogModuleManager: Shutting down and abandoning module SteamVRInput (102)
+[2021.04.18-17.11.49:334][405]LogModuleManager: Shutting down and abandoning module SteamVR (100)
+[2021.04.18-17.11.49:334][405]LogHMD: Freeing OpenVRDLLHandle.
+[2021.04.18-17.11.49:334][405]LogModuleManager: Shutting down and abandoning module OculusHMD (98)
+[2021.04.18-17.11.49:334][405]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (96)
+[2021.04.18-17.11.49:334][405]LogModuleManager: Shutting down and abandoning module ChunkDownloader (94)
+[2021.04.18-17.11.49:334][405]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (92)
+[2021.04.18-17.11.49:334][405]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (88)
+[2021.04.18-17.11.49:335][405]LogModuleManager: Shutting down and abandoning module XMPP (83)
+[2021.04.18-17.11.49:335][405]LogModuleManager: Shutting down and abandoning module WebSockets (82)
+[2021.04.18-17.11.49:363][405]LogModuleManager: Shutting down and abandoning module HTTP (79)
+[2021.04.18-17.11.49:363][405]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2021.04.18-17.11.49:363][405]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD617EC3C-411D-B5C3-FBE2-BBA3298CB583%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.1-15228867%2B%2B%2BUE4%2BRelease-4.26&UserID=007c1d6241440086ca363289188cb54f%7C872c4e0cd5c1442fa71eee5714906c4d%7C9a152a9e-c9e9-4d3b-9c57-8a1fb87cdf7a&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2021.04.18-17.11.49:363][405]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2021.04.18-17.11.49:379][405]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2021.04.18-17.11.49:380][405]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2021.04.18-17.11.49:380][405]LogModuleManager: Shutting down and abandoning module WmfMedia (72)
+[2021.04.18-17.11.49:381][405]LogModuleManager: Shutting down and abandoning module Media (71)
+[2021.04.18-17.11.49:382][405]LogModuleManager: Shutting down and abandoning module MediaInfo (70)
+[2021.04.18-17.11.49:382][405]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (66)
+[2021.04.18-17.11.49:382][405]LogModuleManager: Shutting down and abandoning module MLSDK (64)
+[2021.04.18-17.11.49:382][405]LogModuleManager: Shutting down and abandoning module MagicLeap (62)
+[2021.04.18-17.11.49:382][405]LogModuleManager: Shutting down and abandoning module ChaosCloth (60)
+[2021.04.18-17.11.49:382][405]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (58)
+[2021.04.18-17.11.49:382][405]LogModuleManager: Shutting down and abandoning module NiagaraShader (56)
+[2021.04.18-17.11.49:382][405]LogModuleManager: Shutting down and abandoning module VariantManagerContent (54)
+[2021.04.18-17.11.49:382][405]LogModuleManager: Shutting down and abandoning module DatasmithContent (52)
+[2021.04.18-17.11.49:382][405]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2021.04.18-17.11.49:382][405]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2021.04.18-17.11.49:382][405]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (46)
+[2021.04.18-17.11.49:382][405]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (44)
+[2021.04.18-17.11.49:382][405]LogModuleManager: Shutting down and abandoning module PlatformCrypto (42)
+[2021.04.18-17.11.49:382][405]LogModuleManager: Shutting down and abandoning module XGEController (40)
+[2021.04.18-17.11.49:382][405]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2021.04.18-17.11.49:382][405]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2021.04.18-17.11.49:383][405]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2021.04.18-17.11.49:383][405]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2021.04.18-17.11.49:383][405]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2021.04.18-17.11.49:383][405]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2021.04.18-17.11.49:383][405]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2021.04.18-17.11.49:384][405]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2021.04.18-17.11.49:384][405]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2021.04.18-17.11.49:384][405]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.04.18-17.11.49:384][405]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.04.18-17.11.49:384][405]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.04.18-17.11.49:384][405]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.04.18-17.11.49:384][405]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.04.18-17.11.49:384][405]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.04.18-17.11.49:384][405]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.04.18-17.11.49:384][405]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.04.18-17.11.49:384][405]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.04.18-17.11.49:384][405]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.04.18-17.11.49:384][405]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2021.04.18-17.11.49:385][405]LogD3D11RHI: Shutdown
+[2021.04.18-17.11.49:385][405]LogD3D11RHI: CleanupD3DDevice
+[2021.04.18-17.11.49:401][405]LogExit: Exiting.
+[2021.04.18-17.11.49:413][405]Log file closed, 04/18/21 19:11:49
