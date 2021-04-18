@@ -1154,3 +1154,636 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.18-18.01.26:991][739]LogSavePackage: Moving '../../../../../Users/Lluis/Documents/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level32FF836D470E8C51D0BDBB89DA1E3BD0.tmp' to '../../../../../Users/Lluis/Documents/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
 [2021.04.18-18.01.27:012][739]AssetCheck: New page: Asset Save: NewYork_Level
 [2021.04.18-18.01.27:012][739]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.18-18.04.33:138][881]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.04.18-18.04.34:465][  5]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.04.18-18.06.24:615][964]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.18-18.06.41:188][654]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.18-18.07.04:332][849]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.18-18.07.16:156][ 69]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.18-18.07.18:954][324]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.18-18.08.21:055][477]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.18-18.08.37:120][927]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.18-18.08.44:592][619]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.18-18.08.50:014][154]Cmd: DELETE
+[2021.04.18-18.08.50:014][154]Cmd: ACTOR DELETE
+[2021.04.18-18.08.50:057][154]LogEditorActor: Deleted Actor: PointLight
+[2021.04.18-18.08.50:089][154]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2021.04.18-18.08.50:099][154]LogEditorActor: Deleted 1 Actors (0.084 secs)
+[2021.04.18-18.08.58:509][872]LogRenderer: Reallocating scene render targets to support 1148x708 Format 10 NumSamples 1 (Frame:1).
+[2021.04.18-18.09.11:450][368]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.18-18.09.29:089][325]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.18-18.09.34:179][860]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.18-18.09.41:569][571]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.18-18.10.06:664][309]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.04.18-18.10.06:811][309]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2021.04.18-18.10.11:290][745]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.18-18.10.11:299][745]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.18-18.10.11:299][745]PIE: New page: PIE session: NewYork_Level (18 abr. 2021 22:10:11)
+[2021.04.18-18.10.11:299][745]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.18-18.10.11:480][745]LogPlayLevel: PIE: StaticDuplicateObject took: (0.179640s)
+[2021.04.18-18.10.11:482][745]LogAIModule: Creating AISystem for world NewYork_Level
+[2021.04.18-18.10.11:482][745]LogPlayLevel: PIE: World Init took: (0.002246s)
+[2021.04.18-18.10.11:482][745]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewYork_Level.NewYork_Level to /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level (0.182104s)
+[2021.04.18-18.10.11:514][745]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2021.04.18-18.10.11:516][745]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.04.18-18.10.11:516][745]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.18-18.10.11:516][745]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.18-18.10.11:516][745]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.18-18.10.11:516][745]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.18-18.10.11:516][745]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.18-18.10.11:516][745]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.18-18.10.11:516][745]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.18-18.10.11:516][745]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.18-18.10.11:517][745]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.18-18.10.11:517][745]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.18-18.10.11:525][745]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.18-18.10.11:525][745]LogAudioMixer: Display: 1: FrontRight
+[2021.04.18-18.10.11:546][745]LogAudioMixer: Display: Using Audio Device BenQ GW2480 (NVIDIA High Definition Audio)
+[2021.04.18-18.10.11:546][745]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.18-18.10.11:546][745]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.18-18.10.11:546][745]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.18-18.10.11:547][745]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.18-18.10.11:547][745]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.18-18.10.11:547][745]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.18-18.10.11:560][745]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.18-18.10.11:560][745]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.18-18.10.11:560][745]LogInit: FAudioDevice initialized.
+[2021.04.18-18.10.11:560][745]LogAudio: Display: Audio Device (ID: 6) registered with world 'NewYork_Level'.
+[2021.04.18-18.10.11:570][745]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.18-18.10.11:579][745]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level up for play (max tick rate 0) at 2021.04.18-20.10.11
+[2021.04.18-18.10.11:580][745]LogWorld: Bringing up level for play took: 0.008422
+[2021.04.18-18.10.11:580][745]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.04.18-18.10.11:585][745]PIE: Server logged in
+[2021.04.18-18.10.11:586][745]PIE: Play in editor total start time 0,29 seconds.
+[2021.04.18-18.10.25:203][333]LogCharacterMovement: FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=117.01 Y=31.72 Z=0.00 Location: X=-4431.29 Y=1308.11 Z=77.02 Normal: X=-0.11 Y=0.66 Z=0.75 PenetrationDepth:1.264 Actor:None Component:ModelComponent_50916 BoneName:None (0 other events since notify)
+[2021.04.18-18.10.52:481][466]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-18.10.52:481][466]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.18-18.10.52:481][466]LogWorld: UWorld::CleanupWorld for NewYork_Level, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-18.10.52:482][466]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-18.10.52:491][466]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.18-18.10.52:497][466]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-18.10.52:529][466]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.18-18.10.52:530][466]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.18-18.10.52:531][466]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.18-18.10.52:550][466]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-18.10.52:556][466]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2021.04.18-18.10.52:591][467]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.04.18-18.10.56:770][945]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.18-18.10.56:818][945]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2021.04.18-18.10.57:317][945]LogSavePackage: Moving '../../../../../Users/Lluis/Documents/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_LevelA18E91794A954AE1B86A26A48D6CD7E7.tmp' to '../../../../../Users/Lluis/Documents/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.18-18.10.57:328][945]LogFileHelpers: Saving map 'NewYork_Level' took 0.541
+[2021.04.18-18.10.57:340][945]AssetCheck: New page: Asset Save: NewYork_Level
+[2021.04.18-18.10.57:340][945]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.18-18.11.29:662][287]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.18-18.11.38:318][121]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.18-18.12.04:842][212]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.04.18-18.12.05:059][212]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2021.04.18-18.12.08:053][508]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.18-18.12.08:062][508]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.18-18.12.08:063][508]PIE: New page: PIE session: NewYork_Level (18 abr. 2021 22:12:08)
+[2021.04.18-18.12.08:063][508]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.18-18.12.08:229][508]LogPlayLevel: PIE: StaticDuplicateObject took: (0.166439s)
+[2021.04.18-18.12.08:230][508]LogAIModule: Creating AISystem for world NewYork_Level
+[2021.04.18-18.12.08:231][508]LogPlayLevel: PIE: World Init took: (0.001397s)
+[2021.04.18-18.12.08:231][508]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewYork_Level.NewYork_Level to /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level (0.168020s)
+[2021.04.18-18.12.08:270][508]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2021.04.18-18.12.08:272][508]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.04.18-18.12.08:272][508]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.18-18.12.08:272][508]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.18-18.12.08:272][508]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.18-18.12.08:272][508]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.18-18.12.08:272][508]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.18-18.12.08:272][508]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.18-18.12.08:272][508]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.18-18.12.08:272][508]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.18-18.12.08:272][508]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.18-18.12.08:272][508]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.18-18.12.08:280][508]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.18-18.12.08:280][508]LogAudioMixer: Display: 1: FrontRight
+[2021.04.18-18.12.08:301][508]LogAudioMixer: Display: Using Audio Device BenQ GW2480 (NVIDIA High Definition Audio)
+[2021.04.18-18.12.08:301][508]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.18-18.12.08:301][508]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.18-18.12.08:301][508]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.18-18.12.08:302][508]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.18-18.12.08:302][508]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.18-18.12.08:302][508]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.18-18.12.08:315][508]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.18-18.12.08:315][508]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.18-18.12.08:315][508]LogInit: FAudioDevice initialized.
+[2021.04.18-18.12.08:315][508]LogAudio: Display: Audio Device (ID: 7) registered with world 'NewYork_Level'.
+[2021.04.18-18.12.08:323][508]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.18-18.12.08:332][508]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level up for play (max tick rate 0) at 2021.04.18-20.12.08
+[2021.04.18-18.12.08:332][508]LogWorld: Bringing up level for play took: 0.008672
+[2021.04.18-18.12.08:332][508]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2021.04.18-18.12.08:338][508]PIE: Server logged in
+[2021.04.18-18.12.08:339][508]PIE: Play in editor total start time 0,281 seconds.
+[2021.04.18-18.12.18:714][717]LogCharacterMovement: FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=159.21 Y=45.56 Z=0.00 Location: X=-4431.37 Y=1309.14 Z=77.02 Normal: X=-0.68 Y=-0.34 Z=0.65 PenetrationDepth:0.405 Actor:None Component:ModelComponent_50916 BoneName:None (0 other events since notify)
+[2021.04.18-18.12.41:662][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-18.12.41:662][309]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.18-18.12.41:662][309]LogWorld: UWorld::CleanupWorld for NewYork_Level, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-18.12.41:663][309]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-18.12.41:676][309]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.18-18.12.41:682][309]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-18.12.41:711][309]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.18-18.12.41:711][309]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.18-18.12.41:712][309]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.18-18.12.41:731][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-18.12.41:737][309]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2021.04.18-18.12.41:771][310]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.04.18-18.12.42:709][406]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.18-18.12.42:757][406]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2021.04.18-18.12.43:250][406]LogSavePackage: Moving '../../../../../Users/Lluis/Documents/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level17C24CFC45E37D6D79A66AA00690F676.tmp' to '../../../../../Users/Lluis/Documents/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.18-18.12.43:272][406]AssetCheck: New page: Asset Save: NewYork_Level
+[2021.04.18-18.12.43:272][406]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.18-18.12.53:648][494]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.18-18.13.15:590][719]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.18-18.13.17:033][856]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.04.18-18.13.17:197][856]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2021.04.18-18.13.18:136][952]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.18-18.13.18:216][952]LogSavePackage: Moving '../../../../../Users/Lluis/Documents/GitHub/Unreal-Delivery2/IAmLegend/Saved/FirstPersonCharacter875CFE0544FCC1FFA5436F915F31780F.tmp' to '../../../../../Users/Lluis/Documents/GitHub/Unreal-Delivery2/IAmLegend/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.04.18-18.13.18:240][952]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.04.18-18.13.18:240][952]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.04.18-18.13.20:505][194]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.18-18.13.20:547][194]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2021.04.18-18.13.21:035][194]LogSavePackage: Moving '../../../../../Users/Lluis/Documents/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level6EAE0F514D71EDFEC8D3209B07C6973B.tmp' to '../../../../../Users/Lluis/Documents/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.18-18.13.21:060][194]AssetCheck: New page: Asset Save: NewYork_Level
+[2021.04.18-18.13.21:060][194]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.18-18.13.29:396][  5]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.04.18-18.13.30:510][100]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.04.18-18.13.34:981][458]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.04.18-18.13.35:622][505]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.18-18.13.35:632][505]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.18-18.13.35:632][505]PIE: New page: PIE session: NewYork_Level (18 abr. 2021 22:13:35)
+[2021.04.18-18.13.35:658][505]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.18-18.13.35:816][505]LogPlayLevel: PIE: StaticDuplicateObject took: (0.158165s)
+[2021.04.18-18.13.35:817][505]LogAIModule: Creating AISystem for world NewYork_Level
+[2021.04.18-18.13.35:817][505]LogPlayLevel: PIE: World Init took: (0.001327s)
+[2021.04.18-18.13.35:818][505]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewYork_Level.NewYork_Level to /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level (0.159923s)
+[2021.04.18-18.13.35:849][505]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2021.04.18-18.13.35:853][505]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.04.18-18.13.35:853][505]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.18-18.13.35:853][505]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.18-18.13.35:853][505]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.18-18.13.35:853][505]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.18-18.13.35:853][505]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.18-18.13.35:853][505]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.18-18.13.35:853][505]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.18-18.13.35:853][505]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.18-18.13.35:854][505]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.18-18.13.35:854][505]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.18-18.13.35:861][505]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.18-18.13.35:862][505]LogAudioMixer: Display: 1: FrontRight
+[2021.04.18-18.13.35:881][505]LogAudioMixer: Display: Using Audio Device BenQ GW2480 (NVIDIA High Definition Audio)
+[2021.04.18-18.13.35:882][505]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.18-18.13.35:882][505]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.18-18.13.35:882][505]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.18-18.13.35:882][505]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.18-18.13.35:883][505]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.18-18.13.35:883][505]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.18-18.13.35:899][505]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.18-18.13.35:899][505]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.18-18.13.35:899][505]LogInit: FAudioDevice initialized.
+[2021.04.18-18.13.35:899][505]LogAudio: Display: Audio Device (ID: 8) registered with world 'NewYork_Level'.
+[2021.04.18-18.13.35:910][505]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.18-18.13.35:920][505]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level up for play (max tick rate 0) at 2021.04.18-20.13.35
+[2021.04.18-18.13.35:920][505]LogWorld: Bringing up level for play took: 0.008921
+[2021.04.18-18.13.35:920][505]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.04.18-18.13.35:925][505]PIE: Server logged in
+[2021.04.18-18.13.35:926][505]PIE: Play in editor total start time 0,298 seconds.
+[2021.04.18-18.13.51:312][265]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-18.13.51:312][265]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.18-18.13.51:313][265]LogWorld: UWorld::CleanupWorld for NewYork_Level, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-18.13.51:314][265]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-18.13.51:324][265]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.18-18.13.51:342][265]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-18.13.51:372][265]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-18.13.51:373][265]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.18-18.13.51:374][265]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.18-18.13.51:401][265]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2021.04.18-18.13.51:448][266]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.04.18-18.13.52:706][371]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.18-18.13.52:762][371]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2021.04.18-18.13.53:250][371]LogSavePackage: Moving '../../../../../Users/Lluis/Documents/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level051CED8F41908D326879E2AA4385957E.tmp' to '../../../../../Users/Lluis/Documents/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.18-18.13.53:272][371]AssetCheck: New page: Asset Save: NewYork_Level
+[2021.04.18-18.13.53:272][371]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.18-18.14.48:673][675]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.04.18-18.14.48:755][675]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2021.04.18-18.14.50:849][872]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.18-18.14.50:859][872]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.18-18.14.50:859][872]PIE: New page: PIE session: NewYork_Level (18 abr. 2021 22:14:50)
+[2021.04.18-18.14.50:859][872]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.18-18.14.51:022][872]LogPlayLevel: PIE: StaticDuplicateObject took: (0.163044s)
+[2021.04.18-18.14.51:023][872]LogAIModule: Creating AISystem for world NewYork_Level
+[2021.04.18-18.14.51:023][872]LogPlayLevel: PIE: World Init took: (0.001313s)
+[2021.04.18-18.14.51:023][872]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewYork_Level.NewYork_Level to /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level (0.164527s)
+[2021.04.18-18.14.51:055][872]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2021.04.18-18.14.51:056][872]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.04.18-18.14.51:056][872]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.18-18.14.51:056][872]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.18-18.14.51:056][872]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.18-18.14.51:056][872]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.18-18.14.51:056][872]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.18-18.14.51:056][872]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.18-18.14.51:056][872]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.18-18.14.51:056][872]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.18-18.14.51:057][872]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.18-18.14.51:057][872]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.18-18.14.51:064][872]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.18-18.14.51:064][872]LogAudioMixer: Display: 1: FrontRight
+[2021.04.18-18.14.51:084][872]LogAudioMixer: Display: Using Audio Device BenQ GW2480 (NVIDIA High Definition Audio)
+[2021.04.18-18.14.51:085][872]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.18-18.14.51:085][872]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.18-18.14.51:085][872]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.18-18.14.51:085][872]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.18-18.14.51:085][872]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.18-18.14.51:085][872]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.18-18.14.51:097][872]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.18-18.14.51:098][872]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.18-18.14.51:098][872]LogInit: FAudioDevice initialized.
+[2021.04.18-18.14.51:098][872]LogAudio: Display: Audio Device (ID: 9) registered with world 'NewYork_Level'.
+[2021.04.18-18.14.51:108][872]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.18-18.14.51:117][872]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level up for play (max tick rate 0) at 2021.04.18-20.14.51
+[2021.04.18-18.14.51:117][872]LogWorld: Bringing up level for play took: 0.008228
+[2021.04.18-18.14.51:117][872]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.04.18-18.14.51:123][872]PIE: Server logged in
+[2021.04.18-18.14.51:124][872]PIE: Play in editor total start time 0,269 seconds.
+[2021.04.18-18.15.33:241][204]LogRenderer: Reallocating scene render targets to support 1148x740 Format 10 NumSamples 1 (Frame:3314).
+[2021.04.18-18.15.33:449][205]LogRenderer: Reallocating scene render targets to support 1148x808 Format 10 NumSamples 1 (Frame:3315).
+[2021.04.18-18.15.33:674][206]LogRenderer: Reallocating scene render targets to support 1148x836 Format 10 NumSamples 1 (Frame:3316).
+[2021.04.18-18.15.35:880][420]LogRenderer: Reallocating scene render targets to support 1152x836 Format 10 NumSamples 1 (Frame:3515).
+[2021.04.18-18.15.36:077][421]LogRenderer: Reallocating scene render targets to support 1184x836 Format 10 NumSamples 1 (Frame:3516).
+[2021.04.18-18.15.36:271][422]LogRenderer: Reallocating scene render targets to support 1220x836 Format 10 NumSamples 1 (Frame:3517).
+[2021.04.18-18.15.36:469][423]LogRenderer: Reallocating scene render targets to support 1244x836 Format 10 NumSamples 1 (Frame:3518).
+[2021.04.18-18.15.36:665][424]LogRenderer: Reallocating scene render targets to support 1272x836 Format 10 NumSamples 1 (Frame:3519).
+[2021.04.18-18.15.36:856][425]LogRenderer: Reallocating scene render targets to support 1328x836 Format 10 NumSamples 1 (Frame:3520).
+[2021.04.18-18.15.37:078][426]LogRenderer: Reallocating scene render targets to support 1360x836 Format 10 NumSamples 1 (Frame:3521).
+[2021.04.18-18.15.37:303][427]LogRenderer: Reallocating scene render targets to support 1364x836 Format 10 NumSamples 1 (Frame:3523).
+[2021.04.18-18.15.58:743][999]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-18.15.58:743][999]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.18-18.15.58:743][999]LogWorld: UWorld::CleanupWorld for NewYork_Level, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-18.15.58:744][999]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-18.15.58:770][999]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.18-18.15.58:788][999]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-18.15.58:818][999]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.18-18.15.58:818][999]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.18-18.15.58:820][999]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.18-18.15.58:839][999]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-18.15.58:845][999]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2021.04.18-18.15.58:895][  0]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.04.18-18.16.09:059][ 57]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.18-18.16.20:171][230]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.18-18.16.20:376][230]LogSavePackage: Moving '../../../../../Users/Lluis/Documents/GitHub/Unreal-Delivery2/IAmLegend/Saved/FirstPersonCharacterB2885E134465C8B4FB105BA5AD2524DE.tmp' to '../../../../../Users/Lluis/Documents/GitHub/Unreal-Delivery2/IAmLegend/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.04.18-18.16.20:397][230]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.04.18-18.16.20:397][230]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.04.18-18.16.22:099][414]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.18-18.16.22:148][414]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2021.04.18-18.16.22:641][414]LogSavePackage: Moving '../../../../../Users/Lluis/Documents/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_LevelAAF81B114EA574893D839DAA13BAA21E.tmp' to '../../../../../Users/Lluis/Documents/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.18-18.16.22:650][414]LogFileHelpers: Saving map 'NewYork_Level' took 0.534
+[2021.04.18-18.16.22:663][414]AssetCheck: New page: Asset Save: NewYork_Level
+[2021.04.18-18.16.22:663][414]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.18-18.16.25:442][690]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.18-18.16.25:451][690]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.18-18.16.25:451][690]PIE: New page: PIE session: NewYork_Level (18 abr. 2021 22:16:25)
+[2021.04.18-18.16.25:451][690]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.18-18.16.25:617][690]LogPlayLevel: PIE: StaticDuplicateObject took: (0.165866s)
+[2021.04.18-18.16.25:618][690]LogAIModule: Creating AISystem for world NewYork_Level
+[2021.04.18-18.16.25:618][690]LogPlayLevel: PIE: World Init took: (0.001365s)
+[2021.04.18-18.16.25:618][690]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewYork_Level.NewYork_Level to /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level (0.167399s)
+[2021.04.18-18.16.25:652][690]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2021.04.18-18.16.25:653][690]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.04.18-18.16.25:653][690]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.18-18.16.25:653][690]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.18-18.16.25:653][690]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.18-18.16.25:653][690]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.18-18.16.25:653][690]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.18-18.16.25:653][690]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.18-18.16.25:653][690]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.18-18.16.25:653][690]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.18-18.16.25:654][690]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.18-18.16.25:654][690]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.18-18.16.25:662][690]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.18-18.16.25:662][690]LogAudioMixer: Display: 1: FrontRight
+[2021.04.18-18.16.25:684][690]LogAudioMixer: Display: Using Audio Device BenQ GW2480 (NVIDIA High Definition Audio)
+[2021.04.18-18.16.25:684][690]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.18-18.16.25:684][690]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.18-18.16.25:684][690]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.18-18.16.25:685][690]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.18-18.16.25:685][690]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.18-18.16.25:685][690]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.18-18.16.25:697][690]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.18-18.16.25:697][690]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.18-18.16.25:697][690]LogInit: FAudioDevice initialized.
+[2021.04.18-18.16.25:697][690]LogAudio: Display: Audio Device (ID: 10) registered with world 'NewYork_Level'.
+[2021.04.18-18.16.25:707][690]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.18-18.16.25:717][690]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level up for play (max tick rate 0) at 2021.04.18-20.16.25
+[2021.04.18-18.16.25:717][690]LogWorld: Bringing up level for play took: 0.009422
+[2021.04.18-18.16.25:718][690]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.04.18-18.16.25:724][690]PIE: Server logged in
+[2021.04.18-18.16.25:725][690]PIE: Play in editor total start time 0,278 seconds.
+[2021.04.18-18.17.37:313][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-18.17.37:313][786]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.18-18.17.37:313][786]LogWorld: UWorld::CleanupWorld for NewYork_Level, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-18.17.37:314][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-18.17.37:325][786]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.18-18.17.37:344][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-18.17.37:376][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-18.17.37:377][786]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.18-18.17.37:378][786]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.18-18.17.37:407][786]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2021.04.18-18.17.37:457][787]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.04.18-18.17.38:846][927]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.18-18.17.38:892][927]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2021.04.18-18.17.39:381][927]LogSavePackage: Moving '../../../../../Users/Lluis/Documents/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level476AB6224AA3222AAA788A9C0302EA88.tmp' to '../../../../../Users/Lluis/Documents/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.18-18.17.39:404][927]AssetCheck: New page: Asset Save: NewYork_Level
+[2021.04.18-18.17.39:404][927]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.18-18.17.50:217][929]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.18-18.17.50:266][929]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.04.18-18.17.50:771][929]LogSavePackage: Moving '../../../../../Users/Lluis/Documents/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level02A22850438FB90F037C46813C88028A.tmp' to '../../../../../Users/Lluis/Documents/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.18-18.17.50:793][929]AssetCheck: New page: Asset Save: NewYork_Level
+[2021.04.18-18.17.50:793][929]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.18-18.17.59:741][636]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.18-18.18.03:876][984]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.18-18.18.05:298][106]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.18-18.18.10:594][575]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.18-18.18.12:121][705]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.18-18.18.17:438][155]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.18-18.19.10:529][345]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.18-18.19.12:718][552]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.18-18.19.54:457][765]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.18-18.19.57:422][ 39]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.18-18.21.02:717][740]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.18-18.21.02:726][740]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.18-18.21.02:726][740]PIE: New page: PIE session: NewYork_Level (18 abr. 2021 22:21:02)
+[2021.04.18-18.21.02:726][740]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.18-18.21.02:892][740]LogPlayLevel: PIE: StaticDuplicateObject took: (0.165371s)
+[2021.04.18-18.21.02:894][740]LogAIModule: Creating AISystem for world NewYork_Level
+[2021.04.18-18.21.02:894][740]LogPlayLevel: PIE: World Init took: (0.001853s)
+[2021.04.18-18.21.02:894][740]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewYork_Level.NewYork_Level to /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level (0.167513s)
+[2021.04.18-18.21.02:927][740]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.04.18-18.21.02:935][740]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2021.04.18-18.21.02:935][740]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.18-18.21.02:935][740]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.18-18.21.02:935][740]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.18-18.21.02:935][740]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.18-18.21.02:935][740]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.18-18.21.02:935][740]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.18-18.21.02:936][740]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.18-18.21.02:936][740]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.18-18.21.02:936][740]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.18-18.21.02:936][740]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.18-18.21.02:945][740]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.18-18.21.02:945][740]LogAudioMixer: Display: 1: FrontRight
+[2021.04.18-18.21.02:971][740]LogAudioMixer: Display: Using Audio Device BenQ GW2480 (NVIDIA High Definition Audio)
+[2021.04.18-18.21.02:971][740]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.18-18.21.02:971][740]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.18-18.21.02:971][740]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.18-18.21.02:972][740]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.18-18.21.02:972][740]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.18-18.21.02:972][740]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.18-18.21.02:986][740]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.18-18.21.02:986][740]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.18-18.21.02:986][740]LogInit: FAudioDevice initialized.
+[2021.04.18-18.21.02:986][740]LogAudio: Display: Audio Device (ID: 11) registered with world 'NewYork_Level'.
+[2021.04.18-18.21.02:993][740]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.18-18.21.03:001][740]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level up for play (max tick rate 0) at 2021.04.18-20.21.03
+[2021.04.18-18.21.03:001][740]LogWorld: Bringing up level for play took: 0.007376
+[2021.04.18-18.21.03:001][740]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.04.18-18.21.03:007][740]PIE: Server logged in
+[2021.04.18-18.21.03:008][740]PIE: Play in editor total start time 0,286 seconds.
+[2021.04.18-18.21.19:375][433]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-18.21.19:375][433]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.18-18.21.19:375][433]LogWorld: UWorld::CleanupWorld for NewYork_Level, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-18.21.19:376][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-18.21.19:384][433]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.18-18.21.19:400][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-18.21.19:430][433]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-18.21.19:431][433]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.18-18.21.19:432][433]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.18-18.21.19:459][433]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2021.04.18-18.21.19:500][434]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.04.18-18.21.24:142][922]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.18-18.21.24:150][922]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.18-18.21.24:151][922]PIE: New page: PIE session: NewYork_Level (18 abr. 2021 22:21:24)
+[2021.04.18-18.21.24:151][922]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.18-18.21.24:314][922]LogPlayLevel: PIE: StaticDuplicateObject took: (0.163338s)
+[2021.04.18-18.21.24:315][922]LogAIModule: Creating AISystem for world NewYork_Level
+[2021.04.18-18.21.24:316][922]LogPlayLevel: PIE: World Init took: (0.001410s)
+[2021.04.18-18.21.24:316][922]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewYork_Level.NewYork_Level to /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level (0.164954s)
+[2021.04.18-18.21.24:349][922]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2021.04.18-18.21.24:351][922]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2021.04.18-18.21.24:351][922]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.18-18.21.24:351][922]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.18-18.21.24:351][922]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.18-18.21.24:351][922]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.18-18.21.24:351][922]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.18-18.21.24:352][922]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.18-18.21.24:352][922]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.18-18.21.24:352][922]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.18-18.21.24:352][922]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.18-18.21.24:352][922]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.18-18.21.24:359][922]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.18-18.21.24:359][922]LogAudioMixer: Display: 1: FrontRight
+[2021.04.18-18.21.24:379][922]LogAudioMixer: Display: Using Audio Device BenQ GW2480 (NVIDIA High Definition Audio)
+[2021.04.18-18.21.24:379][922]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.18-18.21.24:379][922]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.18-18.21.24:379][922]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.18-18.21.24:380][922]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.18-18.21.24:380][922]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.18-18.21.24:380][922]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.18-18.21.24:394][922]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.18-18.21.24:394][922]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.18-18.21.24:394][922]LogInit: FAudioDevice initialized.
+[2021.04.18-18.21.24:394][922]LogAudio: Display: Audio Device (ID: 12) registered with world 'NewYork_Level'.
+[2021.04.18-18.21.24:405][922]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.18-18.21.24:414][922]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level up for play (max tick rate 0) at 2021.04.18-20.21.24
+[2021.04.18-18.21.24:414][922]LogWorld: Bringing up level for play took: 0.008183
+[2021.04.18-18.21.24:414][922]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.04.18-18.21.24:419][922]PIE: Server logged in
+[2021.04.18-18.21.24:420][922]PIE: Play in editor total start time 0,274 seconds.
+[2021.04.18-18.21.40:995][633]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-18.21.40:995][633]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.18-18.21.40:995][633]LogWorld: UWorld::CleanupWorld for NewYork_Level, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-18.21.40:996][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-18.21.41:008][633]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.18-18.21.41:025][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-18.21.41:055][633]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-18.21.41:056][633]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.18-18.21.41:058][633]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.18-18.21.41:084][633]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2021.04.18-18.21.41:127][634]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.04.18-18.21.45:978][121]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.18-18.21.45:987][121]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.18-18.21.45:987][121]PIE: New page: PIE session: NewYork_Level (18 abr. 2021 22:21:45)
+[2021.04.18-18.21.45:987][121]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.18-18.21.46:161][121]LogPlayLevel: PIE: StaticDuplicateObject took: (0.173403s)
+[2021.04.18-18.21.46:162][121]LogAIModule: Creating AISystem for world NewYork_Level
+[2021.04.18-18.21.46:162][121]LogPlayLevel: PIE: World Init took: (0.001233s)
+[2021.04.18-18.21.46:162][121]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewYork_Level.NewYork_Level to /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level (0.174822s)
+[2021.04.18-18.21.46:193][121]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2021.04.18-18.21.46:195][121]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2021.04.18-18.21.46:195][121]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.18-18.21.46:195][121]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.18-18.21.46:195][121]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.18-18.21.46:195][121]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.18-18.21.46:195][121]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.18-18.21.46:195][121]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.18-18.21.46:195][121]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.18-18.21.46:195][121]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.18-18.21.46:195][121]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.18-18.21.46:195][121]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.18-18.21.46:204][121]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.18-18.21.46:204][121]LogAudioMixer: Display: 1: FrontRight
+[2021.04.18-18.21.46:224][121]LogAudioMixer: Display: Using Audio Device BenQ GW2480 (NVIDIA High Definition Audio)
+[2021.04.18-18.21.46:224][121]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.18-18.21.46:224][121]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.18-18.21.46:224][121]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.18-18.21.46:225][121]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.18-18.21.46:225][121]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.18-18.21.46:225][121]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.18-18.21.46:236][121]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.18-18.21.46:236][121]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.18-18.21.46:236][121]LogInit: FAudioDevice initialized.
+[2021.04.18-18.21.46:236][121]LogAudio: Display: Audio Device (ID: 13) registered with world 'NewYork_Level'.
+[2021.04.18-18.21.46:245][121]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.18-18.21.46:253][121]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level up for play (max tick rate 0) at 2021.04.18-20.21.46
+[2021.04.18-18.21.46:254][121]LogWorld: Bringing up level for play took: 0.008016
+[2021.04.18-18.21.46:254][121]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.04.18-18.21.46:259][121]PIE: Server logged in
+[2021.04.18-18.21.46:260][121]PIE: Play in editor total start time 0,277 seconds.
+[2021.04.18-18.22.09:235][558]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-18.22.09:235][558]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.18-18.22.09:236][558]LogWorld: UWorld::CleanupWorld for NewYork_Level, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-18.22.09:236][558]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-18.22.09:249][558]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.18-18.22.09:264][558]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-18.22.09:293][558]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-18.22.09:295][558]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.18-18.22.09:296][558]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.18-18.22.09:321][558]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2021.04.18-18.22.09:362][559]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.04.18-18.22.10:761][703]Cmd: TRANSACTION UNDO
+[2021.04.18-18.22.10:761][703]LogEditorTransaction: Undo Edit Mie Absorption Scale
+[2021.04.18-18.22.10:772][703]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.18-18.22.11:203][715]Cmd: TRANSACTION UNDO
+[2021.04.18-18.22.11:203][715]LogEditorTransaction: Undo Edit Mie Absorption Scale
+[2021.04.18-18.22.11:582][747]Cmd: TRANSACTION UNDO
+[2021.04.18-18.22.11:582][747]LogEditorTransaction: Undo Edit Mie Absorption Scale
+[2021.04.18-18.22.12:030][791]Cmd: TRANSACTION UNDO
+[2021.04.18-18.22.12:030][791]LogEditorTransaction: Undo Edit Mie Absorption Scale
+[2021.04.18-18.22.12:395][829]Cmd: TRANSACTION UNDO
+[2021.04.18-18.22.12:395][829]LogEditorTransaction: Undo Edit Mie Absorption Scale
+[2021.04.18-18.22.12:767][866]Cmd: TRANSACTION UNDO
+[2021.04.18-18.22.12:767][866]LogEditorTransaction: Undo Edit Mie Absorption Scale
+[2021.04.18-18.22.13:023][892]Cmd: TRANSACTION UNDO
+[2021.04.18-18.22.13:023][892]LogEditorTransaction: Undo Edit Rayleigh Exponential Distribution
+[2021.04.18-18.22.13:279][915]Cmd: TRANSACTION UNDO
+[2021.04.18-18.22.13:279][915]LogEditorTransaction: Undo Edit Rayleigh Scattering Scale
+[2021.04.18-18.22.13:617][948]Cmd: TRANSACTION UNDO
+[2021.04.18-18.22.13:617][948]LogEditorTransaction: Undo Edit MultiScattering
+[2021.04.18-18.22.13:928][979]Cmd: TRANSACTION UNDO
+[2021.04.18-18.22.13:928][979]LogEditorTransaction: Undo Edit Atmosphere Height
+[2021.04.18-18.22.14:253][ 10]Cmd: TRANSACTION UNDO
+[2021.04.18-18.22.14:253][ 10]LogEditorTransaction: Undo Edit R
+[2021.04.18-18.22.14:621][ 46]Cmd: TRANSACTION UNDO
+[2021.04.18-18.22.14:621][ 46]LogEditorTransaction: Undo Edit B
+[2021.04.18-18.22.14:975][ 81]Cmd: TRANSACTION UNDO
+[2021.04.18-18.22.14:975][ 81]LogEditorTransaction: Undo Edit G
+[2021.04.18-18.22.15:273][108]Cmd: TRANSACTION UNDO
+[2021.04.18-18.22.15:273][108]LogEditorTransaction: Undo Edit Ground Albedo
+[2021.04.18-18.22.17:314][314]Cmd: TRANSACTION UNDO
+[2021.04.18-18.22.17:314][314]LogEditorTransaction: Undo Edit Ground Radius
+[2021.04.18-18.22.17:767][360]Cmd: TRANSACTION UNDO
+[2021.04.18-18.22.17:767][360]LogEditorTransaction: Undo Edit Atmosphere Height
+[2021.04.18-18.22.18:167][399]Cmd: TRANSACTION UNDO
+[2021.04.18-18.22.18:167][399]LogEditorTransaction: Undo Edit Atmosphere Height
+[2021.04.18-18.22.18:791][464]Cmd: TRANSACTION UNDO
+[2021.04.18-18.22.18:791][464]LogEditorTransaction: Undo Edit Mie Anisotropy
+[2021.04.18-18.22.19:681][557]Cmd: TRANSACTION UNDO
+[2021.04.18-18.22.19:681][557]LogEditorTransaction: Undo Edit Mie Anisotropy
+[2021.04.18-18.22.20:162][606]Cmd: TRANSACTION UNDO
+[2021.04.18-18.22.20:162][606]LogEditorTransaction: Undo Edit Mie Scattering Scale
+[2021.04.18-18.22.20:662][656]Cmd: TRANSACTION UNDO
+[2021.04.18-18.22.20:662][656]LogEditorTransaction: Undo Edit Mie Absorption Scale
+[2021.04.18-18.22.21:093][698]Cmd: TRANSACTION UNDO
+[2021.04.18-18.22.21:093][698]LogEditorTransaction: Undo Edit Absorption
+[2021.04.18-18.22.21:704][758]Cmd: TRANSACTION UNDO
+[2021.04.18-18.22.21:704][758]LogEditorTransaction: Undo Edit Aerial Pespective View Distance Scale
+[2021.04.18-18.22.22:343][815]Cmd: TRANSACTION UNDO
+[2021.04.18-18.22.22:343][815]LogEditorTransaction: Undo Edit Aerial Perspective Start Depth
+[2021.04.18-18.22.22:843][862]Cmd: TRANSACTION UNDO
+[2021.04.18-18.22.22:843][862]LogEditorTransaction: Undo Edit Transmittance Min Light Elevation Angle
+[2021.04.18-18.22.23:333][907]Cmd: TRANSACTION UNDO
+[2021.04.18-18.22.23:333][907]LogEditorTransaction: Undo Edit Height Fog Contribution
+[2021.04.18-18.22.23:782][952]Cmd: TRANSACTION UNDO
+[2021.04.18-18.22.23:782][952]LogEditorTransaction: Undo Edit Mie Absorption Scale
+[2021.04.18-18.22.27:092][291]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.18-18.22.27:101][291]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.18-18.22.27:101][291]PIE: New page: PIE session: NewYork_Level (18 abr. 2021 22:22:27)
+[2021.04.18-18.22.27:131][291]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.18-18.22.27:298][291]LogPlayLevel: PIE: StaticDuplicateObject took: (0.167061s)
+[2021.04.18-18.22.27:299][291]LogAIModule: Creating AISystem for world NewYork_Level
+[2021.04.18-18.22.27:299][291]LogPlayLevel: PIE: World Init took: (0.001278s)
+[2021.04.18-18.22.27:299][291]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewYork_Level.NewYork_Level to /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level (0.168548s)
+[2021.04.18-18.22.27:331][291]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2021.04.18-18.22.27:336][291]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2021.04.18-18.22.27:336][291]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.18-18.22.27:336][291]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.18-18.22.27:336][291]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.18-18.22.27:336][291]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.18-18.22.27:336][291]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.18-18.22.27:336][291]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.18-18.22.27:336][291]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.18-18.22.27:336][291]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.18-18.22.27:337][291]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.18-18.22.27:337][291]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.18-18.22.27:344][291]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.18-18.22.27:344][291]LogAudioMixer: Display: 1: FrontRight
+[2021.04.18-18.22.27:365][291]LogAudioMixer: Display: Using Audio Device BenQ GW2480 (NVIDIA High Definition Audio)
+[2021.04.18-18.22.27:366][291]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.18-18.22.27:366][291]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.18-18.22.27:366][291]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.18-18.22.27:366][291]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.18-18.22.27:366][291]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.18-18.22.27:366][291]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.18-18.22.27:378][291]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.18-18.22.27:378][291]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.18-18.22.27:378][291]LogInit: FAudioDevice initialized.
+[2021.04.18-18.22.27:378][291]LogAudio: Display: Audio Device (ID: 14) registered with world 'NewYork_Level'.
+[2021.04.18-18.22.27:394][291]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.18-18.22.27:403][291]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level up for play (max tick rate 0) at 2021.04.18-20.22.27
+[2021.04.18-18.22.27:404][291]LogWorld: Bringing up level for play took: 0.009500
+[2021.04.18-18.22.27:404][291]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.04.18-18.22.27:409][291]PIE: Server logged in
+[2021.04.18-18.22.27:410][291]PIE: Play in editor total start time 0,313 seconds.
+[2021.04.18-18.22.44:855][  5]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-18.22.44:855][  5]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.18-18.22.44:855][  5]LogWorld: UWorld::CleanupWorld for NewYork_Level, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-18.22.44:856][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-18.22.44:869][  5]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.18-18.22.44:884][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-18.22.44:916][  5]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-18.22.44:917][  5]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.18-18.22.44:918][  5]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.18-18.22.44:943][  5]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2021.04.18-18.22.44:984][  6]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.04.18-18.22.46:864][202]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.18-18.22.46:925][202]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.04.18-18.22.47:423][202]LogSavePackage: Moving '../../../../../Users/Lluis/Documents/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level5DE2A64C412C28A27B9BC9B15EC57A77.tmp' to '../../../../../Users/Lluis/Documents/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.18-18.22.47:447][202]AssetCheck: New page: Asset Save: NewYork_Level
+[2021.04.18-18.22.47:447][202]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.18-18.22.49:769][466]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.18-18.22.49:821][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.04.18-18.22.50:312][466]LogSavePackage: Moving '../../../../../Users/Lluis/Documents/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level86EBB93E411A488C5CFC7AA7EC841C76.tmp' to '../../../../../Users/Lluis/Documents/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.18-18.22.50:322][466]LogFileHelpers: Saving map 'NewYork_Level' took 0.531
+[2021.04.18-18.22.50:334][466]AssetCheck: New page: Asset Save: NewYork_Level
+[2021.04.18-18.22.50:335][466]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.18-18.22.51:308][573]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.18-18.22.51:381][573]LogSavePackage: Moving '../../../../../Users/Lluis/Documents/GitHub/Unreal-Delivery2/IAmLegend/Saved/FirstPersonCharacterBD3F8E8743F24B6C989740A1099DFCBA.tmp' to '../../../../../Users/Lluis/Documents/GitHub/Unreal-Delivery2/IAmLegend/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.04.18-18.22.51:399][573]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.04.18-18.22.51:399][573]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.04.18-18.22.52:095][648]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.04.18-18.22.52:166][648]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2021.04.18-18.22.53:047][737]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.18-18.22.53:133][737]LogSavePackage: Moving '../../../../../Users/Lluis/Documents/GitHub/Unreal-Delivery2/IAmLegend/Saved/FirstPersonCharacter50FE835C4E14A4A3216A19A7E0D0853E.tmp' to '../../../../../Users/Lluis/Documents/GitHub/Unreal-Delivery2/IAmLegend/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.04.18-18.22.53:149][737]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.04.18-18.22.53:149][737]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
