@@ -3100,3 +3100,1044 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.20-16.20.49:544][150]AssetCheck: New page: Asset Save: multiple assets
 [2021.04.20-16.20.49:544][150]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
 [2021.04.20-16.20.49:544][150]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/NewYork_Level_BuiltData.NewYork_Level_BuiltData
+[2021.04.20-16.24.14:480][970]Cmd: DUPLICATE
+[2021.04.20-16.24.14:480][970]Cmd: ACTOR DUPLICATE
+[2021.04.20-16.24.22:796][686]Cmd: DUPLICATE
+[2021.04.20-16.24.22:796][686]Cmd: ACTOR DUPLICATE
+[2021.04.20-16.24.41:592][475]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.04.20-16.24.43:062][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2021.04.20-16.24.43:474][624]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level6337FA1C4565499A7B9DAB8F4E4E53D1.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.20-16.24.43:565][624]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level_BuiltDataE0979C9D4B10E1B8FD6C58BA93AF013B.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level_BuiltData.uasset'
+[2021.04.20-16.24.43:574][624]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.20-16.24.43:574][624]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.20-16.24.43:574][624]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/NewYork_Level_BuiltData.NewYork_Level_BuiltData
+[2021.04.20-16.24.55:535][843]Cmd: DUPLICATE
+[2021.04.20-16.24.55:535][843]Cmd: ACTOR DUPLICATE
+[2021.04.20-16.25.07:878][723]Cmd: DUPLICATE
+[2021.04.20-16.25.07:878][723]Cmd: ACTOR DUPLICATE
+[2021.04.20-16.25.17:688][507]Cmd: DUPLICATE
+[2021.04.20-16.25.17:688][507]Cmd: ACTOR DUPLICATE
+[2021.04.20-16.25.34:478][593]Cmd: DELETE
+[2021.04.20-16.25.34:478][593]Cmd: ACTOR DELETE
+[2021.04.20-16.25.34:609][593]LogEditorActor: Deleted Actor: Brush
+[2021.04.20-16.25.34:609][593]LogEditorActor: Deleted Actor: Brush
+[2021.04.20-16.25.34:609][593]LogEditorActor: Deleted Actor: Brush
+[2021.04.20-16.25.34:609][593]LogEditorActor: Deleted Actor: Brush
+[2021.04.20-16.25.34:609][593]LogEditorActor: Deleted Actor: Brush
+[2021.04.20-16.25.34:609][593]LogEditorActor: Deleted Actor: Brush
+[2021.04.20-16.25.34:635][593]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2021.04.20-16.25.35:049][593]LogEditorActor: Deleted 6 Actors (0.571 secs)
+[2021.04.20-16.25.49:963][541]Cmd: DUPLICATE
+[2021.04.20-16.25.49:963][541]Cmd: ACTOR DUPLICATE
+[2021.04.20-16.25.58:285][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2021.04.20-16.25.58:790][ 39]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level724CA86C43FE316F5B7E8383281D696E.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.20-16.25.58:886][ 39]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level_BuiltData928142D2422907FE0A664B8CFC606DEC.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level_BuiltData.uasset'
+[2021.04.20-16.25.58:903][ 39]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.20-16.25.58:903][ 39]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.20-16.25.58:903][ 39]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/NewYork_Level_BuiltData.NewYork_Level_BuiltData
+[2021.04.20-16.26.16:804][412]Cmd: TRANSACTION UNDO
+[2021.04.20-16.26.16:804][412]LogEditorTransaction: Undo Move Actors
+[2021.04.20-16.26.29:031][187]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh)
+[2021.04.20-16.26.34:992][721]Cmd: BRUSH SUBTRACT SELECTNEWBRUSH
+[2021.04.20-16.26.35:817][753]Cmd: DELETE
+[2021.04.20-16.26.35:817][753]Cmd: ACTOR DELETE
+[2021.04.20-16.26.35:930][753]LogEditorActor: Deleted Actor: Brush
+[2021.04.20-16.26.35:941][753]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2021.04.20-16.26.36:355][753]LogEditorActor: Deleted 1 Actors (0.539 secs)
+[2021.04.20-16.26.37:793][845]Cmd: BRUSH SUBTRACT SELECTNEWBRUSH
+[2021.04.20-16.26.39:663][977]Cmd: DELETE
+[2021.04.20-16.26.39:663][977]Cmd: ACTOR DELETE
+[2021.04.20-16.26.39:773][977]LogEditorActor: Deleted Actor: Brush
+[2021.04.20-16.26.39:781][977]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.04.20-16.26.40:197][977]LogEditorActor: Deleted 1 Actors (0.534 secs)
+[2021.04.20-16.26.41:488][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2021.04.20-16.26.41:983][ 85]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_LevelADCFD2C24838416BDFD64DAB08D70E08.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.20-16.26.42:073][ 85]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level_BuiltDataB40B63204A91846E1F3E4B9D1E3D933E.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level_BuiltData.uasset'
+[2021.04.20-16.26.42:083][ 85]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.20-16.26.42:083][ 85]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.20-16.26.42:083][ 85]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/NewYork_Level_BuiltData.NewYork_Level_BuiltData
+[2021.04.20-16.26.43:566][203]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.04.20-16.26.55:941][ 59]Cmd: TRANSACTION UNDO
+[2021.04.20-16.26.55:941][ 59]LogEditorTransaction: Undo Scale Actors
+[2021.04.20-16.27.25:729][320]Cmd: DUPLICATE
+[2021.04.20-16.27.25:729][320]Cmd: ACTOR DUPLICATE
+[2021.04.20-16.27.28:847][494]Cmd: DUPLICATE
+[2021.04.20-16.27.28:847][494]Cmd: ACTOR DUPLICATE
+[2021.04.20-16.27.32:605][736]Cmd: DUPLICATE
+[2021.04.20-16.27.32:605][736]Cmd: ACTOR DUPLICATE
+[2021.04.20-16.27.36:324][979]Cmd: DUPLICATE
+[2021.04.20-16.27.36:324][979]Cmd: ACTOR DUPLICATE
+[2021.04.20-16.27.42:623][432]Cmd: DUPLICATE
+[2021.04.20-16.27.42:623][432]Cmd: ACTOR DUPLICATE
+[2021.04.20-16.27.49:501][898]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2021.04.20-16.27.50:000][898]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level25C064DD495BC1C72287FE95EBD47CC8.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.20-16.27.50:098][898]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level_BuiltDataD7F0AFDC49B397B7E488DDABBB158471.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level_BuiltData.uasset'
+[2021.04.20-16.27.50:107][898]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.20-16.27.50:107][898]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.20-16.27.50:107][898]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/NewYork_Level_BuiltData.NewYork_Level_BuiltData
+[2021.04.20-16.27.55:355][493]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.04.20-16.28.14:190][324]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.04.20-16.28.28:054][724]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.04.20-16.28.34:483][436]Cmd: DELETE
+[2021.04.20-16.28.34:483][436]Cmd: ACTOR DELETE
+[2021.04.20-16.28.34:602][436]LogEditorActor: Deleted Actor: Brush
+[2021.04.20-16.28.34:621][436]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2021.04.20-16.28.35:041][436]LogEditorActor: Deleted 1 Actors (0.558 secs)
+[2021.04.20-16.28.35:720][487]Cmd: DELETE
+[2021.04.20-16.28.35:720][487]Cmd: ACTOR DELETE
+[2021.04.20-16.28.35:825][487]LogEditorActor: Deleted Actor: Brush
+[2021.04.20-16.28.35:831][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.04.20-16.28.36:242][487]LogEditorActor: Deleted 1 Actors (0.522 secs)
+[2021.04.20-16.28.37:307][584]Cmd: DUPLICATE
+[2021.04.20-16.28.37:307][584]Cmd: ACTOR DUPLICATE
+[2021.04.20-16.28.41:227][782]Cmd: DUPLICATE
+[2021.04.20-16.28.41:227][782]Cmd: ACTOR DUPLICATE
+[2021.04.20-16.28.52:706][721]Cmd: DELETE
+[2021.04.20-16.28.52:706][721]Cmd: ACTOR DELETE
+[2021.04.20-16.28.52:825][721]LogEditorActor: Deleted Actor: Brush
+[2021.04.20-16.28.52:846][721]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2021.04.20-16.28.53:273][721]LogEditorActor: Deleted 1 Actors (0.567 secs)
+[2021.04.20-16.28.53:953][771]Cmd: DELETE
+[2021.04.20-16.28.53:953][771]Cmd: ACTOR DELETE
+[2021.04.20-16.28.54:063][771]LogEditorActor: Deleted Actor: Brush
+[2021.04.20-16.28.54:071][771]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2021.04.20-16.28.54:484][771]LogEditorActor: Deleted 1 Actors (0.532 secs)
+[2021.04.20-16.28.55:023][806]Cmd: DELETE
+[2021.04.20-16.28.55:023][806]Cmd: ACTOR DELETE
+[2021.04.20-16.28.55:131][806]LogEditorActor: Deleted Actor: Brush
+[2021.04.20-16.28.55:138][806]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2021.04.20-16.28.55:550][806]LogEditorActor: Deleted 1 Actors (0.527 secs)
+[2021.04.20-16.28.57:814][ 45]Cmd: DUPLICATE
+[2021.04.20-16.28.57:814][ 45]Cmd: ACTOR DUPLICATE
+[2021.04.20-16.29.01:745][314]Cmd: DUPLICATE
+[2021.04.20-16.29.01:745][314]Cmd: ACTOR DUPLICATE
+[2021.04.20-16.29.06:482][678]Cmd: DUPLICATE
+[2021.04.20-16.29.06:483][678]Cmd: ACTOR DUPLICATE
+[2021.04.20-16.29.14:451][239]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2021.04.20-16.29.14:963][239]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_LevelFB5D1A284C1C3C3CD3AB5ABFECFFBB63.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.20-16.29.15:060][239]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level_BuiltDataED6F2F8E4CB5A0E0E706AE992CF862A8.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level_BuiltData.uasset'
+[2021.04.20-16.29.15:073][239]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.20-16.29.15:073][239]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.20-16.29.15:073][239]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/NewYork_Level_BuiltData.NewYork_Level_BuiltData
+[2021.04.20-16.30.13:368][784]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.04.20-16.30.13:879][784]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_LevelD0948C9A4F0ED99CC780B1AB399BC894.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.20-16.30.13:961][784]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level_BuiltData5A91D4E74FD499615416888DD86A1E0C.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level_BuiltData.uasset'
+[2021.04.20-16.30.13:970][784]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.20-16.30.13:970][784]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.20-16.30.13:970][784]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/NewYork_Level_BuiltData.NewYork_Level_BuiltData
+[2021.04.20-16.30.17:172][166]Cmd: DUPLICATE
+[2021.04.20-16.30.17:173][166]Cmd: ACTOR DUPLICATE
+[2021.04.20-16.30.20:818][391]Cmd: DUPLICATE
+[2021.04.20-16.30.20:818][391]Cmd: ACTOR DUPLICATE
+[2021.04.20-16.30.39:824][987]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.04.20-16.30.42:714][294]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2021.04.20-16.30.43:233][294]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level245641DD44FE937F10EA168740F918F2.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.20-16.30.43:325][294]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level_BuiltData03FE63D940D075E056C87BB1AA71399E.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level_BuiltData.uasset'
+[2021.04.20-16.30.43:341][294]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.20-16.30.43:341][294]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.20-16.30.43:341][294]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/NewYork_Level_BuiltData.NewYork_Level_BuiltData
+[2021.04.20-16.30.45:901][582]Cmd: DUPLICATE
+[2021.04.20-16.30.45:901][582]Cmd: ACTOR DUPLICATE
+[2021.04.20-16.30.51:701][989]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.04.20-16.30.52:289][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2021.04.20-16.30.52:815][ 51]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level58347B644479E3C2C3DAF1959ABBE203.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.20-16.30.52:906][ 51]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level_BuiltDataBA963C60451F113E14800C921AE7D91B.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level_BuiltData.uasset'
+[2021.04.20-16.30.52:919][ 51]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.20-16.30.52:919][ 51]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.20-16.30.52:919][ 51]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/NewYork_Level_BuiltData.NewYork_Level_BuiltData
+[2021.04.20-16.31.02:163][930]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2021.04.20-16.31.03:402][ 32]Cmd: DUPLICATE
+[2021.04.20-16.31.03:402][ 32]Cmd: ACTOR DUPLICATE
+[2021.04.20-16.31.11:249][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2021.04.20-16.31.11:768][741]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level5A3A46824D3231A83BDF1AB900A45F9A.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.20-16.31.11:849][741]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level_BuiltData0D5301A24D5E86DA547300804DDAB23B.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level_BuiltData.uasset'
+[2021.04.20-16.31.11:858][741]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.20-16.31.11:858][741]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.20-16.31.11:858][741]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/NewYork_Level_BuiltData.NewYork_Level_BuiltData
+[2021.04.20-16.31.12:480][816]MapCheck: New page: Map Check
+[2021.04.20-16.31.12:494][816]Cmd: MAP REBUILD ALLVISIBLE
+[2021.04.20-16.31.12:494][816]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.04.20-16.31.41:987][816]LogWorld: UWorld::CleanupWorld for NewYork_Level, bSessionEnded=true, bCleanupResources=false
+[2021.04.20-16.31.42:366][816]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.04.20-16.31.42:366][816]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.04.20-16.31.42:366][816]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.04.20-16.31.42:374][816]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2021.04.20-16.31.42:379][816]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.20-16.31.42:381][816]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.20-16.31.42:382][816]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.20-16.31.42:384][816]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.04.20-16.31.42:384][816]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.04.20-16.31.42:384][816]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.04.20-16.31.42:384][816]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.04.20-16.31.42:384][816]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.20-16.31.42:385][816]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.20-16.31.42:386][816]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2021.04.20-16.31.44:612][816]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2021.04.20-16.31.44:612][816]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2021.04.20-16.31.44:612][816]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2021.04.20-16.31.44:612][816]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2021.04.20-16.31.44:612][816]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 50
+[2021.04.20-16.31.44:612][816]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 49
+[2021.04.20-16.31.44:612][816]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 48
+[2021.04.20-16.31.44:612][816]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 47
+[2021.04.20-16.31.44:612][816]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 46
+[2021.04.20-16.31.44:612][816]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 45
+[2021.04.20-16.31.44:612][816]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 44
+[2021.04.20-16.31.44:612][816]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 43
+[2021.04.20-16.31.44:612][816]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 42
+[2021.04.20-16.31.44:612][816]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 41
+[2021.04.20-16.31.44:612][816]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 40
+[2021.04.20-16.31.44:612][816]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 39
+[2021.04.20-16.31.44:612][816]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 38
+[2021.04.20-16.31.44:612][816]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 37
+[2021.04.20-16.31.44:612][816]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 36
+[2021.04.20-16.31.44:612][816]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 35
+[2021.04.20-16.31.44:612][816]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 34
+[2021.04.20-16.31.44:612][816]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 33
+[2021.04.20-16.31.44:612][816]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 32
+[2021.04.20-16.31.44:612][816]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 31
+[2021.04.20-16.31.44:612][816]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 30
+[2021.04.20-16.31.44:612][816]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 29
+[2021.04.20-16.31.44:612][816]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 28
+[2021.04.20-16.31.44:612][816]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 27
+[2021.04.20-16.31.44:612][816]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 26
+[2021.04.20-16.31.44:612][816]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 25
+[2021.04.20-16.31.44:612][816]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 24
+[2021.04.20-16.31.44:613][816]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 23
+[2021.04.20-16.31.44:613][816]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 22
+[2021.04.20-16.31.44:613][816]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2021.04.20-16.31.44:613][816]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 20
+[2021.04.20-16.31.44:613][816]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 19
+[2021.04.20-16.31.44:613][816]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 18
+[2021.04.20-16.31.44:613][816]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 17
+[2021.04.20-16.31.44:613][816]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 16
+[2021.04.20-16.31.44:613][816]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 15
+[2021.04.20-16.31.44:613][816]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 14
+[2021.04.20-16.31.44:613][816]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2021.04.20-16.31.44:613][816]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2021.04.20-16.31.44:613][816]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.04.20-16.31.44:613][816]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2021.04.20-16.31.44:613][816]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.04.20-16.31.44:613][816]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2021.04.20-16.31.44:613][816]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2021.04.20-16.31.44:613][816]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2021.04.20-16.31.44:613][816]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2021.04.20-16.31.44:613][816]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2021.04.20-16.31.44:613][816]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2021.04.20-16.31.44:613][816]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.04.20-16.31.44:613][816]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.04.20-16.31.44:613][816]TextureStreamingBuild: Display: Compiling optional shaders took 2.232 seconds.
+[2021.04.20-16.31.44:622][816]LogLevel: Display: Export Material TexCoord Scales took 0.009 seconds.
+[2021.04.20-16.31.44:625][816]TextureStreamingBuild: Display: Build Texture Streaming took 0.002 seconds.
+[2021.04.20-16.31.44:628][816]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.04.20-16.31.44:630][816]LightingResults: New page: Lighting Build - Apr 20, 2021, 8:31:44 PM
+[2021.04.20-16.31.44:712][816]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.04.20-16.31.44:716][816]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.04.20-16.31.44:716][816]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.04.20-16.31.44:717][816]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.04.20-16.31.44:717][816]LogSwarmInterface: [TryOpenConnection] Local Process ID is 18676
+[2021.04.20-16.31.49:269][816]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2021.04.20-16.31.49:281][816]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.04.20-16.31.49:281][816]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.04.20-16.31.49:281][816]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.04.20-16.31.49:281][816]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.04.20-16.31.49:281][816]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.04.20-16.31.49:642][816]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.04.20-16.31.49:643][816]MapCheck: New page: NewYork_Level - Apr 20, 2021, 8:31:49 PM
+[2021.04.20-16.31.49:644][816]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2021.04.20-16.31.49:644][816]MapCheck: Warning: Floor Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2021.04.20-16.31.49:645][816]MapCheck: Map check complete: 1 Error(s), 1 Warning(s), took 2.037ms to complete.
+[2021.04.20-16.31.49:646][816]LogEditorBuildUtils: Build time 0:37
+[2021.04.20-16.31.49:795][817]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2021.04.20-16.31.51:662][822]LogSlate: Window 'Message Log' being destroyed
+[2021.04.20-16.31.51:666][822]LogSlate: Window 'Message Log' being destroyed
+[2021.04.20-16.32.10:059][345]Job is a success!
+[2021.04.20-16.32.10:282][346]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.065s
+[2021.04.20-16.32.10:282][346]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2021.04.20-16.32.10:282][346]LogVolumetricLightmapImport:      BrickData (all levels) 0.7Mb (trimmed 1.8Mb due to 0.010000 MinBrickError)
+[2021.04.20-16.32.10:282][346]LogVolumetricLightmapImport:      Bricks at depth
+[2021.04.20-16.32.10:282][346]LogVolumetricLightmapImport:          0: 4.9% covering 100.0% of volume
+[2021.04.20-16.32.10:282][346]LogVolumetricLightmapImport:          1: 23.8% covering 7.6% of volume
+[2021.04.20-16.32.10:282][346]LogVolumetricLightmapImport:          2: 71.3% covering 0.4% of volume
+[2021.04.20-16.32.10:282][346]LogVolumetricLightmapImport:      Bricks in each level
+[2021.04.20-16.32.10:282][346]LogVolumetricLightmapImport:          NewYork_Level 			 164 bricks 	 100.0% (Persistent Level)
+[2021.04.20-16.32.11:138][346]LightingResults: Warning: PointLight2 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2021.04.20-16.32.11:315][346]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2021.04.20-16.32.11:315][346]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2021.04.20-16.32.11:315][346]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2021.04.20-16.32.11:315][346]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2021.04.20-16.32.11:315][346]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 128X128)
+[2021.04.20-16.32.11:315][346]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 128X128)
+[2021.04.20-16.32.11:315][346]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 128X128)
+[2021.04.20-16.32.11:315][346]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 128X128)
+[2021.04.20-16.32.11:586][346]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (BGRA8, 1024X1024)
+[2021.04.20-16.32.11:586][346]Lightmass on DESKTOP-GEB4VI6: 21.1 sec total, 228 ms importing, 70 ms setup, 6.49 sec photons, 14.3 sec processing, 0 ms extra exporting [5044/5044 mappings]. Threads: 2:37 min total, 51.9 sec processing.
+[2021.04.20-16.32.11:619][346]LogStaticLightingSystem: NewYork_Level_BuiltData storing lightmap data for 135 meshes in 4 LightmapResourceClusters (33.8 Meshes per cluster).
+[2021.04.20-16.32.11:663][346]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2021.04.20-16.32.11:891][346]LogStaticLightingSystem: Illumination: 27.2 sec (177 ms encoding lightmaps, 174 ms encoding shadowmaps)
+[2021.04.20-16.32.11:891][346]LogStaticLightingSystem: Lightmap texture memory:  4.1 MB (0.1 MB streaming, 4.0 MB non-streaming), 8 textures
+[2021.04.20-16.32.11:891][346]LogStaticLightingSystem: Shadowmap texture memory: 5.3 MB (0.0 MB streaming, 5.3 MB non-streaming), 1 textures
+[2021.04.20-16.32.12:294][346]DumpUnbuiltLightIteractions
+[2021.04.20-16.32.12:294][346]Lights with unbuilt interactions: 0
+[2021.04.20-16.32.12:294][346]
+[2021.04.20-16.32.12:294][346]Primitives with unbuilt interactions: 0
+[2021.04.20-16.32.12:370][347]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.04.20-16.32.12:370][347]MapCheck: New page: NewYork_Level - Apr 20, 2021, 8:32:12 PM
+[2021.04.20-16.32.12:371][347]MapCheck: Warning: Floor Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2021.04.20-16.32.12:373][347]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 1.799ms to complete.
+[2021.04.20-16.32.16:206][709]LogSlate: Window 'Message Log' being destroyed
+[2021.04.20-16.32.16:209][709]LogSlate: Window 'Message Log' being destroyed
+[2021.04.20-16.32.41:629][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.04.20-16.32.42:200][737]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level20E0592E4749D31742CB8A9EFB6FE47D.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.20-16.32.42:286][737]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level_BuiltData63352CF2467EE7BA391320B0D9E39A04.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level_BuiltData.uasset'
+[2021.04.20-16.32.42:298][737]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.20-16.32.42:298][737]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.20-16.32.42:298][737]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/NewYork_Level_BuiltData.NewYork_Level_BuiltData
+[2021.04.20-16.33.05:805][534]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.20-16.33.05:809][534]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.20-16.33.05:809][534]PIE: New page: PIE session: NewYork_Level (Apr 20, 2021, 8:33:05 PM)
+[2021.04.20-16.33.05:843][534]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.20-16.33.06:076][534]LogPlayLevel: PIE: StaticDuplicateObject took: (0.233912s)
+[2021.04.20-16.33.06:077][534]LogAIModule: Creating AISystem for world NewYork_Level
+[2021.04.20-16.33.06:077][534]LogPlayLevel: PIE: World Init took: (0.001182s)
+[2021.04.20-16.33.06:078][534]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewYork_Level.NewYork_Level to /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level (0.235295s)
+[2021.04.20-16.33.06:083][534]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2021.04.20-16.33.06:086][534]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2021.04.20-16.33.06:086][534]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.20-16.33.06:086][534]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.20-16.33.06:086][534]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.20-16.33.06:086][534]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.20-16.33.06:086][534]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.20-16.33.06:086][534]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.20-16.33.06:086][534]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.20-16.33.06:086][534]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.20-16.33.06:087][534]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.20-16.33.06:087][534]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.20-16.33.06:089][534]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.20-16.33.06:089][534]LogAudioMixer: Display: 1: FrontRight
+[2021.04.20-16.33.06:097][534]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2021.04.20-16.33.06:098][534]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.20-16.33.06:098][534]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.20-16.33.06:098][534]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.20-16.33.06:098][534]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.20-16.33.06:098][534]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.20-16.33.06:099][534]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.20-16.33.06:110][534]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.20-16.33.06:110][534]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.20-16.33.06:110][534]LogInit: FAudioDevice initialized.
+[2021.04.20-16.33.06:110][534]LogAudio: Display: Audio Device (ID: 28) registered with world 'NewYork_Level'.
+[2021.04.20-16.33.06:119][534]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.20-16.33.06:127][534]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level up for play (max tick rate 0) at 2021.04.20-18.33.06
+[2021.04.20-16.33.06:128][534]LogWorld: Bringing up level for play took: 0.008680
+[2021.04.20-16.33.06:128][534]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2021.04.20-16.33.06:132][534]PIE: Server logged in
+[2021.04.20-16.33.06:133][534]PIE: Play in editor total start time 0.324 seconds.
+[2021.04.20-16.33.10:294][ 26]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.20-16.33.10:294][ 26]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.20-16.33.10:294][ 26]LogWorld: UWorld::CleanupWorld for NewYork_Level, bSessionEnded=true, bCleanupResources=true
+[2021.04.20-16.33.10:295][ 26]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.20-16.33.10:307][ 26]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.20-16.33.10:319][ 26]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.20-16.33.10:325][ 26]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.20-16.33.10:326][ 26]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.20-16.33.10:327][ 26]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.20-16.33.10:340][ 26]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.20-16.33.10:346][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.04.20-16.33.10:369][ 27]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2021.04.20-16.33.17:066][805]Cmd: DELETE
+[2021.04.20-16.33.17:066][805]Cmd: ACTOR DELETE
+[2021.04.20-16.33.17:167][805]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.20-16.33.17:172][805]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.04.20-16.33.17:175][805]LogEditorActor: Deleted 1 Actors (0.108 secs)
+[2021.04.20-16.33.18:753][989]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.20-16.33.18:758][989]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.20-16.33.18:758][989]PIE: New page: PIE session: NewYork_Level (Apr 20, 2021, 8:33:18 PM)
+[2021.04.20-16.33.18:792][989]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.20-16.33.19:020][989]LogPlayLevel: PIE: StaticDuplicateObject took: (0.227207s)
+[2021.04.20-16.33.19:020][989]LogAIModule: Creating AISystem for world NewYork_Level
+[2021.04.20-16.33.19:021][989]LogPlayLevel: PIE: World Init took: (0.001120s)
+[2021.04.20-16.33.19:021][989]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewYork_Level.NewYork_Level to /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level (0.228520s)
+[2021.04.20-16.33.19:026][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.04.20-16.33.19:027][989]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2021.04.20-16.33.19:027][989]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.20-16.33.19:027][989]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.20-16.33.19:027][989]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.20-16.33.19:027][989]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.20-16.33.19:027][989]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.20-16.33.19:027][989]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.20-16.33.19:027][989]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.20-16.33.19:027][989]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.20-16.33.19:027][989]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.20-16.33.19:027][989]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.20-16.33.19:029][989]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.20-16.33.19:029][989]LogAudioMixer: Display: 1: FrontRight
+[2021.04.20-16.33.19:037][989]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2021.04.20-16.33.19:037][989]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.20-16.33.19:037][989]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.20-16.33.19:037][989]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.20-16.33.19:037][989]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.20-16.33.19:038][989]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.20-16.33.19:038][989]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.20-16.33.19:049][989]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.20-16.33.19:049][989]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.20-16.33.19:049][989]LogInit: FAudioDevice initialized.
+[2021.04.20-16.33.19:049][989]LogAudio: Display: Audio Device (ID: 29) registered with world 'NewYork_Level'.
+[2021.04.20-16.33.19:054][989]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.20-16.33.19:062][989]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level up for play (max tick rate 0) at 2021.04.20-18.33.19
+[2021.04.20-16.33.19:063][989]LogWorld: Bringing up level for play took: 0.008373
+[2021.04.20-16.33.19:063][989]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2021.04.20-16.33.19:067][989]PIE: Server logged in
+[2021.04.20-16.33.19:068][989]PIE: Play in editor total start time 0.311 seconds.
+[2021.04.20-16.33.21:413][265]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.20-16.33.21:413][265]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.20-16.33.21:414][265]LogWorld: UWorld::CleanupWorld for NewYork_Level, bSessionEnded=true, bCleanupResources=true
+[2021.04.20-16.33.21:415][265]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.20-16.33.21:421][265]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.20-16.33.21:424][265]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.20-16.33.21:428][265]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.20-16.33.21:430][265]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.20-16.33.21:431][265]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.20-16.33.21:448][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.04.20-16.33.21:490][267]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2021.04.20-16.33.23:011][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.04.20-16.33.23:579][447]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level73B07A88450425CA5F676E99260DAD57.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.20-16.33.23:667][447]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level_BuiltData767E80654EB4FD577D07F6933B3035A2.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level_BuiltData.uasset'
+[2021.04.20-16.33.23:680][447]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.20-16.33.23:680][447]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.20-16.33.23:680][447]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/NewYork_Level_BuiltData.NewYork_Level_BuiltData
+[2021.04.20-16.33.40:386][437]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.20-16.33.40:390][437]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.20-16.33.40:390][437]PIE: New page: PIE session: NewYork_Level (Apr 20, 2021, 8:33:40 PM)
+[2021.04.20-16.33.40:423][437]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.20-16.33.40:655][437]LogPlayLevel: PIE: StaticDuplicateObject took: (0.232661s)
+[2021.04.20-16.33.40:656][437]LogAIModule: Creating AISystem for world NewYork_Level
+[2021.04.20-16.33.40:656][437]LogPlayLevel: PIE: World Init took: (0.001152s)
+[2021.04.20-16.33.40:656][437]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewYork_Level.NewYork_Level to /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level (0.233999s)
+[2021.04.20-16.33.40:661][437]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2021.04.20-16.33.40:664][437]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2021.04.20-16.33.40:664][437]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.20-16.33.40:664][437]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.20-16.33.40:664][437]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.20-16.33.40:664][437]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.20-16.33.40:664][437]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.20-16.33.40:664][437]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.20-16.33.40:664][437]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.20-16.33.40:664][437]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.20-16.33.40:664][437]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.20-16.33.40:664][437]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.20-16.33.40:666][437]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.20-16.33.40:666][437]LogAudioMixer: Display: 1: FrontRight
+[2021.04.20-16.33.40:674][437]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2021.04.20-16.33.40:674][437]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.20-16.33.40:674][437]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.20-16.33.40:674][437]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.20-16.33.40:675][437]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.20-16.33.40:675][437]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.20-16.33.40:675][437]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.20-16.33.40:685][437]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.20-16.33.40:685][437]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.20-16.33.40:685][437]LogInit: FAudioDevice initialized.
+[2021.04.20-16.33.40:686][437]LogAudio: Display: Audio Device (ID: 30) registered with world 'NewYork_Level'.
+[2021.04.20-16.33.40:694][437]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.20-16.33.40:703][437]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level up for play (max tick rate 0) at 2021.04.20-18.33.40
+[2021.04.20-16.33.40:703][437]LogWorld: Bringing up level for play took: 0.008375
+[2021.04.20-16.33.40:703][437]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2021.04.20-16.33.40:707][437]PIE: Server logged in
+[2021.04.20-16.33.40:708][437]PIE: Play in editor total start time 0.319 seconds.
+[2021.04.20-16.33.42:864][691]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.20-16.33.42:864][691]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.20-16.33.42:864][691]LogWorld: UWorld::CleanupWorld for NewYork_Level, bSessionEnded=true, bCleanupResources=true
+[2021.04.20-16.33.42:865][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.20-16.33.42:876][691]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.20-16.33.42:879][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.20-16.33.42:884][691]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.20-16.33.42:886][691]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.20-16.33.42:887][691]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.20-16.33.42:905][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2021.04.20-16.33.42:945][693]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2021.04.20-16.33.56:659][323]Cmd: DUPLICATE
+[2021.04.20-16.33.56:659][323]Cmd: ACTOR DUPLICATE
+[2021.04.20-16.34.02:151][589]Cmd: TRANSACTION UNDO
+[2021.04.20-16.34.02:152][589]LogEditorTransaction: Undo Move Actors
+[2021.04.20-16.34.29:061][318]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2021.04.20-16.34.29:588][318]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level16AD77E8488BC75AAAF4F6AA7C6C6779.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.20-16.34.29:694][318]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level_BuiltData4F780C264CF34B405287BF9ED69C63FC.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level_BuiltData.uasset'
+[2021.04.20-16.34.29:712][318]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.20-16.34.29:712][318]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.20-16.34.29:712][318]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/NewYork_Level_BuiltData.NewYork_Level_BuiltData
+[2021.04.20-16.34.52:805][373]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh)
+[2021.04.20-16.35.01:264][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2021.04.20-16.35.01:796][159]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level805569BD4B313D07DF03D48693520323.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.20-16.35.01:883][159]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level_BuiltData5769E2A4457627AAA9944C90AE234E94.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level_BuiltData.uasset'
+[2021.04.20-16.35.01:903][159]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.20-16.35.01:903][159]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.20-16.35.01:904][159]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/NewYork_Level_BuiltData.NewYork_Level_BuiltData
+[2021.04.20-16.35.46:456][169]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.04.20-16.36.29:364][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2021.04.20-16.36.29:893][208]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_LevelC4FDE63B40BE5214115218A615B259BB.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.20-16.36.29:999][208]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level_BuiltData8CD65F0944840DBD8BE156A6B7F62FBC.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level_BuiltData.uasset'
+[2021.04.20-16.36.30:013][208]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.20-16.36.30:013][208]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.20-16.36.30:013][208]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/NewYork_Level_BuiltData.NewYork_Level_BuiltData
+[2021.04.20-16.36.48:158][644]Cmd: DUPLICATE
+[2021.04.20-16.36.48:158][644]Cmd: ACTOR DUPLICATE
+[2021.04.20-16.36.57:606][ 60]Cmd: DUPLICATE
+[2021.04.20-16.36.57:606][ 60]Cmd: ACTOR DUPLICATE
+[2021.04.20-16.37.01:516][175]Cmd: DUPLICATE
+[2021.04.20-16.37.01:516][175]Cmd: ACTOR DUPLICATE
+[2021.04.20-16.37.10:080][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2021.04.20-16.37.10:709][631]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level41F1B60C44C5B9D376A18F96BA298AA7.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.20-16.37.10:812][631]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level_BuiltDataF77DEDE5444702B8D10709BE92DD4188.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level_BuiltData.uasset'
+[2021.04.20-16.37.10:830][631]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.20-16.37.10:830][631]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.20-16.37.10:830][631]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/NewYork_Level_BuiltData.NewYork_Level_BuiltData
+[2021.04.20-16.37.36:785][ 66]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.20-16.37.36:790][ 66]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.20-16.37.36:790][ 66]PIE: New page: PIE session: NewYork_Level (Apr 20, 2021, 8:37:36 PM)
+[2021.04.20-16.37.36:822][ 66]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.20-16.37.37:065][ 66]LogPlayLevel: PIE: StaticDuplicateObject took: (0.242360s)
+[2021.04.20-16.37.37:065][ 66]LogAIModule: Creating AISystem for world NewYork_Level
+[2021.04.20-16.37.37:066][ 66]LogPlayLevel: PIE: World Init took: (0.001195s)
+[2021.04.20-16.37.37:066][ 66]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewYork_Level.NewYork_Level to /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level (0.243771s)
+[2021.04.20-16.37.37:077][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2021.04.20-16.37.37:083][ 66]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2021.04.20-16.37.37:083][ 66]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.20-16.37.37:083][ 66]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.20-16.37.37:083][ 66]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.20-16.37.37:083][ 66]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.20-16.37.37:083][ 66]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.20-16.37.37:083][ 66]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.20-16.37.37:083][ 66]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.20-16.37.37:083][ 66]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.20-16.37.37:083][ 66]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.20-16.37.37:083][ 66]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.20-16.37.37:086][ 66]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.20-16.37.37:086][ 66]LogAudioMixer: Display: 1: FrontRight
+[2021.04.20-16.37.37:094][ 66]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2021.04.20-16.37.37:094][ 66]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.20-16.37.37:094][ 66]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.20-16.37.37:094][ 66]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.20-16.37.37:095][ 66]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.20-16.37.37:095][ 66]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.20-16.37.37:095][ 66]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.20-16.37.37:107][ 66]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.20-16.37.37:107][ 66]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.20-16.37.37:107][ 66]LogInit: FAudioDevice initialized.
+[2021.04.20-16.37.37:107][ 66]LogAudio: Display: Audio Device (ID: 31) registered with world 'NewYork_Level'.
+[2021.04.20-16.37.37:114][ 66]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.20-16.37.37:127][ 66]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level up for play (max tick rate 0) at 2021.04.20-18.37.37
+[2021.04.20-16.37.37:127][ 66]LogWorld: Bringing up level for play took: 0.012144
+[2021.04.20-16.37.37:127][ 66]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2021.04.20-16.37.37:131][ 66]PIE: Server logged in
+[2021.04.20-16.37.37:132][ 66]PIE: Play in editor total start time 0.343 seconds.
+[2021.04.20-16.38.23:913][739]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.20-16.38.23:913][739]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.20-16.38.23:914][739]LogWorld: UWorld::CleanupWorld for NewYork_Level, bSessionEnded=true, bCleanupResources=true
+[2021.04.20-16.38.23:915][739]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.20-16.38.23:920][739]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.20-16.38.23:933][739]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.20-16.38.23:938][739]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.20-16.38.23:940][739]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.20-16.38.23:941][739]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.20-16.38.23:960][739]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2021.04.20-16.38.23:988][740]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2021.04.20-16.38.24:740][800]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.04.20-16.38.25:367][800]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level96BE1777496DA4372C1704821EF993B0.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.20-16.38.25:454][800]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level_BuiltData793A94384E62500CF52C7DB8B6C5FF8D.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level_BuiltData.uasset'
+[2021.04.20-16.38.25:472][800]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.20-16.38.25:472][800]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.20-16.38.25:472][800]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/NewYork_Level_BuiltData.NewYork_Level_BuiltData
+[2021.04.20-16.38.49:990][894]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.04.20-16.38.50:614][894]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level171F205347CDA4E7A0BBCA9802FF4DF6.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.20-16.38.50:703][894]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level_BuiltData9BCE40DE4A32A25A2F8E33AEB58B7621.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level_BuiltData.uasset'
+[2021.04.20-16.38.50:721][894]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.20-16.38.50:721][894]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.20-16.38.50:721][894]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/NewYork_Level_BuiltData.NewYork_Level_BuiltData
+[2021.04.20-16.39.20:496][312]Cmd: DUPLICATE
+[2021.04.20-16.39.20:496][312]Cmd: ACTOR DUPLICATE
+[2021.04.20-16.40.02:054][218]Cmd: DELETE
+[2021.04.20-16.40.02:054][218]Cmd: ACTOR DELETE
+[2021.04.20-16.40.02:222][218]LogEditorActor: Deleted Actor: Brush
+[2021.04.20-16.40.02:223][218]LogEditorActor: Deleted Actor: Brush
+[2021.04.20-16.40.02:223][218]LogEditorActor: Deleted Actor: Brush
+[2021.04.20-16.40.02:223][218]LogEditorActor: Deleted Actor: Brush
+[2021.04.20-16.40.02:223][218]LogEditorActor: Deleted Actor: Brush
+[2021.04.20-16.40.02:223][218]LogEditorActor: Deleted Actor: Brush
+[2021.04.20-16.40.02:241][218]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2021.04.20-16.40.02:920][218]LogEditorActor: Deleted 6 Actors (0.866 secs)
+[2021.04.20-16.40.17:025][677]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush268)
+[2021.04.20-16.40.20:416][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2021.04.20-16.40.21:117][853]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_LevelCC0A130F4526D215AFA01A98E02CA849.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.20-16.40.21:222][853]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level_BuiltData5A53FD1B436DABF69C4B8EAE31850CD2.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level_BuiltData.uasset'
+[2021.04.20-16.40.21:258][853]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.20-16.40.21:258][853]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.20-16.40.21:258][853]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/NewYork_Level_BuiltData.NewYork_Level_BuiltData
+[2021.04.20-16.40.51:776][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2021.04.20-16.40.52:483][105]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_LevelBEC117A04E72D4E3342431A780EE6D9C.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.20-16.40.52:570][105]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level_BuiltData354C2CBC4EE2A4EBFD968D9A13D9BF4C.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level_BuiltData.uasset'
+[2021.04.20-16.40.52:604][105]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.20-16.40.52:604][105]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.20-16.40.52:604][105]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/NewYork_Level_BuiltData.NewYork_Level_BuiltData
+[2021.04.20-16.41.14:633][934]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh)
+[2021.04.20-16.41.21:937][581]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.04.20-16.41.22:637][581]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level93863F544F002E74506032832A750856.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.20-16.41.22:725][581]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level_BuiltDataE21CA4BF45B606E1791D629620E828FA.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level_BuiltData.uasset'
+[2021.04.20-16.41.22:759][581]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.20-16.41.22:759][581]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.20-16.41.22:760][581]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/NewYork_Level_BuiltData.NewYork_Level_BuiltData
+[2021.04.20-16.41.58:054][464]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.04.20-16.41.58:757][464]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level485CD9454E1D167B675B809270E68B34.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.20-16.41.58:844][464]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level_BuiltData3B22EC8A47EAC47726B91C8EAC4B16DB.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level_BuiltData.uasset'
+[2021.04.20-16.41.58:890][464]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.20-16.41.58:890][464]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.20-16.41.58:890][464]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/NewYork_Level_BuiltData.NewYork_Level_BuiltData
+[2021.04.20-16.44.28:736][818]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.04.20-16.44.29:444][818]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level27B3AB304F064703319AC1979A499C73.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.20-16.44.29:530][818]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level_BuiltData4A9590B44D75765483D20EBD46E02968.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level_BuiltData.uasset'
+[2021.04.20-16.44.29:572][818]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.20-16.44.29:572][818]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.20-16.44.29:572][818]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/NewYork_Level_BuiltData.NewYork_Level_BuiltData
+[2021.04.20-16.45.02:159][299]Cmd: DUPLICATE
+[2021.04.20-16.45.02:160][299]Cmd: ACTOR DUPLICATE
+[2021.04.20-16.45.54:793][166]Cmd: DUPLICATE
+[2021.04.20-16.45.54:793][166]Cmd: ACTOR DUPLICATE
+[2021.04.20-16.46.11:966][513]Cmd: DUPLICATE
+[2021.04.20-16.46.11:966][513]Cmd: ACTOR DUPLICATE
+[2021.04.20-16.46.32:461][772]Cmd: TRANSACTION UNDO
+[2021.04.20-16.46.32:461][772]LogEditorTransaction: Undo Move Actors
+[2021.04.20-16.46.55:926][705]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2021.04.20-16.46.56:655][705]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_LevelC0471DA541B8E82C0250D5ACC88ED207.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.20-16.46.56:781][705]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level_BuiltDataDFDF4A3D4AE1AE1DB21E7A9D0420C82D.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level_BuiltData.uasset'
+[2021.04.20-16.46.56:805][705]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.20-16.46.56:805][705]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.20-16.46.56:805][705]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/NewYork_Level_BuiltData.NewYork_Level_BuiltData
+[2021.04.20-16.47.06:967][679]Cmd: DUPLICATE
+[2021.04.20-16.47.06:967][679]Cmd: ACTOR DUPLICATE
+[2021.04.20-16.47.21:629][827]Cmd: DELETE
+[2021.04.20-16.47.21:629][827]Cmd: ACTOR DELETE
+[2021.04.20-16.47.21:801][827]LogEditorActor: Deleted Actor: Brush
+[2021.04.20-16.47.21:801][827]LogEditorActor: Deleted Actor: Brush
+[2021.04.20-16.47.21:801][827]LogEditorActor: Deleted Actor: Brush
+[2021.04.20-16.47.21:801][827]LogEditorActor: Deleted Actor: Brush
+[2021.04.20-16.47.21:802][827]LogEditorActor: Deleted Actor: Brush
+[2021.04.20-16.47.21:802][827]LogEditorActor: Deleted Actor: Brush
+[2021.04.20-16.47.21:820][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2021.04.20-16.47.22:510][827]LogEditorActor: Deleted 6 Actors (0.880 secs)
+[2021.04.20-16.47.23:474][908]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2021.04.20-16.47.24:191][908]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level0871402A4275DB2503DE19A39FBE9C6B.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.20-16.47.24:294][908]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level_BuiltData9E2F893A42288E8140417F89D2A79847.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level_BuiltData.uasset'
+[2021.04.20-16.47.24:336][908]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.20-16.47.24:336][908]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.20-16.47.24:336][908]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/NewYork_Level_BuiltData.NewYork_Level_BuiltData
+[2021.04.20-16.47.42:758][757]Cmd: DUPLICATE
+[2021.04.20-16.47.42:758][757]Cmd: ACTOR DUPLICATE
+[2021.04.20-16.48.10:257][804]Cmd: DUPLICATE
+[2021.04.20-16.48.10:257][804]Cmd: ACTOR DUPLICATE
+[2021.04.20-16.48.36:226][801]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2021.04.20-16.48.36:958][801]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_LevelFE89447E43299A00DCDBCD808E6A3C07.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.20-16.48.37:066][801]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level_BuiltData595A545142A6139702BDEABF220958F4.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level_BuiltData.uasset'
+[2021.04.20-16.48.37:086][801]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.20-16.48.37:086][801]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.20-16.48.37:086][801]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/NewYork_Level_BuiltData.NewYork_Level_BuiltData
+[2021.04.20-16.48.43:668][535]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2021.04.20-16.48.44:386][535]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level2A3CD4154EE3589A532F32B79A811EED.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.20-16.48.44:472][535]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level_BuiltData2201B7B04DD8A1EF6FF4C0806DA8D261.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level_BuiltData.uasset'
+[2021.04.20-16.48.44:518][535]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.20-16.48.44:519][535]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.20-16.48.44:519][535]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/NewYork_Level_BuiltData.NewYork_Level_BuiltData
+[2021.04.20-16.49.12:947][272]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.04.20-16.49.13:669][272]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_LevelF71895F8479C19A6EA8087A08DF0211F.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.20-16.49.13:755][272]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level_BuiltDataE0A984744EF68D894A20C4A700FCCB6C.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level_BuiltData.uasset'
+[2021.04.20-16.49.13:796][272]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.20-16.49.13:797][272]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.20-16.49.13:797][272]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/NewYork_Level_BuiltData.NewYork_Level_BuiltData
+[2021.04.20-16.50.39:199][180]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.04.20-16.50.39:931][180]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level8F32BCD84C955F0C0E14D28A8B787CE2.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.20-16.50.40:019][180]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level_BuiltData1AD8FF14427114809002FA85D19037C0.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level_BuiltData.uasset'
+[2021.04.20-16.50.40:062][180]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.20-16.50.40:062][180]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.20-16.50.40:062][180]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/NewYork_Level_BuiltData.NewYork_Level_BuiltData
+[2021.04.20-16.51.05:144][591]Cmd: DUPLICATE
+[2021.04.20-16.51.05:144][591]Cmd: ACTOR DUPLICATE
+[2021.04.20-16.51.47:217][363]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh)
+[2021.04.20-16.51.50:133][658]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2021.04.20-16.51.50:868][658]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level800DBF294D3AE9FF1CAB2BB48AC181AA.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.20-16.51.50:962][658]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level_BuiltDataC7AC58AE4C5CF7A57BBCBB90E21C1489.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level_BuiltData.uasset'
+[2021.04.20-16.51.50:978][658]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.20-16.51.50:978][658]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.20-16.51.50:978][658]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/NewYork_Level_BuiltData.NewYork_Level_BuiltData
+[2021.04.20-16.51.58:322][355]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.20-16.51.58:327][355]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.20-16.51.58:327][355]PIE: New page: PIE session: NewYork_Level (Apr 20, 2021, 8:51:58 PM)
+[2021.04.20-16.51.58:362][355]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.20-16.51.58:648][355]LogPlayLevel: PIE: StaticDuplicateObject took: (0.285706s)
+[2021.04.20-16.51.58:649][355]LogAIModule: Creating AISystem for world NewYork_Level
+[2021.04.20-16.51.58:649][355]LogPlayLevel: PIE: World Init took: (0.001226s)
+[2021.04.20-16.51.58:649][355]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewYork_Level.NewYork_Level to /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level (0.287165s)
+[2021.04.20-16.51.58:657][355]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2021.04.20-16.51.58:662][355]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2021.04.20-16.51.58:663][355]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.20-16.51.58:663][355]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.20-16.51.58:663][355]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.20-16.51.58:663][355]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.20-16.51.58:663][355]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.20-16.51.58:663][355]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.20-16.51.58:663][355]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.20-16.51.58:663][355]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.20-16.51.58:663][355]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.20-16.51.58:663][355]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.20-16.51.58:666][355]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.20-16.51.58:666][355]LogAudioMixer: Display: 1: FrontRight
+[2021.04.20-16.51.58:674][355]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2021.04.20-16.51.58:674][355]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.20-16.51.58:674][355]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.20-16.51.58:674][355]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.20-16.51.58:674][355]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.20-16.51.58:674][355]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.20-16.51.58:674][355]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.20-16.51.58:686][355]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.20-16.51.58:686][355]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.20-16.51.58:686][355]LogInit: FAudioDevice initialized.
+[2021.04.20-16.51.58:686][355]LogAudio: Display: Audio Device (ID: 32) registered with world 'NewYork_Level'.
+[2021.04.20-16.51.58:693][355]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.20-16.51.58:705][355]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level up for play (max tick rate 0) at 2021.04.20-18.51.58
+[2021.04.20-16.51.58:705][355]LogWorld: Bringing up level for play took: 0.011842
+[2021.04.20-16.51.58:705][355]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2021.04.20-16.51.58:710][355]PIE: Server logged in
+[2021.04.20-16.51.58:711][355]PIE: Play in editor total start time 0.384 seconds.
+[2021.04.20-16.52.18:993][589]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.20-16.52.18:993][589]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.20-16.52.18:993][589]LogWorld: UWorld::CleanupWorld for NewYork_Level, bSessionEnded=true, bCleanupResources=true
+[2021.04.20-16.52.18:994][589]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.20-16.52.19:006][589]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.20-16.52.19:021][589]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.20-16.52.19:030][589]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.20-16.52.19:032][589]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.20-16.52.19:033][589]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.20-16.52.19:054][589]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2021.04.20-16.52.19:081][590]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2021.04.20-16.52.22:647][878]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.04.20-16.53.10:531][ 61]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.20-16.53.10:536][ 61]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.20-16.53.10:536][ 61]PIE: New page: PIE session: NewYork_Level (Apr 20, 2021, 8:53:10 PM)
+[2021.04.20-16.53.10:582][ 61]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.20-16.53.10:868][ 61]LogPlayLevel: PIE: StaticDuplicateObject took: (0.286187s)
+[2021.04.20-16.53.10:869][ 61]LogAIModule: Creating AISystem for world NewYork_Level
+[2021.04.20-16.53.10:869][ 61]LogPlayLevel: PIE: World Init took: (0.001196s)
+[2021.04.20-16.53.10:869][ 61]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewYork_Level.NewYork_Level to /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level (0.287610s)
+[2021.04.20-16.53.10:893][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2021.04.20-16.53.10:900][ 61]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2021.04.20-16.53.10:900][ 61]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.20-16.53.10:900][ 61]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.20-16.53.10:900][ 61]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.20-16.53.10:900][ 61]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.20-16.53.10:900][ 61]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.20-16.53.10:900][ 61]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.20-16.53.10:900][ 61]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.20-16.53.10:900][ 61]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.20-16.53.10:900][ 61]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.20-16.53.10:900][ 61]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.20-16.53.10:903][ 61]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.20-16.53.10:903][ 61]LogAudioMixer: Display: 1: FrontRight
+[2021.04.20-16.53.10:911][ 61]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2021.04.20-16.53.10:911][ 61]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.20-16.53.10:911][ 61]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.20-16.53.10:911][ 61]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.20-16.53.10:912][ 61]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.20-16.53.10:912][ 61]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.20-16.53.10:912][ 61]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.20-16.53.10:923][ 61]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.20-16.53.10:923][ 61]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.20-16.53.10:923][ 61]LogInit: FAudioDevice initialized.
+[2021.04.20-16.53.10:923][ 61]LogAudio: Display: Audio Device (ID: 33) registered with world 'NewYork_Level'.
+[2021.04.20-16.53.10:932][ 61]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.20-16.53.10:944][ 61]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level up for play (max tick rate 0) at 2021.04.20-18.53.10
+[2021.04.20-16.53.10:944][ 61]LogWorld: Bringing up level for play took: 0.011842
+[2021.04.20-16.53.10:944][ 61]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2021.04.20-16.53.10:948][ 61]PIE: Server logged in
+[2021.04.20-16.53.10:949][ 61]PIE: Play in editor total start time 0.414 seconds.
+[2021.04.20-16.53.23:983][439]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.20-16.53.23:983][439]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.20-16.53.23:983][439]LogWorld: UWorld::CleanupWorld for NewYork_Level, bSessionEnded=true, bCleanupResources=true
+[2021.04.20-16.53.23:984][439]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.20-16.53.23:990][439]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.20-16.53.24:004][439]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.20-16.53.24:014][439]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.20-16.53.24:018][439]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.20-16.53.24:019][439]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.20-16.53.24:040][439]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2021.04.20-16.53.24:066][440]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2021.04.20-16.54.27:528][180]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2021.04.20-16.54.28:253][180]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level536B0B55410E799D61BF3F9F2D49D91C.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.20-16.54.28:360][180]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level_BuiltData18BC1CC74981ED15F5EB4C8D297D329B.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level_BuiltData.uasset'
+[2021.04.20-16.54.28:381][180]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.20-16.54.28:381][180]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.20-16.54.28:381][180]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/NewYork_Level_BuiltData.NewYork_Level_BuiltData
+[2021.04.20-16.55.04:137][396]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2021.04.20-16.55.04:854][396]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level29D8EA204AC9B0AA5462628E4B5A41E3.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.20-16.55.04:955][396]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level_BuiltData0DD5B64240B927E94018FA83D38B2F3E.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level_BuiltData.uasset'
+[2021.04.20-16.55.04:994][396]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.20-16.55.04:994][396]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.20-16.55.04:994][396]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/NewYork_Level_BuiltData.NewYork_Level_BuiltData
+[2021.04.20-16.55.47:717][675]Cmd: DUPLICATE
+[2021.04.20-16.55.47:717][675]Cmd: ACTOR DUPLICATE
+[2021.04.20-16.56.31:839][431]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.20-16.56.31:844][431]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.20-16.56.31:845][431]PIE: New page: PIE session: NewYork_Level (Apr 20, 2021, 8:56:31 PM)
+[2021.04.20-16.56.31:882][431]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.20-16.56.32:171][431]LogPlayLevel: PIE: StaticDuplicateObject took: (0.289203s)
+[2021.04.20-16.56.32:172][431]LogAIModule: Creating AISystem for world NewYork_Level
+[2021.04.20-16.56.32:172][431]LogPlayLevel: PIE: World Init took: (0.001309s)
+[2021.04.20-16.56.32:172][431]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewYork_Level.NewYork_Level to /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level (0.290732s)
+[2021.04.20-16.56.32:215][431]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.04.20-16.56.32:222][431]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2021.04.20-16.56.32:222][431]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.20-16.56.32:222][431]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.20-16.56.32:222][431]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.20-16.56.32:222][431]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.20-16.56.32:222][431]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.20-16.56.32:222][431]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.20-16.56.32:222][431]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.20-16.56.32:222][431]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.20-16.56.32:222][431]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.20-16.56.32:222][431]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.20-16.56.32:225][431]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.20-16.56.32:225][431]LogAudioMixer: Display: 1: FrontRight
+[2021.04.20-16.56.32:233][431]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2021.04.20-16.56.32:234][431]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.20-16.56.32:234][431]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.20-16.56.32:234][431]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.20-16.56.32:234][431]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.20-16.56.32:234][431]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.20-16.56.32:234][431]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.20-16.56.32:246][431]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.20-16.56.32:246][431]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.20-16.56.32:246][431]LogInit: FAudioDevice initialized.
+[2021.04.20-16.56.32:246][431]LogAudio: Display: Audio Device (ID: 34) registered with world 'NewYork_Level'.
+[2021.04.20-16.56.32:252][431]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.20-16.56.32:264][431]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level up for play (max tick rate 0) at 2021.04.20-18.56.32
+[2021.04.20-16.56.32:264][431]LogWorld: Bringing up level for play took: 0.011798
+[2021.04.20-16.56.32:264][431]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2021.04.20-16.56.32:268][431]PIE: Server logged in
+[2021.04.20-16.56.32:269][431]PIE: Play in editor total start time 0.426 seconds.
+[2021.04.20-16.56.46:283][943]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.20-16.56.46:283][943]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.20-16.56.46:283][943]LogWorld: UWorld::CleanupWorld for NewYork_Level, bSessionEnded=true, bCleanupResources=true
+[2021.04.20-16.56.46:284][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.20-16.56.46:292][943]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.20-16.56.46:306][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.20-16.56.46:316][943]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.20-16.56.46:319][943]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.20-16.56.46:320][943]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.20-16.56.46:339][943]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2021.04.20-16.56.46:365][944]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2021.04.20-16.56.54:719][671]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2021.04.20-16.57.07:162][664]LogGeometryMode: Warning: Unable to find BoxBrush279 Brush(s) in new BSP
+[2021.04.20-16.57.07:162][664]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.04.20-16.57.15:737][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2021.04.20-16.57.16:473][266]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_LevelD9BC2B614611A86F32A7BABC03ACEEB6.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.20-16.57.16:590][266]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level_BuiltData1B1C039C4CB2DD63ED825D885C99D835.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level_BuiltData.uasset'
+[2021.04.20-16.57.16:613][266]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.20-16.57.16:613][266]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.20-16.57.16:613][266]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/NewYork_Level_BuiltData.NewYork_Level_BuiltData
+[2021.04.20-16.57.18:995][504]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2021.04.20-16.57.19:722][504]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_LevelEC3AD1F142767C2133AC62B802836C21.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.20-16.57.19:808][504]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level_BuiltData9CB366364EF3EC825372B5B0EF61FB44.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level_BuiltData.uasset'
+[2021.04.20-16.57.19:846][504]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.20-16.57.19:846][504]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.20-16.57.19:846][504]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/NewYork_Level_BuiltData.NewYork_Level_BuiltData
+[2021.04.20-16.57.21:207][639]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.20-16.57.21:213][639]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.20-16.57.21:213][639]PIE: New page: PIE session: NewYork_Level (Apr 20, 2021, 8:57:21 PM)
+[2021.04.20-16.57.21:242][639]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.20-16.57.21:532][639]LogPlayLevel: PIE: StaticDuplicateObject took: (0.289857s)
+[2021.04.20-16.57.21:533][639]LogAIModule: Creating AISystem for world NewYork_Level
+[2021.04.20-16.57.21:533][639]LogPlayLevel: PIE: World Init took: (0.001220s)
+[2021.04.20-16.57.21:533][639]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewYork_Level.NewYork_Level to /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level (0.291302s)
+[2021.04.20-16.57.21:539][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2021.04.20-16.57.21:541][639]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2021.04.20-16.57.21:541][639]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.20-16.57.21:541][639]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.20-16.57.21:541][639]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.20-16.57.21:541][639]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.20-16.57.21:541][639]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.20-16.57.21:541][639]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.20-16.57.21:541][639]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.20-16.57.21:541][639]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.20-16.57.21:541][639]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.20-16.57.21:541][639]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.20-16.57.21:543][639]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.20-16.57.21:543][639]LogAudioMixer: Display: 1: FrontRight
+[2021.04.20-16.57.21:551][639]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2021.04.20-16.57.21:551][639]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.20-16.57.21:551][639]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.20-16.57.21:551][639]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.20-16.57.21:552][639]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.20-16.57.21:552][639]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.20-16.57.21:552][639]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.20-16.57.21:563][639]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.20-16.57.21:563][639]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.20-16.57.21:563][639]LogInit: FAudioDevice initialized.
+[2021.04.20-16.57.21:563][639]LogAudio: Display: Audio Device (ID: 35) registered with world 'NewYork_Level'.
+[2021.04.20-16.57.21:575][639]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.20-16.57.21:589][639]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level up for play (max tick rate 0) at 2021.04.20-18.57.21
+[2021.04.20-16.57.21:589][639]LogWorld: Bringing up level for play took: 0.013910
+[2021.04.20-16.57.21:589][639]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2021.04.20-16.57.21:594][639]PIE: Server logged in
+[2021.04.20-16.57.21:595][639]PIE: Play in editor total start time 0.382 seconds.
+[2021.04.20-16.57.50:023][856]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.20-16.57.50:023][856]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.20-16.57.50:024][856]LogWorld: UWorld::CleanupWorld for NewYork_Level, bSessionEnded=true, bCleanupResources=true
+[2021.04.20-16.57.50:025][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.20-16.57.50:033][856]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.20-16.57.50:049][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.20-16.57.50:054][856]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.20-16.57.50:056][856]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.20-16.57.50:057][856]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.20-16.57.50:077][856]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2021.04.20-16.57.50:105][857]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2021.04.20-16.57.55:477][397]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.04.20-16.58.09:227][377]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.04.20-16.58.30:578][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2021.04.20-16.58.31:308][236]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level2FA072AE4D5051E520D704ADB89EDA2F.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.20-16.58.31:422][236]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level_BuiltData73FA85294666E70D3006ECAB9E70B7D3.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level_BuiltData.uasset'
+[2021.04.20-16.58.31:440][236]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.20-16.58.31:440][236]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.20-16.58.31:440][236]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/NewYork_Level_BuiltData.NewYork_Level_BuiltData
+[2021.04.20-16.58.31:950][292]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.20-16.58.31:955][292]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.20-16.58.31:955][292]PIE: New page: PIE session: NewYork_Level (Apr 20, 2021, 8:58:31 PM)
+[2021.04.20-16.58.31:982][292]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.20-16.58.32:266][292]LogPlayLevel: PIE: StaticDuplicateObject took: (0.284714s)
+[2021.04.20-16.58.32:267][292]LogAIModule: Creating AISystem for world NewYork_Level
+[2021.04.20-16.58.32:267][292]LogPlayLevel: PIE: World Init took: (0.001184s)
+[2021.04.20-16.58.32:268][292]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewYork_Level.NewYork_Level to /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level (0.286113s)
+[2021.04.20-16.58.32:278][292]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2021.04.20-16.58.32:284][292]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2021.04.20-16.58.32:284][292]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.20-16.58.32:284][292]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.20-16.58.32:284][292]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.20-16.58.32:284][292]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.20-16.58.32:284][292]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.20-16.58.32:284][292]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.20-16.58.32:284][292]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.20-16.58.32:284][292]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.20-16.58.32:285][292]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.20-16.58.32:285][292]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.20-16.58.32:287][292]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.20-16.58.32:287][292]LogAudioMixer: Display: 1: FrontRight
+[2021.04.20-16.58.32:295][292]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2021.04.20-16.58.32:295][292]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.20-16.58.32:295][292]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.20-16.58.32:295][292]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.20-16.58.32:295][292]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.20-16.58.32:295][292]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.20-16.58.32:295][292]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.20-16.58.32:307][292]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.20-16.58.32:307][292]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.20-16.58.32:307][292]LogInit: FAudioDevice initialized.
+[2021.04.20-16.58.32:307][292]LogAudio: Display: Audio Device (ID: 36) registered with world 'NewYork_Level'.
+[2021.04.20-16.58.32:313][292]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.20-16.58.32:326][292]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level up for play (max tick rate 0) at 2021.04.20-18.58.32
+[2021.04.20-16.58.32:327][292]LogWorld: Bringing up level for play took: 0.012764
+[2021.04.20-16.58.32:327][292]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2021.04.20-16.58.32:331][292]PIE: Server logged in
+[2021.04.20-16.58.32:332][292]PIE: Play in editor total start time 0.378 seconds.
+[2021.04.20-16.58.50:783][285]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.20-16.58.50:783][285]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.20-16.58.50:783][285]LogWorld: UWorld::CleanupWorld for NewYork_Level, bSessionEnded=true, bCleanupResources=true
+[2021.04.20-16.58.50:784][285]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.20-16.58.50:794][285]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.20-16.58.50:810][285]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.20-16.58.50:813][285]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.20-16.58.50:817][285]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.20-16.58.50:818][285]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.20-16.58.50:838][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2021.04.20-16.58.50:862][286]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2021.04.20-16.58.59:958][133]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.20-16.58.59:962][133]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.20-16.58.59:962][133]PIE: New page: PIE session: NewYork_Level (Apr 20, 2021, 8:58:59 PM)
+[2021.04.20-16.58.59:992][133]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.20-16.59.00:282][133]LogPlayLevel: PIE: StaticDuplicateObject took: (0.290505s)
+[2021.04.20-16.59.00:283][133]LogAIModule: Creating AISystem for world NewYork_Level
+[2021.04.20-16.59.00:283][133]LogPlayLevel: PIE: World Init took: (0.001186s)
+[2021.04.20-16.59.00:283][133]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewYork_Level.NewYork_Level to /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level (0.291892s)
+[2021.04.20-16.59.00:294][133]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2021.04.20-16.59.00:297][133]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2021.04.20-16.59.00:297][133]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.20-16.59.00:297][133]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.20-16.59.00:297][133]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.20-16.59.00:297][133]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.20-16.59.00:297][133]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.20-16.59.00:297][133]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.20-16.59.00:297][133]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.20-16.59.00:297][133]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.20-16.59.00:297][133]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.20-16.59.00:297][133]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.20-16.59.00:300][133]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.20-16.59.00:300][133]LogAudioMixer: Display: 1: FrontRight
+[2021.04.20-16.59.00:308][133]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2021.04.20-16.59.00:308][133]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.20-16.59.00:308][133]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.20-16.59.00:308][133]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.20-16.59.00:309][133]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.20-16.59.00:309][133]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.20-16.59.00:309][133]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.20-16.59.00:320][133]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.20-16.59.00:320][133]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.20-16.59.00:320][133]LogInit: FAudioDevice initialized.
+[2021.04.20-16.59.00:320][133]LogAudio: Display: Audio Device (ID: 37) registered with world 'NewYork_Level'.
+[2021.04.20-16.59.00:327][133]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.20-16.59.00:339][133]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewYork_Level.NewYork_Level up for play (max tick rate 0) at 2021.04.20-18.59.00
+[2021.04.20-16.59.00:340][133]LogWorld: Bringing up level for play took: 0.011925
+[2021.04.20-16.59.00:340][133]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2021.04.20-16.59.00:344][133]PIE: Server logged in
+[2021.04.20-16.59.00:345][133]PIE: Play in editor total start time 0.383 seconds.
+[2021.04.20-16.59.18:703][155]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.20-16.59.18:703][155]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewYork_Level
+[2021.04.20-16.59.18:704][155]LogWorld: UWorld::CleanupWorld for NewYork_Level, bSessionEnded=true, bCleanupResources=true
+[2021.04.20-16.59.18:705][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.20-16.59.18:717][155]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.20-16.59.18:733][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.20-16.59.18:744][155]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.20-16.59.18:746][155]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.20-16.59.18:747][155]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.20-16.59.18:759][155]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.20-16.59.18:766][155]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2021.04.20-16.59.18:790][156]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2021.04.20-16.59.21:627][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.04.20-16.59.22:343][466]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_LevelFED292AA4B835179B0FA71830AD413D9.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.20-16.59.22:445][466]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level_BuiltData2A6EE65B4DD8EFF5C4408098D1956B06.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level_BuiltData.uasset'
+[2021.04.20-16.59.22:487][466]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.20-16.59.22:488][466]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.20-16.59.22:488][466]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/NewYork_Level_BuiltData.NewYork_Level_BuiltData
+[2021.04.20-16.59.39:981][868]Cmd: TRANSACTION UNDO
+[2021.04.20-16.59.39:981][868]LogEditorTransaction: Undo Select Brush Surface
+[2021.04.20-16.59.42:250][978]Cmd: DUPLICATE
+[2021.04.20-16.59.42:250][978]Cmd: ACTOR DUPLICATE
+[2021.04.20-17.00.38:475][459]Cmd: TRANSACTION UNDO
+[2021.04.20-17.00.38:475][459]LogEditorTransaction: Undo Move Actors
+[2021.04.20-17.00.50:303][358]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2021.04.20-17.00.51:032][358]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_LevelC34F7CA54D1974103FA9C9B8ED6564BD.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.20-17.00.51:138][358]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level_BuiltData1C4C93234242CE096A191C9B3F7925E7.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level_BuiltData.uasset'
+[2021.04.20-17.00.51:152][358]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.20-17.00.51:152][358]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.20-17.00.51:152][358]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/NewYork_Level_BuiltData.NewYork_Level_BuiltData
+[2021.04.20-17.01.25:680][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2021.04.20-17.01.26:403][873]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_LevelBBCEB110441B3C7154E1F1932C50C4DC.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.20-17.01.26:508][873]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level_BuiltDataB5F212DF48A21AA161E20385956584A7.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level_BuiltData.uasset'
+[2021.04.20-17.01.26:559][873]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.20-17.01.26:559][873]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.20-17.01.26:559][873]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/NewYork_Level_BuiltData.NewYork_Level_BuiltData
+[2021.04.20-17.01.41:108][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2021.04.20-17.01.41:828][109]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_LevelA295421145846C10DD30339BDE9FB22D.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.20-17.01.41:915][109]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level_BuiltDataE1785CCC408A6FA0626A2799FC9D0B9A.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level_BuiltData.uasset'
+[2021.04.20-17.01.41:952][109]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.20-17.01.41:952][109]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.20-17.01.41:952][109]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/NewYork_Level_BuiltData.NewYork_Level_BuiltData
+[2021.04.20-17.03.10:002][175]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.04.20-17.03.10:725][175]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_LevelB6A272C842EE8E0F3B64F0AC23F3AC69.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level.umap'
+[2021.04.20-17.03.10:813][175]LogSavePackage: Moving '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Saved/NewYork_Level_BuiltData46D44FCC41A0AAB1FE1E24BF23547CED.tmp' to '../../../../../../Users/nadig/OneDrive/Documentos/GitHub/Unreal-Delivery2/IAmLegend/Content/Levels/NewYork_Level_BuiltData.uasset'
+[2021.04.20-17.03.10:867][175]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.20-17.03.10:867][175]LogContentValidation: Display: Validating World /Game/Levels/NewYork_Level.NewYork_Level
+[2021.04.20-17.03.10:867][175]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/NewYork_Level_BuiltData.NewYork_Level_BuiltData
